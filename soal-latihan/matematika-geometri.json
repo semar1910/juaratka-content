@@ -1,8 +1,8 @@
 {
   "mapel": "matematika",
   "topik": "geometri",
-  "count": 9,
-  "updated": "2026-07-13",
+  "count": 39,
+  "updated": "2026-07-19",
   "soal": [
     {
       "level": "dasar",
@@ -133,6 +133,498 @@
       ],
       "correct": 1,
       "pembahasan": "Volume balok = 20 × 10 × 8 = 1.600 cm³. Volume kubus = 6 × 6 × 6 = 216 cm³. Volume total = 1.600 + 216 = 1.816 cm³."
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah sedotan di dalam gelas terlihat miring, membentuk sudut 75° dengan permukaan meja. Sudut 75° termasuk jenis sudut ...",
+      "options": [
+        "Lancip",
+        "Siku-siku",
+        "Tumpul",
+        "Lurus"
+      ],
+      "answer": 0,
+      "explanation": "Sudut lancip besarnya kurang dari 90°. Karena 75° kurang dari 90°, maka termasuk sudut lancip.",
+      "level": "dasar",
+      "materi": "sudut"
+    },
+    {
+      "type": "mcq",
+      "question": "Pertemuan dua sisi buku di pojoknya membentuk sudut yang besarnya tepat 90°. Sudut seperti ini disebut sudut ...",
+      "options": [
+        "Lancip",
+        "Siku-siku",
+        "Tumpul",
+        "Lurus"
+      ],
+      "answer": 1,
+      "explanation": "Sudut yang besarnya tepat 90° disebut sudut siku-siku. Pojok buku, ubin, dan pertemuan dinding dengan lantai adalah contohnya.",
+      "level": "dasar",
+      "materi": "sudut"
+    },
+    {
+      "type": "mcq",
+      "question": "Sandaran sebuah kursi santai dimiringkan sehingga membentuk sudut 120° dengan alas duduknya. Sudut 120° termasuk jenis sudut ...",
+      "options": [
+        "Lancip",
+        "Siku-siku",
+        "Tumpul",
+        "Lurus"
+      ],
+      "answer": 2,
+      "explanation": "Sudut tumpul besarnya lebih dari 90° tetapi kurang dari 180°. Karena 120° berada di antara 90° dan 180°, maka termasuk sudut tumpul.",
+      "level": "dasar",
+      "materi": "sudut"
+    },
+    {
+      "type": "mcq",
+      "question": "Pada pukul 06.00, kedua jarum jam berada pada satu garis lurus. Sudut yang dibentuk kedua jarum jam sebesar ...",
+      "options": [
+        "90°",
+        "120°",
+        "180°",
+        "360°"
+      ],
+      "answer": 2,
+      "explanation": "Kedua jarum yang segaris lurus dan berlawanan arah membentuk sudut lurus, yaitu 180°.",
+      "level": "dasar",
+      "materi": "sudut"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah papan jungkat-jungkit membentuk sudut 130° dengan tiang penyangganya di satu sisi. Besar sudut di sisi lainnya (yang berpelurus dengan sudut tersebut) adalah ...",
+      "options": [
+        "40°",
+        "50°",
+        "60°",
+        "70°"
+      ],
+      "answer": 1,
+      "explanation": "Dua sudut yang berpelurus jumlahnya 180°. Sudut di sisi lain = 180° − 130° = 50°.",
+      "level": "dasar",
+      "materi": "sudut"
+    },
+    {
+      "type": "mcq",
+      "question": "Dua potong kayu disambung membentuk sudut siku-siku (90°). Jika salah satu bagian membentuk sudut 25°, maka sudut bagian lainnya (yang berpenyiku) adalah ...",
+      "options": [
+        "55°",
+        "65°",
+        "75°",
+        "85°"
+      ],
+      "answer": 1,
+      "explanation": "Dua sudut yang berpenyiku jumlahnya 90°. Sudut bagian lain = 90° − 25° = 65°.",
+      "level": "dasar",
+      "materi": "sudut"
+    },
+    {
+      "type": "mcq",
+      "question": "Jarum sebuah kompas berputar setengah putaran penuh. Besar sudut putaran yang ditempuh jarum adalah ...",
+      "options": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "answer": 1,
+      "explanation": "Satu putaran penuh 360°. Setengah putaran = 360° ÷ 2 = 180°.",
+      "level": "dasar",
+      "materi": "sudut"
+    },
+    {
+      "type": "mcq",
+      "question": "Seorang penari berputar seperempat putaran dari posisi menghadap depan. Besar sudut putaran yang ia lakukan adalah ...",
+      "options": [
+        "45°",
+        "60°",
+        "90°",
+        "120°"
+      ],
+      "answer": 2,
+      "explanation": "Satu putaran penuh 360°. Seperempat putaran = 360° ÷ 4 = 90°.",
+      "level": "dasar",
+      "materi": "sudut"
+    },
+    {
+      "type": "mcq",
+      "question": "Pada pukul 03.00, kedua jarum jam membentuk sudut sebesar ...",
+      "options": [
+        "30°",
+        "60°",
+        "90°",
+        "180°"
+      ],
+      "answer": 2,
+      "explanation": "Jarak antar-angka pada jam bernilai 30° (360° ÷ 12). Pukul 03.00 kedua jarum berjarak 3 angka, jadi 3 × 30° = 90°.",
+      "level": "dasar",
+      "materi": "sudut"
+    },
+    {
+      "type": "mcq",
+      "question": "Dua sudut saling berpelurus. Jika salah satu sudut besarnya 100°, maka sudut yang lain adalah ...",
+      "options": [
+        "70°",
+        "80°",
+        "90°",
+        "100°"
+      ],
+      "answer": 1,
+      "explanation": "Jumlah dua sudut berpelurus adalah 180°. Sudut yang lain = 180° − 100° = 80°.",
+      "level": "dasar",
+      "materi": "sudut"
+    },
+    {
+      "type": "mcq",
+      "question": "Garis AOB adalah sebuah garis lurus. Dari titik O ditarik sinar OC sehingga besar sudut AOC = 125°. Besar sudut BOC adalah ...",
+      "options": [
+        "45°",
+        "55°",
+        "65°",
+        "75°"
+      ],
+      "answer": 1,
+      "explanation": "Karena AOB garis lurus, ∠AOC + ∠BOC = 180° (berpelurus). ∠BOC = 180° − 125° = 55°.",
+      "level": "rutin",
+      "materi": "sudut",
+      "image": "sudut-aob-125.svg"
+    },
+    {
+      "type": "mcq",
+      "question": "Pada pukul 04.00, besar sudut terkecil yang dibentuk kedua jarum jam adalah ...",
+      "options": [
+        "90°",
+        "110°",
+        "120°",
+        "150°"
+      ],
+      "answer": 2,
+      "explanation": "Setiap angka pada jam berjarak 30°. Pukul 04.00 kedua jarum berjarak 4 angka, jadi 4 × 30° = 120°.",
+      "level": "rutin",
+      "materi": "sudut"
+    },
+    {
+      "type": "mcq",
+      "question": "Dua sudut saling berpelurus. Besar sudut pertama dua kali besar sudut kedua. Besar sudut pertama adalah ...",
+      "options": [
+        "60°",
+        "100°",
+        "120°",
+        "150°"
+      ],
+      "answer": 2,
+      "explanation": "Misal sudut kedua = x, sudut pertama = 2x. Berpelurus: 2x + x = 180° → 3x = 180° → x = 60°. Sudut pertama = 2 × 60° = 120°.",
+      "level": "rutin",
+      "materi": "sudut"
+    },
+    {
+      "type": "multiselect",
+      "question": "Perhatikan gambar. Seorang tukang menyandarkan tangga pada dinding untuk mengecat rumah. Sudut yang dibentuk tangga dengan lantai ditandai ∠A. Berapakah kemungkinan besar sudut A? Pilih semua jawaban yang benar!",
+      "options": [
+        "68°",
+        "72°",
+        "90°",
+        "115°",
+        "150°"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Tangga yang bersandar pada dinding membentuk sudut lancip (kurang dari 90°) dengan lantai. Yang memenuhi: 68° dan 72°. Jika 90° berarti tangga berdiri tegak (tidak bersandar); lebih dari 90° mustahil karena tangga akan condong menjauhi dinding.",
+      "level": "rutin",
+      "materi": "sudut",
+      "image": "sudut-tangga.png"
+    },
+    {
+      "type": "multiselect",
+      "question": "Perhatikan daftar besar sudut berikut. Pilih semua yang termasuk sudut tumpul!",
+      "options": [
+        "95°",
+        "120°",
+        "90°",
+        "150°",
+        "45°"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Sudut tumpul lebih dari 90° dan kurang dari 180°. Yang memenuhi: 95°, 120°, dan 150°. Sedangkan 90° siku-siku dan 45° lancip.",
+      "level": "rutin",
+      "materi": "sudut"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan pernyataan tentang jenis-jenis sudut berikut. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "Sudut 60° termasuk sudut lancip.",
+          "answer": true
+        },
+        {
+          "text": "Sudut 90° termasuk sudut tumpul.",
+          "answer": false
+        },
+        {
+          "text": "Sudut 180° termasuk sudut lurus.",
+          "answer": true
+        }
+      ],
+      "explanation": "60° kurang dari 90° → lancip (BENAR). 90° tepat 90° → siku-siku, bukan tumpul (SALAH). 180° → sudut lurus (BENAR).",
+      "level": "rutin",
+      "materi": "sudut"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah rambu lalu lintas berbentuk segitiga. Dua sudutnya masing-masing 50° dan 60°. Besar sudut ketiga rambu tersebut adalah ...",
+      "options": [
+        "60°",
+        "70°",
+        "80°",
+        "90°"
+      ],
+      "answer": 1,
+      "explanation": "Jumlah ketiga sudut dalam segitiga selalu 180°. Sudut ketiga = 180° − 50° − 60° = 70°.",
+      "level": "rutin",
+      "materi": "sudut"
+    },
+    {
+      "type": "mcq",
+      "question": "Sudut A berpenyiku dengan sudut 40°. Besar sudut pelurus dari sudut A adalah ...",
+      "options": [
+        "120°",
+        "130°",
+        "140°",
+        "150°"
+      ],
+      "answer": 1,
+      "explanation": "Sudut A berpenyiku dengan 40°, maka A = 90° − 40° = 50°. Pelurus dari A = 180° − 50° = 130°.",
+      "level": "rutin",
+      "materi": "sudut"
+    },
+    {
+      "type": "mcq",
+      "question": "Pada pukul 05.00, besar sudut terkecil yang dibentuk kedua jarum jam adalah ...",
+      "options": [
+        "120°",
+        "150°",
+        "180°",
+        "210°"
+      ],
+      "answer": 1,
+      "explanation": "Setiap angka berjarak 30°. Pukul 05.00 kedua jarum berjarak 5 angka, jadi 5 × 30° = 150°.",
+      "level": "rutin",
+      "materi": "sudut"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan pernyataan tentang sudut berpelurus dan berpenyiku berikut. Tentukan Benar atau Salah!",
+      "statements": [
+        {
+          "text": "Sudut yang berpelurus dengan 45° adalah 135°.",
+          "answer": true
+        },
+        {
+          "text": "Sudut yang berpenyiku dengan 45° adalah 55°.",
+          "answer": false
+        },
+        {
+          "text": "Jumlah dua sudut yang saling berpenyiku adalah 90°.",
+          "answer": true
+        }
+      ],
+      "explanation": "Pelurus 45° = 180° − 45° = 135° (BENAR). Penyiku 45° = 90° − 45° = 45°, bukan 55° (SALAH). Dua sudut berpenyiku selalu berjumlah 90° (BENAR).",
+      "level": "rutin",
+      "materi": "sudut"
+    },
+    {
+      "type": "multiselect",
+      "question": "Sebuah meja setrika yang baru dipakai terlihat pada gambar. Sudut yang terbentuk antara kaki meja dengan permukaan meja ditandai ∠A. Berapakah kemungkinan besar sudut A? Pilih semua jawaban yang benar!",
+      "options": [
+        "89°",
+        "75°",
+        "90°",
+        "100°",
+        "180°"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Sudut antara kaki dan permukaan meja setrika adalah sudut lancip (kurang dari 90°). Yang memenuhi: 89° dan 75°. Sedangkan 90° siku-siku, 100° tumpul, dan 180° lurus tidak sesuai bentuk meja setrika.",
+      "level": "ujian",
+      "materi": "sudut",
+      "image": "sudut-meja-setrika.png"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah jalur kursi roda (ramp) di depan sekolah dibuat landai agar mudah dan aman dilewati. Sudut antara ramp dengan lantai dibuat sekecil mungkin. Manakah besar sudut ramp yang paling masuk akal?",
+      "options": [
+        "8°",
+        "45°",
+        "90°",
+        "120°"
+      ],
+      "answer": 0,
+      "explanation": "Makin kecil sudutnya, makin landai dan aman ramp dilewati. Sudut 8° paling landai. 45° terlalu curam, 90° berarti tegak seperti dinding, dan 120° mustahil untuk sebuah ramp.",
+      "level": "ujian",
+      "materi": "sudut",
+      "image": "sudut-ramp-kursiroda.png"
+    },
+    {
+      "type": "truefalse",
+      "question": "Sebuah jam dinding terpasang di ruang kelas seperti pada gambar. Bu Guru menanyakan sudut yang dibentuk kedua jarum jam pada beberapa waktu. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "Pada pukul 03.00, kedua jarum membentuk sudut siku-siku.",
+          "answer": true
+        },
+        {
+          "text": "Pada pukul 10.00, kedua jarum membentuk sudut lancip.",
+          "answer": true
+        },
+        {
+          "text": "Pada pukul 06.00, kedua jarum membentuk sudut tumpul.",
+          "answer": false
+        }
+      ],
+      "explanation": "Tiap angka berjarak 30°. Pukul 03.00 → 3 × 30° = 90° siku-siku (BENAR). Pukul 10.00 → jarak terkecil 2 angka = 60° lancip (BENAR). Pukul 06.00 → 6 × 30° = 180°, itu sudut lurus bukan tumpul (SALAH).",
+      "level": "ujian",
+      "materi": "sudut",
+      "image": "sudut-jam-dinding.png"
+    },
+    {
+      "type": "multiselect",
+      "question": "Seorang anak membuat layang-layang berbentuk segiempat. Tiga sudutnya berturut-turut 90°, 75°, dan 90°. Pilih semua pernyataan yang benar!",
+      "options": [
+        "Sudut keempat layang-layang besarnya 105°.",
+        "Layang-layang tersebut memiliki sudut tumpul.",
+        "Semua sudut layang-layang termasuk sudut lancip.",
+        "Jumlah keempat sudut layang-layang adalah 360°."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Jumlah sudut segiempat 360°. Sudut keempat = 360° − 90° − 75° − 90° = 105° (benar). 105° lebih dari 90° → tumpul, jadi ada sudut tumpul (benar). Karena ada sudut 90° dan 105°, tidak semua sudut lancip (salah). Jumlah keempat sudut segiempat memang 360° (benar).",
+      "level": "ujian",
+      "materi": "sudut",
+      "image": "sudut-layangan.png"
+    },
+    {
+      "type": "mcq",
+      "question": "Rina mulai les pukul 02.00 dan selesai pukul 05.00. Selisih antara sudut jarum jam saat selesai les dengan sudut jarum jam saat mulai les adalah ...",
+      "options": [
+        "60°",
+        "90°",
+        "120°",
+        "150°"
+      ],
+      "answer": 1,
+      "explanation": "Pukul 02.00 → 2 × 30° = 60°. Pukul 05.00 → 5 × 30° = 150°. Selisih = 150° − 60° = 90°.",
+      "level": "ujian",
+      "materi": "sudut"
+    },
+    {
+      "type": "multiselect",
+      "question": "Perhatikan berbagai sudut yang terbentuk di sekitar kita. Pilih semua yang membentuk sudut siku-siku (90°)!",
+      "options": [
+        "Pertemuan dua sisi buku di pojoknya.",
+        "Kedua jarum jam pada pukul 03.00.",
+        "Kedua jarum jam pada pukul 06.00.",
+        "Dua sudut berpenyiku yang digabungkan."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Pojok buku membentuk 90° (benar). Pukul 03.00 → 3 × 30° = 90° (benar). Pukul 06.00 → 6 × 30° = 180°, sudut lurus (salah). Dua sudut berpenyiku bila digabung jumlahnya 90° (benar).",
+      "level": "ujian",
+      "materi": "sudut"
+    },
+    {
+      "type": "truefalse",
+      "question": "Dua sudut saling berpelurus. Sudut pertama besarnya x dan sudut kedua besarnya 2x. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "Besar sudut pertama adalah 60°.",
+          "answer": true
+        },
+        {
+          "text": "Besar sudut kedua adalah 100°.",
+          "answer": false
+        },
+        {
+          "text": "Sudut kedua termasuk sudut tumpul.",
+          "answer": true
+        }
+      ],
+      "explanation": "Berpelurus: x + 2x = 180° → 3x = 180° → x = 60°. Sudut pertama 60° (BENAR). Sudut kedua = 2 × 60° = 120°, bukan 100° (SALAH). 120° lebih dari 90° → tumpul (BENAR).",
+      "level": "ujian",
+      "materi": "sudut"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah tenda berbentuk segitiga sama kaki. Sudut di puncak tenda besarnya 40°, dan dua sudut di bagian alasnya sama besar. Berapa besar tiap sudut alas tenda?",
+      "options": [
+        "60°",
+        "70°",
+        "80°",
+        "110°"
+      ],
+      "answer": 1,
+      "explanation": "Jumlah sudut segitiga 180°. Kedua sudut alas sama besar, maka jumlahnya = 180° − 40° = 140°. Tiap sudut alas = 140° ÷ 2 = 70°.",
+      "level": "ujian",
+      "materi": "sudut",
+      "image": "sudut-tenda.png"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan gambar. Garis AOB adalah garis lurus. Dari titik O ditarik sinar OC sehingga ∠AOC = 125°, dan sinar OD sehingga ∠BOD = 40°. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "Besar sudut BOC adalah 55°.",
+          "answer": true
+        },
+        {
+          "text": "Besar sudut AOD adalah 140°.",
+          "answer": true
+        },
+        {
+          "text": "Besar sudut COD adalah 20°.",
+          "answer": false
+        }
+      ],
+      "explanation": "∠BOC = 180° − 125° = 55° (BENAR). ∠AOD = 180° − 40° = 140° (BENAR). ∠COD = 180° − 125° − 40° = 15°, bukan 20° (SALAH).",
+      "level": "ujian",
+      "materi": "sudut",
+      "image": "sudut-aob-oc-od.svg"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan gambar. Garis PQ adalah garis lurus dengan titik O di atasnya. Dari O ditarik sinar OR sehingga ∠POR = 65°, dan sinar OS sehingga ∠QOS = 35°. Kedua sinar berada di sisi yang sama terhadap garis PQ. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "Besar sudut ROQ adalah 115°.",
+          "answer": true
+        },
+        {
+          "text": "Besar sudut ROS adalah 80°.",
+          "answer": true
+        },
+        {
+          "text": "Sudut POR dan sudut QOS jika dijumlahkan membentuk sudut siku-siku.",
+          "answer": false
+        }
+      ],
+      "explanation": "∠ROQ = 180° − ∠POR = 180° − 65° = 115° (BENAR). ∠ROS = 180° − 65° − 35° = 80° (BENAR). ∠POR + ∠QOS = 65° + 35° = 100°, bukan 90° (SALAH).",
+      "level": "ujian",
+      "materi": "sudut",
+      "image": "sudut-pq-or-os.svg"
     }
   ]
 }
