@@ -1,0 +1,138 @@
+{
+  "mapel": "matematika",
+  "topik": "geometri",
+  "count": 9,
+  "updated": "2026-07-13",
+  "soal": [
+    {
+      "level": "dasar",
+      "mapel": "Matematika · Geometri",
+      "question": "Bangun ruang yang memiliki 6 sisi, 8 titik sudut, dan 12 rusuk adalah...",
+      "options": [
+        "Prisma segitiga",
+        "Kubus",
+        "Limas segiempat",
+        "Bola"
+      ],
+      "correct": 1,
+      "pembahasan": "Kubus memiliki 6 sisi persegi, 8 titik sudut, dan 12 rusuk yang semuanya sama panjang."
+    },
+    {
+      "level": "dasar",
+      "mapel": "Matematika · Geometri",
+      "question": "Luas persegi panjang dengan panjang 15 cm dan lebar 8 cm adalah...",
+      "options": [
+        "23 cm²",
+        "46 cm²",
+        "120 cm²",
+        "240 cm²"
+      ],
+      "correct": 2,
+      "pembahasan": "Luas persegi panjang = panjang × lebar = 15 × 8 = 120 cm²."
+    },
+    {
+      "level": "dasar",
+      "mapel": "Matematika · Geometri",
+      "question": "Segitiga sama sisi memiliki berapa sumbu simetri?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 2,
+      "pembahasan": "Segitiga sama sisi memiliki 3 sumbu simetri, satu untuk setiap tinggi dari titik sudut ke sisi di depannya."
+    },
+    {
+      "level": "rutin",
+      "mapel": "Matematika · Geometri",
+      "question": "Sebuah tumpukan kubus disusun seperti tangga: lapisan paling bawah berisi 6 kubus, lapisan tengah 4 kubus, dan lapisan atas 2 kubus. Berapakah jumlah seluruh kubus dalam tumpukan tersebut?",
+      "options": [
+        "9 buah",
+        "12 buah",
+        "14 buah",
+        "16 buah"
+      ],
+      "correct": 1,
+      "pembahasan": "Total = jumlah kubus tiap lapisan = 6 + 4 + 2 = 12 buah kubus."
+    },
+    {
+      "format": "tf",
+      "level": "ujian",
+      "mapel": "Matematika · Geometri",
+      "question": "Sebuah bangun segi delapan digambar pada grid kotak-kotak berukuran 6×6, dengan bentuk simetris di tengah. Bangun ini bisa disusun dari beberapa bangun datar. Tentukan MUNGKIN atau TIDAK MUNGKIN untuk setiap kumpulan penyusun:",
+      "statements": [
+        {
+          "text": "12 segi empat dan 4 segitiga.",
+          "correct": true
+        },
+        {
+          "text": "2 persegi panjang dan 2 trapesium.",
+          "correct": false
+        },
+        {
+          "text": "1 persegi dan 4 segitiga siku-siku.",
+          "correct": false
+        }
+      ],
+      "pembahasan": "Segi delapan pada grid dapat disusun dari 12 persegi satuan di bagian tengah ditambah 4 segitiga siku-siku di keempat sudut (MUNGKIN). Kombinasi 2 persegi panjang + 2 trapesium tidak cocok karena sisi-sisinya tidak akan pas (TIDAK MUNGKIN). Kombinasi 1 persegi + 4 segitiga hanya cukup untuk membentuk oktagon kecil, tidak sesuai ukuran soal (TIDAK MUNGKIN)."
+    },
+    {
+      "format": "multi",
+      "level": "ujian",
+      "mapel": "Matematika · Geometri",
+      "question": "Sebuah meja setrika memiliki dua kaki yang menyilang seperti huruf X dengan permukaan meja datar di atas. Sudut A adalah sudut yang terbentuk antara kaki meja dengan permukaan meja bagian atas. Karena kaki meja miring naik ke atas, sudut A ini adalah sudut LANCIP (kurang dari 90°). Berapakah kemungkinan besar sudut A? (Pilih semua yang benar)",
+      "options": [
+        "89°",
+        "75°",
+        "90°",
+        "100°",
+        "180°"
+      ],
+      "correct": [
+        0,
+        1
+      ],
+      "pembahasan": "Sudut lancip adalah sudut yang besarnya kurang dari 90°. Dari pilihan: 89° lancip ✓, 75° lancip ✓, 90° siku-siku (bukan lancip), 100° tumpul, 180° lurus. Jawaban: 89° dan 75°."
+    },
+    {
+      "level": "ujian",
+      "mapel": "Matematika · Geometri",
+      "question": "Pak Ujang membangun kandang ayam berbentuk huruf L. Ukuran keseluruhan: bagian atas 10 m × 4 m, bagian menonjol keluar 3 m × 2 m. Pak Ujang akan memasang pagar bambu di sekeliling kandang. Berapa panjang total pagar yang dibutuhkan?",
+      "options": [
+        "28 m",
+        "32 m",
+        "38 m",
+        "42 m"
+      ],
+      "correct": 1,
+      "pembahasan": "Sisi tak berlabel: atas kiri = 10 − 3 = 7 m, sisi kiri panjang = 4 + 2 = 6 m. Keliling = 10 + 4 + 3 + 2 + 7 + 6 = 32 m. Rumus praktis bentuk L: K = 2 × panjang total + 2 × lebar total = 2(10) + 2(6) = 32 m."
+    },
+    {
+      "level": "ujian",
+      "mapel": "Matematika · Geometri",
+      "question": "Kepala Desa merenovasi lapangan berbentuk persegi panjang panjang 20 m dan lebar 12 m, disambung dengan setengah lingkaran di ujungnya dengan diameter 12 m. Ia ingin menanam rumput hijau di seluruh permukaan lapangan. Harga rumput Rp25.000 per m². Berapa perkiraan biaya total? (π = 3,14)",
+      "options": [
+        "Rp6.000.000,00",
+        "Rp7.413.000,00",
+        "Rp8.420.000,00",
+        "Rp9.350.000,00"
+      ],
+      "correct": 1,
+      "pembahasan": "Luas persegi panjang = 20 × 12 = 240 m². Luas setengah lingkaran = ½ × π × r² = ½ × 3,14 × 6² = ½ × 3,14 × 36 = 56,52 m². Luas total = 240 + 56,52 = 296,52 m². Biaya = 296,52 × Rp25.000 = Rp7.413.000,00."
+    },
+    {
+      "level": "ujian",
+      "mapel": "Matematika · Geometri",
+      "question": "Bu Sinta membuat kue tart bertingkat. Bagian bawah berbentuk balok panjang 20 cm, lebar 10 cm, tinggi 8 cm. Bagian atas berbentuk kubus dengan sisi 6 cm. Berapa volume total adonan kue yang dibutuhkan?",
+      "options": [
+        "1.600 cm³",
+        "1.816 cm³",
+        "1.944 cm³",
+        "2.216 cm³"
+      ],
+      "correct": 1,
+      "pembahasan": "Volume balok = 20 × 10 × 8 = 1.600 cm³. Volume kubus = 6 × 6 × 6 = 216 cm³. Volume total = 1.600 + 216 = 1.816 cm³."
+    }
+  ]
+}

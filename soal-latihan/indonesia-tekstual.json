@@ -1,0 +1,44 @@
+{
+  "mapel": "indonesia",
+  "topik": "tekstual",
+  "count": 3,
+  "updated": "2026-07-13",
+  "soal": [
+    {
+      "mapel": "Indonesia · Pemahaman Tekstual",
+      "question": "Kata \"melestarikan\" pada kalimat \"Kita harus melestarikan hutan\" memiliki makna...",
+      "options": [
+        "merusak",
+        "menjaga agar tetap ada",
+        "menebang",
+        "menanam banyak"
+      ],
+      "correct": 1,
+      "pembahasan": "Melestarikan berarti menjaga sesuatu agar tetap ada, tidak hilang, atau tetap terjaga keberadaannya."
+    },
+    {
+      "mapel": "Indonesia · Pemahaman Tekstual",
+      "question": "Informasi tersurat dalam teks adalah informasi yang...",
+      "options": [
+        "harus disimpulkan sendiri",
+        "ditulis jelas dalam teks",
+        "tidak ada dalam teks",
+        "hanya boleh ditebak"
+      ],
+      "correct": 1,
+      "pembahasan": "Informasi tersurat adalah informasi yang tertulis atau disampaikan secara jelas dan eksplisit di dalam teks."
+    },
+    {
+      "mapel": "Indonesia · Pemahaman Tekstual",
+      "question": "Kata \"asri\" memiliki makna yang paling dekat dengan...",
+      "options": [
+        "ramai",
+        "indah dan segar",
+        "kotor",
+        "sepi"
+      ],
+      "correct": 1,
+      "pembahasan": "Kata \"asri\" bermakna indah, sedap dipandang, dan segar (biasanya untuk menggambarkan pemandangan atau lingkungan)."
+    }
+  ]
+}

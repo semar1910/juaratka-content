@@ -1,0 +1,135 @@
+{
+  "mapel": "indonesia",
+  "count": 8,
+  "updated": "2026-07-13",
+  "items": [
+    {
+      "id": "strategi-baca",
+      "title": "Strategi Baca Teks Panjang",
+      "desc": "Cara skim & scan wacana TKA yang panjang tanpa buang waktu.",
+      "status": "ready",
+      "isRemedial": true,
+      "practiceTopic": "tekstual",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Teks TKA panjang (5-10 paragraf). Kunci: jangan baca kata per kata di awal. Skim dulu untuk tahu isi umumnya.]",
+        "[Panel 2 — Trik SKIM: baca judul → kalimat pertama tiap paragraf → kalimat terakhir → kata bercetak tebal. 30 detik cukup.]",
+        "[Panel 3 — Setelah skim, baca soal dulu. Baru cari info di paragraf mana. Ini namanya SCAN.]",
+        "[Panel 4 — Tips waktu: 1 wacana = 5-7 menit maks. Kalau bingung 1 soal, tandai dan lanjut. Balik lagi kalau sisa waktu.]"
+      ],
+      "content": "\n          <h2>Strategi Baca Teks Panjang</h2>\n          <p><em>[Isi materi utuh di sini.]</em></p>\n          <h3>3 Langkah Bongkar Teks TKA</h3>\n          <ol>\n            <li><b>SKIM (30 detik)</b> — baca judul, kalimat pertama tiap paragraf, kata bold. Tujuan: tahu topik & alur umum.</li>\n            <li><b>BACA SOAL</b> — apa yang ditanya? Kata kunci apa?</li>\n            <li><b>SCAN</b> — cari kata kunci di paragraf terkait, baca teliti bagian itu saja.</li>\n          </ol>\n          <h3>Manajemen Waktu</h3>\n          <div class=\"example-box\"><b>1 wacana:</b> maks 5-7 menit.<br/><b>Bingung 1 soal:</b> tandai, lanjut. Balik kalau sisa waktu.<br/><b>Sisa 5 menit:</b> cek jawaban yang di-skip.</div>\n          <h3>Tips Fokus</h3>\n          <ul><li>[Tip 1: gunakan jari sebagai penuntun mata biar tidak lompat baris]</li><li>[Tip 2: jangan pernah baca ulang kalimat kecuali cari info spesifik]</li></ul>\n        "
+    },
+    {
+      "id": "kosakata-konteks",
+      "title": "Kosakata dalam Konteks",
+      "desc": "Cara tebak makna kata sulit dari kalimat sekitar — kata umum & khusus.",
+      "status": "ready",
+      "isRemedial": true,
+      "practiceTopic": "tekstual",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Kata sulit di TKA bukan buat dihafal. Kamu bisa tebak dari kalimat sekitar. Ini namanya \"konteks\".]",
+        "[Panel 2 — Kata umum: dipakai sehari-hari (rumah, mobil, sekolah). Kata khusus: istilah bidang tertentu (fotosintesis, ekosistem, imigrasi).]",
+        "[Panel 3 — Trik tebak: baca kalimat sebelum & sesudah. Contoh: \"Reptil seperti ular dan kadal berdarah dingin.\" Berarti \"reptil\" = kelompok hewan seperti ular/kadal.]",
+        "[Panel 4 — Tips: kalau soal tanya makna kata, JANGAN kira-kira. Baca ulang paragraf di sekitar kata itu, cari petunjuk.]"
+      ],
+      "content": "\n          <h2>Kosakata dalam Konteks</h2>\n          <p><em>[Isi materi utuh di sini.]</em></p>\n          <h3>Kata Umum vs Kata Khusus</h3>\n          <div class=\"example-box\"><b>Kata Umum:</b> dipakai sehari-hari — rumah, buku, mobil, sekolah.<br/><b>Kata Khusus:</b> istilah bidang tertentu — fotosintesis (biologi), ekosistem (lingkungan), inflasi (ekonomi), migrasi (kependudukan).</div>\n          <h3>Trik Tebak Makna dari Konteks</h3>\n          <ol>\n            <li>Baca kalimat yang mengandung kata sulit.</li>\n            <li>Baca 1 kalimat sebelum & sesudahnya.</li>\n            <li>Cari kata petunjuk: \"yaitu\", \"seperti\", \"misalnya\", \"artinya\".</li>\n            <li>Tebak makna. Cek di pilihan jawaban.</li>\n          </ol>\n          <h3>Contoh Mini</h3>\n          <div class=\"example-box\"><b>Teks:</b> \"Reptil seperti ular dan kadal adalah hewan berdarah dingin.\"<br/><b>Tanya:</b> Apa arti \"reptil\"?<br/><b>Jawab:</b> Kelompok hewan yang mencakup ular dan kadal. (Petunjuk: kata \"seperti\" + contoh)</div>\n        "
+    },
+    {
+      "id": "informasi-tersurat",
+      "title": "Mencari Informasi Tersurat",
+      "desc": "Cara temukan info yang jelas tertulis di teks — angka, nama, tempat, waktu.",
+      "status": "ready",
+      "isRemedial": false,
+      "practiceTopic": "tekstual",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Info tersurat = info yang JELAS TERTULIS di teks. Bukan tebakan. Bukan kesimpulan. Ada di kalimat langsung.]",
+        "[Panel 2 — Contoh info tersurat: nama tokoh, waktu kejadian, jumlah, tempat, sebab yang disebut jelas.]",
+        "[Panel 3 — Trik: kata kunci di soal HARUS ada di teks. Cari kata itu, baca 1-2 kalimat sekitarnya. Jawaban ada di situ.]",
+        "[Panel 4 — Jebakan: jangan pilih yang \"mirip\" tapi beda. Pilih yang PERSIS. Kalau ragu, cek ulang di teks.]"
+      ],
+      "content": "\n          <h2>Mencari Informasi Tersurat</h2>\n          <p><em>[Isi materi utuh di sini.]</em></p>\n          <h3>4 Langkah Cari Info Tersurat</h3>\n          <ol>\n            <li>Baca soal, identifikasi <b>kata kunci</b>.</li>\n            <li>Scan teks: cari kata kunci itu.</li>\n            <li>Baca 1-2 kalimat di sekitarnya dengan teliti.</li>\n            <li>Cocokkan dengan pilihan jawaban — pilih yang PERSIS.</li>\n          </ol>\n          <h3>Tabel Kata Kunci Umum</h3>\n          <div class=\"example-box\"><b>Tanya \"kapan\":</b> cari waktu/tanggal/pukul.<br/><b>Tanya \"siapa\":</b> cari nama orang/tokoh.<br/><b>Tanya \"di mana\":</b> cari nama tempat.<br/><b>Tanya \"berapa\":</b> cari angka.<br/><b>Tanya \"mengapa\":</b> cari sebab/alasan yang disebut jelas.</div>\n          <h3>Hati-hati Jebakan</h3>\n          <ul><li>[Tip 1: kata \"hampir sama\" ≠ jawaban. Pilih yang persis.]</li><li>[Tip 2: kalau ada 2 pilihan mirip, cek ulang di teks untuk yang PERSIS.]</li></ul>\n        "
+    },
+    {
+      "id": "ikhtisar-bagan",
+      "title": "Menyusun Kembali & Ikhtisar",
+      "desc": "Cara bikin ringkasan atau bagan alur dari teks yang sudah dibaca.",
+      "status": "ready",
+      "isRemedial": false,
+      "practiceTopic": "tekstual",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Ikhtisar = ringkasan pendek isi teks pakai kata-kata sendiri. Bagan = alur cerita/proses dalam bentuk kotak & panah.]",
+        "[Panel 2 — Ikhtisar bagus: 3-4 kalimat pendek. Ambil ide pokok tiap paragraf, gabungin.]",
+        "[Panel 3 — Bagan cocok untuk teks proses (cara buat sesuatu) atau cerita (awal → tengah → akhir).]",
+        "[Panel 4 — Tips soal TKA: kalau minta susun ulang urutan, cari kata \"pertama\", \"kemudian\", \"lalu\", \"akhirnya\".]"
+      ],
+      "content": "\n          <h2>Menyusun Kembali & Ikhtisar</h2>\n          <p><em>[Isi materi utuh di sini.]</em></p>\n          <h3>Cara Bikin Ikhtisar</h3>\n          <ol>\n            <li>Baca teks sekali penuh.</li>\n            <li>Cari ide pokok tiap paragraf (1 kalimat).</li>\n            <li>Gabungin ide-ide pokok jadi 3-4 kalimat.</li>\n            <li>Cek: apakah pembaca lain paham isinya tanpa baca aslinya?</li>\n          </ol>\n          <h3>Cara Bikin Bagan</h3>\n          <p>[Jelaskan bagan sebagai visualisasi alur atau proses. Contoh kotak-kotak dengan panah.]</p>\n          <div class=\"example-box\"><b>Bagan Cerita:</b> Awal → Konflik → Klimaks → Penyelesaian.<br/><b>Bagan Proses:</b> Bahan → Cara buat → Hasil.</div>\n          <h3>Kata Kunci Urutan</h3>\n          <p>Cari kata: <b>pertama</b>, <b>kemudian</b>, <b>lalu</b>, <b>setelah itu</b>, <b>akhirnya</b>.</p>\n        "
+    },
+    {
+      "id": "ide-pokok",
+      "title": "Ide Pokok & Gagasan Pendukung",
+      "desc": "Cara temukan kalimat utama vs kalimat penjelas dalam paragraf.",
+      "status": "ready",
+      "isRemedial": false,
+      "practiceTopic": "inferensial",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Ide pokok = gagasan utama paragraf. Ada di 1 kalimat, biasanya di awal atau akhir. Kalimat lain menjelaskan/mendukung.]",
+        "[Panel 2 — Trik cepat: tanya \"paragraf ini SEBENARNYA membahas apa?\" Jawabannya = ide pokok.]",
+        "[Panel 3 — Ide pokok biasanya kalimat paling UMUM. Kalimat penjelas biasanya KHUSUS (contoh, angka, detail).]",
+        "[Panel 4 — Jebakan: jangan pilih kalimat pertama begitu saja. Kadang ide pokok ada di akhir (induktif).]"
+      ],
+      "content": "\n          <h2>Ide Pokok & Gagasan Pendukung</h2>\n          <p><em>[Isi materi utuh di sini.]</em></p>\n          <h3>Cara Cepat Cari Ide Pokok</h3>\n          <ol>\n            <li>Baca seluruh paragraf.</li>\n            <li>Tanyakan: \"Paragraf ini <b>sebenarnya</b> membahas apa?\"</li>\n            <li>Jawaban singkat itulah ide pokok.</li>\n          </ol>\n          <h3>Letak Ide Pokok</h3>\n          <div class=\"example-box\"><b>Deduktif:</b> ide pokok di awal → penjelasan di bawahnya.<br/><b>Induktif:</b> penjelasan di awal → ide pokok di akhir (menyimpulkan).<br/><b>Campuran:</b> ide pokok di awal & diulang di akhir.</div>\n          <h3>Contoh Mini</h3>\n          <div class=\"example-box\"><b>Paragraf:</b> \"Membaca buku banyak manfaatnya. Kita jadi tahu hal baru. Otak jadi lebih tajam. Pikiran juga lebih tenang.\"<br/><b>Ide pokok:</b> Manfaat membaca buku (kalimat 1, deduktif).<br/><b>Gagasan pendukung:</b> pengetahuan baru, otak tajam, pikiran tenang.</div>\n        "
+    },
+    {
+      "id": "unsur-cerita",
+      "title": "Unsur Cerita Fiksi",
+      "desc": "Tokoh, latar, alur, amanat, dan nilai — perubahan karakter di sepanjang cerita.",
+      "status": "ready",
+      "isRemedial": false,
+      "practiceTopic": "inferensial",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Cerita fiksi selalu punya 5 unsur wajib: tokoh, latar, alur, amanat, dan nilai (moral).]",
+        "[Panel 2 — Tokoh: siapa yang bertindak. Latar: kapan & di mana. Alur: urutan kejadian. Amanat: pesan yang bisa diambil.]",
+        "[Panel 3 — Karakter tokoh: baik, jahat, egois, dermawan, dst. Perhatikan yang dilakukan tokoh, bukan yang dikatakan.]",
+        "[Panel 4 — Perubahan tokoh: awal cerita bagaimana, akhir bagaimana? Kalau berubah, itu ada pesan di baliknya.]"
+      ],
+      "content": "\n          <h2>Unsur Cerita Fiksi</h2>\n          <p><em>[Isi materi utuh di sini.]</em></p>\n          <h3>5 Unsur Wajib Cerita</h3>\n          <div class=\"example-box\"><b>Tokoh:</b> siapa yang berperan (utama & pendukung).<br/><b>Latar:</b> kapan (waktu) & di mana (tempat).<br/><b>Alur:</b> urutan kejadian (awal → tengah → akhir).<br/><b>Amanat:</b> pesan moral yang bisa diambil.<br/><b>Nilai:</b> pelajaran hidup (kejujuran, kerjasama, ketekunan, dst).</div>\n          <h3>Cara Analisis Karakter Tokoh</h3>\n          <ol>\n            <li>Perhatikan <b>tindakan</b> tokoh (yang paling penting).</li>\n            <li>Perhatikan ucapan & dialog.</li>\n            <li>Perhatikan komentar tokoh lain tentang dia.</li>\n          </ol>\n          <h3>Perubahan Tokoh</h3>\n          <p>[Jelaskan bagaimana tokoh bisa berubah — dari jahat jadi baik, dari egois jadi peduli, dsb. Perubahan ini biasanya jadi <b>amanat</b> cerita.]</p>\n        "
+    },
+    {
+      "id": "makna-ungkapan",
+      "title": "Makna Ungkapan & Peribahasa",
+      "desc": "Cara pahami ungkapan tersirat, peribahasa, dan majas dari konteks kalimat.",
+      "status": "ready",
+      "isRemedial": false,
+      "practiceTopic": "inferensial",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Ungkapan = kalimat yang maknanya BUKAN arti sebenarnya. Contoh: \"tangan panjang\" bukan tangan yang panjang, tapi suka mencuri.]",
+        "[Panel 2 — Peribahasa = kalimat pendek yang mengandung nasihat/perumpamaan. Contoh: \"Di mana bumi dipijak, di situ langit dijunjung.\"]",
+        "[Panel 3 — Trik pahami: baca konteks kalimat sekitarnya. Ungkapan biasanya menggambarkan sifat atau situasi.]",
+        "[Panel 4 — Tips soal: jangan translate literal. Pikirin: apa yang penulis MAKSUD, bukan yang penulis TULIS.]"
+      ],
+      "content": "\n          <h2>Makna Ungkapan & Peribahasa</h2>\n          <p><em>[Isi materi utuh di sini.]</em></p>\n          <h3>Perbedaan Ungkapan & Peribahasa</h3>\n          <div class=\"example-box\"><b>Ungkapan:</b> gabungan kata dengan makna baru (kiasan).<br/>Contoh: \"buah bibir\" = jadi pembicaraan orang.<br/><br/><b>Peribahasa:</b> kalimat singkat berisi nasihat/perumpamaan.<br/>Contoh: \"Sedikit demi sedikit, lama-lama menjadi bukit.\"</div>\n          <h3>Ungkapan Umum Kelas 6</h3>\n          <ul>\n            <li>[Isi contoh ungkapan + arti — misal \"tangan panjang\" = suka mencuri]</li>\n            <li>[Isi contoh 2]</li>\n            <li>[Isi contoh 3]</li>\n          </ul>\n          <h3>Peribahasa Umum Kelas 6</h3>\n          <ul>\n            <li>[Isi peribahasa + arti — misal \"Di mana bumi dipijak…\" = harus menghormati adat setempat]</li>\n            <li>[Isi peribahasa 2]</li>\n            <li>[Isi peribahasa 3]</li>\n          </ul>\n          <h3>Trik Baca di TKA</h3>\n          <p>Jangan translate literal. Cari konteks di kalimat sekitarnya. Pikir: apa yang penulis <b>maksud</b>, bukan yang <b>tulis</b>.</p>\n        "
+    },
+    {
+      "id": "menilai-teks",
+      "title": "Menilai & Menyimpulkan Teks",
+      "desc": "Cek kesesuaian info, kaitkan dengan kehidupan, dan rasakan respons emosional dari cerita.",
+      "status": "ready",
+      "isRemedial": false,
+      "practiceTopic": "evaluasi",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Soal evaluasi minta kamu MENILAI teks, bukan cuma paham. Tiga jenis: kesesuaian info, relevansi hidup, respons emosional.]",
+        "[Panel 2 — Cek KESESUAIAN: cocokkan info di paragraf 1 dengan paragraf lain. Ada yang bertentangan? Ada yang saling mendukung?]",
+        "[Panel 3 — Cek RELEVANSI: kaitkan cerita/situasi teks dengan kehidupan kamu. Pengalaman apa yang mirip?]",
+        "[Panel 4 — Cek EMOSI: kalau tokoh sedih, kamu ikut sedih? Kalau tokoh menang, kamu ikut senang? Ini penting untuk teks fiksi.]"
+      ],
+      "content": "\n          <h2>Menilai & Menyimpulkan Teks</h2>\n          <p><em>[Isi materi utuh di sini.]</em></p>\n          <h3>3 Jenis Soal Evaluasi</h3>\n          <div class=\"example-box\"><b>1. Kesesuaian info:</b> apakah semua paragraf saling mendukung? Ada yang bertentangan?<br/><b>2. Relevansi hidup:</b> apakah cerita/situasi mirip pengalaman sehari-hari?<br/><b>3. Respons emosional:</b> apa perasaan kamu setelah baca? Sedih? Senang? Terharu?</div>\n          <h3>Trik Cek Kesesuaian Info</h3>\n          <ol>\n            <li>Baca semua paragraf.</li>\n            <li>Kalau soal bilang \"sesuai dengan teks\" — cek apakah PERSIS ada di teks.</li>\n            <li>Kalau soal bilang \"sesuai dengan pengalaman\" — pilih yang paling logis buat anak SD.</li>\n          </ol>\n          <h3>Trik Respons Emosional</h3>\n          <p>Tokoh di posisi susah → mungkin kamu <b>iba</b>. Tokoh berhasil setelah usaha keras → mungkin kamu <b>bangga</b>. Ada kejutan menyenangkan → mungkin kamu <b>terkejut & senang</b>.</p>\n          <h3>Tips</h3>\n          <ul><li>[Tip 1: pilih emosi yang paling wajar buat cerita itu]</li><li>[Tip 2: kalau ragu, bayangkan kamu sebagai tokoh utama]</li></ul>\n        "
+    }
+  ]
+}

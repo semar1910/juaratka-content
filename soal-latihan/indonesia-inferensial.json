@@ -1,0 +1,44 @@
+{
+  "mapel": "indonesia",
+  "topik": "inferensial",
+  "count": 3,
+  "updated": "2026-07-13",
+  "soal": [
+    {
+      "mapel": "Indonesia · Pemahaman Inferensial",
+      "question": "Bacalah teks: \"Sinta selalu bangun pagi. Dia rajin membantu ibunya menyapu halaman sebelum berangkat sekolah.\" Ide pokok teks tersebut adalah...",
+      "options": [
+        "Sinta rajin bekerja",
+        "Sinta bangun pagi",
+        "Rutinitas Sinta di pagi hari",
+        "Sinta pergi ke sekolah"
+      ],
+      "correct": 2,
+      "pembahasan": "Ide pokok teks membahas keseluruhan tentang apa yang Sinta lakukan di pagi hari, yaitu rutinitasnya di pagi hari."
+    },
+    {
+      "mapel": "Indonesia · Pemahaman Inferensial",
+      "question": "Tokoh dalam cerita yang memiliki sifat baik hati dan suka menolong disebut tokoh...",
+      "options": [
+        "antagonis",
+        "protagonis",
+        "figuran",
+        "pembanding"
+      ],
+      "correct": 1,
+      "pembahasan": "Tokoh protagonis adalah tokoh utama yang biasanya memiliki sifat baik dan menjadi pusat cerita."
+    },
+    {
+      "mapel": "Indonesia · Pemahaman Inferensial",
+      "question": "Amanat/pesan yang bisa diambil dari cerita \"Kancil dan Buaya\" umumnya adalah...",
+      "options": [
+        "Bohong itu baik",
+        "Kita harus cerdik menghadapi masalah",
+        "Buaya jahat",
+        "Sungai berbahaya"
+      ],
+      "correct": 1,
+      "pembahasan": "Amanat cerita mengajarkan bahwa dengan kecerdikan, kita bisa menghadapi masalah atau bahaya dengan lebih baik."
+    }
+  ]
+}

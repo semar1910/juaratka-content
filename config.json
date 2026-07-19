@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-07-13",
+  "content": {
+    "materi": {
+      "matematika": 20,
+      "indonesia": 8
+    },
+    "soalLatihan": {
+      "matematika": {
+        "bilangan": 10,
+        "geometri": 9,
+        "pengukuran": 8,
+        "data": 8
+      },
+      "indonesia": {
+        "tekstual": 3,
+        "inferensial": 3,
+        "evaluasi": 3
+      }
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "mapel": "matematika",
+  "topik": "bilangan",
+  "count": 10,
+  "updated": "2026-07-13",
+  "soal": [
+    {
+      "level": "dasar",
+      "mapel": "Matematika · Bilangan",
+      "question": "Bentuk pecahan yang senilai dengan 3/4 adalah...",
+      "options": [
+        "6/12",
+        "9/12",
+        "4/6",
+        "2/3"
+      ],
+      "correct": 1,
+      "pembahasan": "3/4 = 3×3/4×3 = 9/12. Pecahan senilai dibuat dengan mengalikan pembilang dan penyebut dengan angka yang sama."
+    },
+    {
+      "level": "dasar",
+      "mapel": "Matematika · Bilangan",
+      "question": "KPK dari 12 dan 18 adalah...",
+      "options": [
+        "6",
+        "24",
+        "36",
+        "72"
+      ],
+      "correct": 2,
+      "pembahasan": "12 = 2² × 3, dan 18 = 2 × 3². KPK = 2² × 3² = 4 × 9 = 36."
+    },
+    {
+      "level": "dasar",
+      "mapel": "Matematika · Bilangan",
+      "question": "Hasil dari 2/3 + 1/4 adalah...",
+      "options": [
+        "3/7",
+        "3/12",
+        "11/12",
+        "8/12"
+      ],
+      "correct": 2,
+      "pembahasan": "Samakan penyebut ke 12: 2/3 = 8/12 dan 1/4 = 3/12. Jumlahnya = 8/12 + 3/12 = 11/12."
+    },
+    {
+      "level": "dasar",
+      "mapel": "Matematika · Bilangan",
+      "question": "Bu Rini membeli 2 sisir pisang yang berisi 20 buah. Setelah beberapa hari, beberapa pisang jadi busuk. Ia menghitung tersisa 14 buah pisang yang masih baik. Berapa banyak pisang yang busuk?",
+      "options": [
+        "16 buah",
+        "14 buah",
+        "6 buah",
+        "4 buah"
+      ],
+      "correct": 2,
+      "pembahasan": "Pisang busuk = jumlah awal − sisa yang baik = 20 − 14 = 6 buah."
+    },
+    {
+      "level": "rutin",
+      "mapel": "Matematika · Bilangan",
+      "question": "Hasil perhitungan dari 2½ + 3 × ¾ adalah...",
+      "options": [
+        "4¾",
+        "4¼",
+        "3¼",
+        "2¼"
+      ],
+      "correct": 0,
+      "pembahasan": "Aturan operasi: kali dulu sebelum tambah. 3 × ¾ = 9/4. Lalu 2½ + 9/4 = 5/2 + 9/4 = 10/4 + 9/4 = 19/4 = 4¾."
+    },
+    {
+      "format": "multi",
+      "level": "ujian",
+      "mapel": "Matematika · Bilangan",
+      "question": "Siska merapikan koleksi bukunya ke dalam beberapa kotak kecil. Setiap kotak harus diisi tepat 8 buku agar rapi dan tidak ada buku yang tersisa. Manakah dari pernyataan berikut yang menunjukkan jumlah total buku yang mungkin dimiliki Siska?",
+      "options": [
+        "24 buku",
+        "44 buku",
+        "56 buku"
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "pembahasan": "Jumlah buku harus kelipatan 8. Cek: 24 ÷ 8 = 3 (habis) ✓, 44 ÷ 8 = 5,5 (tidak habis) ✗, 56 ÷ 8 = 7 (habis) ✓. Jadi jawaban yang mungkin: 24 buku dan 56 buku."
+    },
+    {
+      "format": "tf",
+      "level": "ujian",
+      "mapel": "Matematika · Bilangan",
+      "question": "Petani baru saja memanen 36 ikat bayam, 27 ikat kangkung, dan 45 ikat kacang panjang. Ia akan mengemas semua sayuran itu ke beberapa wadah untuk dijual. Setiap wadah berisi ketiga jenis sayur, dan jumlah tiap jenis di setiap wadah sama.",
+      "statements": [
+        {
+          "text": "Petani dapat membuat 10 wadah sayuran.",
+          "correct": false
+        },
+        {
+          "text": "Setiap wadah berisi 4 ikat bayam.",
+          "correct": true
+        },
+        {
+          "text": "Setiap wadah berisi 3 ikat kacang panjang.",
+          "correct": false
+        }
+      ],
+      "pembahasan": "FPB(36, 27, 45) = 9, jadi wadah maksimum = 9 (bukan 10). Bayam per wadah = 36 ÷ 9 = 4 ikat ✓. Kacang panjang per wadah = 45 ÷ 9 = 5 ikat (bukan 3)."
+    },
+    {
+      "level": "ujian",
+      "mapel": "Matematika · Bilangan",
+      "question": "Empat peternak lebah mengumpulkan madu dengan berat berikut:<br/><br/><div class=\"q-scroll\"><table class=\"q-table\"><tr><th>Peternak</th><th>Berat Madu</th></tr><tr><td>A</td><td>0,8 kg</td></tr><tr><td>B</td><td>12/15 kg</td></tr><tr><td>C</td><td>8% kg</td></tr><tr><td>D</td><td>4/25 kg</td></tr></table></div><small><i>Keterangan: 8% kg artinya 8% dari 1 kg.</i></small><br/><br/>Pasangan peternak yang mendapatkan berat madu sama besar adalah...",
+      "options": [
+        "A dan B",
+        "B dan C",
+        "A dan C",
+        "B dan D"
+      ],
+      "correct": 0,
+      "pembahasan": "Konversi semua ke desimal: A = 0,8. B = 12/15 = 4/5 = 0,8. C = 8% × 1 = 0,08. D = 4/25 = 0,16. Yang sama besar: A dan B (keduanya 0,8 kg)."
+    },
+    {
+      "level": "ujian",
+      "mapel": "Matematika · Bilangan",
+      "question": "Empat siswa mengumpulkan sampah plastik dengan volume masing-masing (dalam bagian gelas ukur): Andi 2/3, Budi 3/4, Cika 3/5, Dina 5/6. Pak Guru ingin menyusun urutan siswa dari volume paling sedikit ke paling banyak. Urutan yang tepat adalah...",
+      "options": [
+        "Andi, Budi, Cika, Dina",
+        "Cika, Andi, Budi, Dina",
+        "Dina, Cika, Andi, Budi",
+        "Cika, Budi, Andi, Dina"
+      ],
+      "correct": 1,
+      "pembahasan": "Samakan penyebut dengan KPK(3,4,5,6) = 60. Andi = 2/3 = 40/60. Budi = 3/4 = 45/60. Cika = 3/5 = 36/60. Dina = 5/6 = 50/60. Urutan dari terkecil: Cika (36) < Andi (40) < Budi (45) < Dina (50)."
+    },
+    {
+      "format": "tf",
+      "level": "ujian",
+      "mapel": "Matematika · Bilangan",
+      "question": "Bu Lastri mencatat progres membaca 3 siswa. Rina sudah membaca 6/10 target. Dika sudah 60% target. Siti sudah 0,6 target. Tentukan benar atau salah untuk setiap pernyataan:",
+      "statements": [
+        {
+          "text": "Rina, Dika, dan Siti sudah membaca bagian yang sama dari target.",
+          "correct": true
+        },
+        {
+          "text": "Progres Rina dapat disederhanakan menjadi pecahan 3/5.",
+          "correct": true
+        },
+        {
+          "text": "Jika Anita membaca 2/5 dari target, ia sudah membaca sebanyak progres Siti.",
+          "correct": false
+        }
+      ],
+      "pembahasan": "Konversi: 6/10 = 60% = 0,6. Ketiganya sama besar (BENAR). 6/10 disederhanakan = 3/5 (BENAR). 2/5 = 0,4, sedangkan Siti = 0,6. Tidak sama (SALAH)."
+    }
+  ]
+}

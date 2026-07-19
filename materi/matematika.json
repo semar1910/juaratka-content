@@ -1,0 +1,343 @@
+{
+  "mapel": "matematika",
+  "count": 20,
+  "updated": "2026-07-13",
+  "items": [
+    {
+      "id": "nilai-tempat",
+      "title": "Nilai Tempat Bilangan",
+      "desc": "Baca angka besar — satuan, puluhan, ratusan, ribuan, sampai ratusan ribu.",
+      "status": "ready",
+      "isRemedial": true,
+      "practiceTopic": "bilangan",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Kenalkan konsep nilai tempat: setiap posisi angka punya nilai berbeda. Contoh: angka 3 di 300 nilainya 300, di 30 nilainya 30.]",
+        "[Panel 2 — Nama tempat dari kanan: satuan, puluhan, ratusan, ribuan, puluh ribuan, ratus ribuan, jutaan.]",
+        "[Panel 3 — Cara baca angka besar. Contoh: 45.000 dibaca \"empat puluh lima ribu\". 125.000 dibaca \"seratus dua puluh lima ribu\".]",
+        "[Panel 4 — Uraian panjang. Contoh: 45.000 = 4 × 10.000 + 5 × 1.000 = 40.000 + 5.000.]",
+        "[Panel 5 — Tips soal TKA: kalau soal punya angka besar (harga, jarak, populasi), baca pelan dari nilai tempat terbesar.]"
+      ],
+      "content": "\n          <h2>Nilai Tempat Bilangan</h2>\n          <p><em>[Isi materi utuh di sini.]</em></p>\n          <h3>Tabel Nilai Tempat</h3>\n          <div class=\"example-box\"><b>Ratus ribuan · Puluh ribuan · Ribuan · Ratusan · Puluhan · Satuan</b><br/>Contoh: 125.000 → 1 ratus ribuan, 2 puluh ribuan, 5 ribuan.</div>\n          <h3>Cara Baca Angka Besar</h3>\n          <p>[Jelaskan langkah baca dari kiri: berapa \"ribuan\", lalu ratusan-puluhan-satuan.]</p>\n          <h3>Uraian Panjang</h3>\n          <div class=\"formula-box\">45.000 = 40.000 + 5.000<br/>125.000 = 100.000 + 25.000</div>\n          <h3>Tips</h3>\n          <ul><li>[Tip 1: kelompokkan angka per 3 digit dari kanan]</li><li>[Tip 2: tanda titik (.) sebagai pemisah ribuan]</li></ul>\n        "
+    },
+    {
+      "id": "penjumlahan-pengurangan",
+      "title": "Penjumlahan & Pengurangan",
+      "desc": "Teknik simpan-pinjam angka besar — fondasi menghitung soal cerita.",
+      "status": "ready",
+      "isRemedial": true,
+      "practiceTopic": "bilangan",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Kenalkan penjumlahan sebagai \"menambah\". Ajarkan penjumlahan bersusun ke bawah dari satuan ke atas.]",
+        "[Panel 2 — Teknik simpan: kalau jumlah 1 kolom lebih dari 9, tulis satuannya, simpan puluhan ke kolom sebelahnya. Contoh: 27 + 15 = 42 (7+5=12, tulis 2, simpan 1).]",
+        "[Panel 3 — Kenalkan pengurangan sebagai \"mengambil\". Ajarkan pengurangan bersusun dari satuan ke atas.]",
+        "[Panel 4 — Teknik pinjam: kalau angka atas lebih kecil, pinjam 1 dari kolom sebelahnya. Contoh: 32 − 15 → pinjam 1 dari puluhan, jadi 12 − 5 = 7.]",
+        "[Panel 5 — Tips: hasil penjumlahan dan pengurangan bisa dicek balik. Contoh: 27 + 15 = 42, cek: 42 − 15 = 27. Semangat!]"
+      ],
+      "content": "\n          <h2>Penjumlahan & Pengurangan</h2>\n          <p><em>[Isi materi utuh di sini.]</em></p>\n          <h3>Penjumlahan Bersusun</h3>\n          <p>[Jelaskan cara menyusun angka dan menjumlah dari kolom satuan.]</p>\n          <div class=\"formula-box\">Contoh:<br/> &nbsp;&nbsp;27<br/>+15<br/>—<br/> &nbsp;&nbsp;42</div>\n          <h3>Teknik Simpan</h3>\n          <p>[Jelaskan kapan menyimpan angka ke kolom sebelahnya.]</p>\n          <h3>Pengurangan Bersusun</h3>\n          <div class=\"formula-box\">Contoh:<br/> &nbsp;&nbsp;32<br/>−15<br/>—<br/> &nbsp;&nbsp;17</div>\n          <h3>Teknik Pinjam</h3>\n          <p>[Jelaskan kapan meminjam dari kolom sebelahnya.]</p>\n          <h3>Tips Cek Jawaban</h3>\n          <div class=\"example-box\"><b>Cek balik:</b> Kalau 27 + 15 = 42, maka 42 − 15 harus = 27.</div>\n        "
+    },
+    {
+      "id": "perkalian-pembagian",
+      "title": "Perkalian & Pembagian",
+      "desc": "Fondasi menghitung cepat — dasar semua soal cerita TKA.",
+      "status": "ready",
+      "isRemedial": true,
+      "practiceTopic": "bilangan",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Kenalkan konsep perkalian sebagai penjumlahan berulang. Contoh: 3 × 4 = 4+4+4 = 12.]",
+        "[Panel 2 — Kenalkan pembagian sebagai kebalikan perkalian. Contoh: 12 ÷ 4 = 3 karena 4 × 3 = 12.]",
+        "[Panel 3 — Trik dekomposisi angka besar. Contoh: 25 × 8 = (20+5) × 8 = 160 + 40 = 200.]",
+        "[Panel 4 — Trik pembagian angka besar. Contoh: 126 ÷ 21 = pikirkan 21 × berapa = 126? Jawabnya 6.]",
+        "[Panel 5 — Tips cek jawaban: perkalian dan pembagian saling membalik. Semangat, kamu pasti bisa!]"
+      ],
+      "content": "\n          <h2>Perkalian & Pembagian</h2>\n          <p><em>[Isi materi utuh di sini. Bapak bisa pakai formula-box, example-box, dan h3.]</em></p>\n          <h3>Konsep Dasar</h3>\n          <p>[Jelaskan perkalian dan pembagian sebagai operasi berpasangan.]</p>\n          <div class=\"formula-box\">a × b = c  ↔  c ÷ b = a</div>\n          <h3>Contoh Soal Cerita</h3>\n          <div class=\"example-box\">\n            <b>Contoh:</b> [Isi contoh soal cerita di sini]\n          </div>\n          <h3>Tips</h3>\n          <ul>\n            <li>[Tip 1]</li>\n            <li>[Tip 2]</li>\n          </ul>\n        "
+    },
+    {
+      "id": "konversi-satuan",
+      "title": "Konversi Satuan",
+      "desc": "Panjang, berat, waktu — tangga satuan agar tidak salah hitung.",
+      "status": "ready",
+      "isRemedial": true,
+      "practiceTopic": "pengukuran",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Kenalkan tiga jenis satuan yang sering muncul di TKA: panjang, berat, dan waktu.]",
+        "[Panel 2 — Satuan panjang: km, hm, dam, m, dm, cm, mm. Konsep tangga: turun 1 tingkat = ×10.]",
+        "[Panel 3 — Satuan berat: 1 kg = 1000 gram. Kilo-gram-mili sama polanya seperti panjang.]",
+        "[Panel 4 — Satuan waktu: 1 jam = 60 menit. 1 menit = 60 detik. Beda dengan tangga ×10, ini ×60.]",
+        "[Panel 5 — Contoh gabungan: 2,5 km + 750 m = ? Ubah dulu ke satuan yang sama.]"
+      ],
+      "content": "\n          <h2>Konversi Satuan</h2>\n          <p><em>[Isi materi utuh di sini]</em></p>\n          <h3>Satuan Panjang</h3>\n          <div class=\"formula-box\">km → hm → dam → m → dm → cm → mm<br/>(setiap turun ×10)</div>\n          <h3>Satuan Berat</h3>\n          <div class=\"formula-box\">1 kg = 1000 gram = 1.000.000 mg</div>\n          <h3>Satuan Waktu</h3>\n          <div class=\"formula-box\">1 jam = 60 menit<br/>1 menit = 60 detik</div>\n          <h3>Contoh</h3>\n          <div class=\"example-box\"><b>Contoh:</b> [Isi contoh gabungan di sini]</div>\n        "
+    },
+    {
+      "id": "operasi-pecahan",
+      "title": "Operasi Pecahan",
+      "desc": "Tambah, kurang, kali, bagi pecahan — plus prioritas operasi.",
+      "status": "ready",
+      "isRemedial": true,
+      "practiceTopic": "bilangan",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Kenali bagian pecahan: pembilang (atas) dan penyebut (bawah). Contoh: pada 3/4, pembilang=3, penyebut=4.]",
+        "[Panel 2 — Tambah/kurang pecahan: samakan penyebutnya dulu pakai KPK, baru operasi pembilangnya.]",
+        "[Panel 3 — Kali pecahan: pembilang × pembilang, penyebut × penyebut. Contoh: 2/3 × 3/4 = 6/12 = 1/2.]",
+        "[Panel 4 — Bagi pecahan: pecahan kedua dibalik, lalu dikali. Contoh: 2/3 ÷ 3/4 = 2/3 × 4/3 = 8/9.]",
+        "[Panel 5 — Prioritas operasi: kali/bagi dulu, baru tambah/kurang. Contoh: 2½ + 3 × ¾.]"
+      ],
+      "content": "\n          <h2>Operasi Pecahan</h2>\n          <p><em>[Isi materi utuh di sini]</em></p>\n          <h3>Tambah / Kurang</h3>\n          <div class=\"formula-box\">a/b ± c/d → samakan penyebut → (ad ± bc) / bd</div>\n          <h3>Kali</h3>\n          <div class=\"formula-box\">a/b × c/d = (a×c) / (b×d)</div>\n          <h3>Bagi</h3>\n          <div class=\"formula-box\">a/b ÷ c/d = a/b × d/c</div>\n          <h3>Prioritas Operasi</h3>\n          <p>[Isi aturan urutan operasi di sini]</p>\n          <div class=\"example-box\"><b>Contoh:</b> [Contoh operasi campuran]</div>\n        "
+    },
+    {
+      "id": "pecahan-desimal-persen",
+      "title": "Pecahan ↔ Desimal ↔ Persen",
+      "desc": "Konversi tiga bentuk yang sering muncul dalam satu soal TKA.",
+      "status": "ready",
+      "isRemedial": true,
+      "practiceTopic": "bilangan",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Tiga bentuk yang sama nilainya: pecahan (1/2), desimal (0,5), persen (50%).]",
+        "[Panel 2 — Pecahan ke desimal: bagi pembilang dengan penyebut. Contoh: 3/4 = 3 ÷ 4 = 0,75.]",
+        "[Panel 3 — Desimal ke persen: kalikan dengan 100. Contoh: 0,75 × 100 = 75%.]",
+        "[Panel 4 — Persen ke pecahan: tulis per 100, lalu sederhanakan. Contoh: 25% = 25/100 = 1/4.]",
+        "[Panel 5 — Hafal shortcut umum: ¼=0,25=25% · ½=0,5=50% · ¾=0,75=75% · 1/5=0,2=20%.]"
+      ],
+      "content": "\n          <h2>Pecahan ↔ Desimal ↔ Persen</h2>\n          <p><em>[Isi materi utuh di sini]</em></p>\n          <h3>Tabel Konversi Umum</h3>\n          <div class=\"formula-box\">\n            1/4 = 0,25 = 25%<br/>\n            1/2 = 0,5 = 50%<br/>\n            3/4 = 0,75 = 75%<br/>\n            1/5 = 0,2 = 20%<br/>\n            1/10 = 0,1 = 10%\n          </div>\n          <h3>Cara Konversi</h3>\n          <p>[Jelaskan langkah konversi antar bentuk]</p>\n          <h3>Contoh</h3>\n          <div class=\"example-box\"><b>Contoh:</b> [Isi contoh perbandingan tiga bentuk]</div>\n        "
+    },
+    {
+      "id": "membaca-soal-cerita",
+      "title": "Membaca Soal Cerita",
+      "desc": "Strategi baca soal panjang — cara ambil info penting dari wacana TKA.",
+      "status": "ready",
+      "isRemedial": true,
+      "practiceTopic": "bilangan",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Jelaskan pentingnya baca soal cerita pelan-pelan. Soal TKA panjang, harus teliti biar tidak salah.]",
+        "[Panel 2 — Langkah 1: baca 2 kali. Baca cepat untuk tahu isi ceritanya, baca ulang untuk cari yang ditanya.]",
+        "[Panel 3 — Langkah 2: garis bawahi angka + satuan penting. Contoh: \"3 kg\", \"40 paket\", \"pukul 07.45\".]",
+        "[Panel 4 — Langkah 3: kenali kata kunci. \"Total\" atau \"seluruhnya\" → tambah/kali. \"Sisa\" atau \"berkurang\" → kurang. \"Setiap\" atau \"dibagi rata\" → bagi. \"Sebanyak berapa kali\" → kali/bagi.]",
+        "[Panel 5 — Langkah 4: tulis apa yang dicari. Baru pilih operasi (+, −, ×, ÷). Terakhir hitung dan cek jawaban. Semangat!]"
+      ],
+      "content": "\n          <h2>Membaca Soal Cerita</h2>\n          <p><em>[Isi materi utuh di sini.]</em></p>\n          <h3>4 Langkah Bongkar Soal Cerita</h3>\n          <ol>\n            <li><b>Baca 2 kali</b> — pertama untuk paham cerita, kedua untuk cari yang ditanya.</li>\n            <li><b>Garis bawahi</b> — angka penting dan satuannya.</li>\n            <li><b>Kenali kata kunci</b> — tentukan operasi yang tepat.</li>\n            <li><b>Hitung & cek</b> — pastikan hasil masuk akal.</li>\n          </ol>\n          <h3>Tabel Kata Kunci</h3>\n          <div class=\"example-box\"><b>Tambah (+):</b> total, seluruhnya, jumlah, dijumlahkan.<br/><b>Kurang (−):</b> sisa, berkurang, selisih, diambil.<br/><b>Kali (×):</b> setiap, per, sebanyak … kali, kelipatan.<br/><b>Bagi (÷):</b> dibagi rata, setiap kelompok, berapa banyak.</div>\n          <h3>Contoh</h3>\n          <div class=\"example-box\"><b>Soal:</b> \"Ibu punya 3 kg tepung. Dipakai 800 gram. Sisa tepung dibagi ke toples 200 gram. Berapa toples?\"<br/><b>Bongkar:</b> [Isi analisis: sisa = 3.000 − 800 = 2.200 g. Toples = 2.200 ÷ 200 = 11 toples.]</div>\n        "
+    },
+    {
+      "id": "pecahan-senilai",
+      "title": "Pecahan Senilai",
+      "desc": "Konsep pecahan yang memiliki nilai sama.",
+      "status": "ready",
+      "panels": [
+        "Pecahan senilai itu artinya pecahan yang bentuknya beda, tapi nilainya sama besar.",
+        "Contohnya 1/2 dan 2/4. Kalau digambar, keduanya menutupi bagian yang sama luasnya, meski penyebutnya beda.",
+        "Cara buatnya gampang: kalikan pembilang (angka atas) dan penyebut (angka bawah) dengan angka yang <b>sama</b>.",
+        "Misalnya 2/3. Kalau atas dan bawah kita kali 2, hasilnya 4/6. Nilainya tetap sama, cuma bentuknya lebih besar."
+      ],
+      "video": "QZHZrMudyGQ",
+      "practiceTopic": "bilangan",
+      "content": "\n          <h2>Pecahan Senilai</h2>\n          <p>Pecahan senilai adalah pecahan yang berbeda bentuk tetapi memiliki nilai yang sama.</p>\n          <h3>Cara Membuat Pecahan Senilai</h3>\n          <p>Kalikan atau bagi <b>pembilang</b> dan <b>penyebut</b> dengan angka yang <b>sama</b>.</p>\n          <div class=\"formula-box\">a/b = (a × n) / (b × n)</div>\n          <h3>Contoh</h3>\n          <div class=\"example-box\">\n            <b>Contoh 1:</b> Cari pecahan senilai dari 1/2.<br/>\n            1/2 = (1×2)/(2×2) = 2/4<br/>\n            1/2 = (1×3)/(2×3) = 3/6<br/>\n            1/2 = (1×5)/(2×5) = 5/10\n          </div>\n          <div class=\"example-box\">\n            <b>Contoh 2:</b> Sederhanakan 6/12.<br/>\n            6/12 = (6÷6)/(12÷6) = 1/2\n          </div>\n          <h3>Tips</h3>\n          <ul>\n            <li>Gunakan angka kecil dulu (2, 3, 4) untuk mengalikan.</li>\n            <li>Sederhanakan pecahan dengan mencari FPB pembilang dan penyebut.</li>\n            <li>Cek dengan menggambar: 1/2 dari 1 pizza = 2/4 dari pizza yang sama.</li>\n          </ul>\n        "
+    },
+    {
+      "id": "satuan-panjang",
+      "title": "Satuan Panjang",
+      "desc": "Tangga konversi mm-km lengkap dengan trik cepat.",
+      "status": "ready",
+      "panels": [
+        "Satuan panjang itu ukuran untuk menghitung jarak, tinggi, atau lebar sesuatu.",
+        "Satuan-satuannya: kilometer (km), hektometer (hm), dekameter (dam), meter (m), desimeter (dm), sentimeter (cm), dan milimeter (mm).",
+        "Biasa dibayangin pakai <b>tangga satuan</b>. Km ada di paling atas, mm di paling bawah.",
+        "Setiap turun 1 tangga, angkanya <b>dikali 10</b>. Setiap naik 1 tangga, angkanya <b>dibagi 10</b>.",
+        "Contoh: 3 m berarti berapa cm? Dari m ke cm turun 2 tangga, jadi 3 × 100 = 300 cm.",
+        "Contoh lain: 500 cm berarti berapa m? Dari cm ke m naik 2 tangga, jadi 500 ÷ 100 = 5 m."
+      ],
+      "practiceTopic": "pengukuran",
+      "content": "\n          <h2>Satuan Panjang</h2>\n          <p>Satuan panjang baku menggunakan sistem meter. Berikut tangga konversinya (turun × 10, naik ÷ 10):</p>\n          <div class=\"formula-box\">km → hm → dam → m → dm → cm → mm</div>\n          <h3>Cara Konversi</h3>\n          <ul>\n            <li>Turun 1 tangga: kalikan 10</li>\n            <li>Turun 2 tangga: kalikan 100</li>\n            <li>Naik 1 tangga: bagi 10</li>\n          </ul>\n          <div class=\"example-box\">\n            <b>Contoh:</b><br/>\n            2 km = 2 × 1000 = 2.000 m (turun 3 tangga)<br/>\n            500 cm = 500 ÷ 100 = 5 m (naik 2 tangga)<br/>\n            3,5 m = 3,5 × 100 = 350 cm\n          </div>\n          <h3>Tips Ingat Cepat</h3>\n          <p>Hafalkan singkatan: <b>K</b>a<b>H</b>anya <b>Da</b>lam <b>M</b>emori <b>D</b>ari <b>C</b>inta <b>M</b>u (km, hm, dam, m, dm, cm, mm).</p>\n        "
+    },
+    {
+      "id": "bangun-datar",
+      "title": "Bangun Datar",
+      "desc": "Rumus keliling & luas segitiga, segiempat, segi banyak.",
+      "status": "ready",
+      "panels": [
+        "Bangun datar itu bentuk 2 dimensi — punya panjang dan lebar, tapi tidak punya tebal.",
+        "Ada macam-macam: <b>persegi</b>, <b>persegi panjang</b>, <b>segitiga</b>, <b>lingkaran</b>, dan <b>trapesium</b>.",
+        "Setiap bangun datar punya rumus <b>luas</b> dan <b>keliling</b> masing-masing.",
+        "<b>Luas</b> itu ukuran daerah di dalam bangun. Misal luas persegi: sisi × sisi.",
+        "<b>Keliling</b> itu jumlah panjang semua sisi. Misal keliling persegi: 4 × sisi.",
+        "Contoh: persegi dengan sisi 5 cm. Luasnya 5 × 5 = 25 cm². Kelilingnya 4 × 5 = 20 cm."
+      ],
+      "practiceTopic": "geometri",
+      "content": "\n          <h2>Bangun Datar</h2>\n          <h3>Persegi</h3>\n          <div class=\"formula-box\">Keliling = 4 × s<br/>Luas = s × s</div>\n          <h3>Persegi Panjang</h3>\n          <div class=\"formula-box\">Keliling = 2 × (p + l)<br/>Luas = p × l</div>\n          <h3>Segitiga</h3>\n          <div class=\"formula-box\">Keliling = a + b + c<br/>Luas = 1/2 × alas × tinggi</div>\n          <div class=\"example-box\">\n            <b>Contoh:</b> Segitiga dengan alas 8 cm dan tinggi 6 cm.<br/>\n            Luas = 1/2 × 8 × 6 = 24 cm²\n          </div>\n          <h3>Lingkaran</h3>\n          <div class=\"formula-box\">Keliling = 2 × π × r<br/>Luas = π × r × r<br/>(π = 22/7 atau 3,14)</div>\n        "
+    },
+    {
+      "id": "kpk-fpb",
+      "title": "KPK & FPB",
+      "desc": "Kelipatan Persekutuan Terkecil dan Faktor Persekutuan Terbesar.",
+      "status": "ready",
+      "isRemedial": false,
+      "practiceTopic": "bilangan",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Kenalkan konsep faktor dan kelipatan sebuah bilangan. Contoh: faktor 12 = 1,2,3,4,6,12. Kelipatan 4 = 4,8,12,16,...]",
+        "[Panel 2 — Jelaskan FPB sebagai bilangan terbesar yang membagi habis dua bilangan atau lebih. Contoh: FPB(12,18) = 6.]",
+        "[Panel 3 — Jelaskan KPK sebagai bilangan terkecil yang dapat dibagi habis oleh dua bilangan atau lebih. Contoh: KPK(4,6) = 12.]",
+        "[Panel 4 — Ajarkan metode pohon faktor untuk menentukan FPB dan KPK dari faktorisasi prima.]",
+        "[Panel 5 — Contoh aplikasi soal cerita KPK/FPB. Misal: lampu berkedip bersamaan, membagi kue, dll.]"
+      ],
+      "content": "\n          <h2>KPK & FPB</h2>\n          <p><em>[Isi materi utuh di sini.]</em></p>\n          <h3>Faktor & Kelipatan</h3>\n          <p>[Jelaskan konsep faktor dan kelipatan.]</p>\n          <h3>FPB (Faktor Persekutuan Terbesar)</h3>\n          <div class=\"formula-box\">FPB = hasil kali faktor prima yang <b>sama</b>, pangkat terkecil</div>\n          <h3>KPK (Kelipatan Persekutuan Terkecil)</h3>\n          <div class=\"formula-box\">KPK = hasil kali <b>semua</b> faktor prima, pangkat terbesar</div>\n          <h3>Contoh Soal Cerita</h3>\n          <div class=\"example-box\"><b>Contoh:</b> [Isi contoh]</div>\n        "
+    },
+    {
+      "id": "kecepatan-jarak-waktu",
+      "title": "Kecepatan, Jarak & Waktu",
+      "desc": "Segitiga jarak-kecepatan-waktu, aplikasi soal cerita TKA.",
+      "status": "ready",
+      "isRemedial": false,
+      "practiceTopic": "pengukuran",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Kenalkan 3 istilah: jarak (km), kecepatan (km/jam), waktu (jam). Ajarkan hubungan segitiga.]",
+        "[Panel 2 — Rumus dasar: Jarak = Kecepatan × Waktu. Contoh: mobil 60 km/jam selama 2 jam → jarak 120 km.]",
+        "[Panel 3 — Turunan rumus: Kecepatan = Jarak ÷ Waktu, Waktu = Jarak ÷ Kecepatan.]",
+        "[Panel 4 — Konversi satuan waktu (1 jam = 60 menit) dan kecepatan (km/jam ↔ m/detik).]",
+        "[Panel 5 — Tips soal cerita: baca pelan, identifikasi yang diketahui, tentukan yang dicari, terapkan rumus.]"
+      ],
+      "content": "\n          <h2>Kecepatan, Jarak & Waktu</h2>\n          <p><em>[Isi materi utuh di sini.]</em></p>\n          <h3>Segitiga JKW</h3>\n          <div class=\"formula-box\">J = K × W<br/>K = J ÷ W<br/>W = J ÷ K</div>\n          <h3>Konversi Satuan</h3>\n          <p>[Jelaskan konversi km/jam ke m/detik.]</p>\n          <h3>Contoh Soal Cerita</h3>\n          <div class=\"example-box\"><b>Contoh:</b> [Isi contoh soal]</div>\n        "
+    },
+    {
+      "id": "waktu-jam",
+      "title": "Waktu & Jam",
+      "desc": "Konversi satuan waktu, baca jam analog, hitung durasi perjalanan.",
+      "status": "ready",
+      "isRemedial": false,
+      "practiceTopic": "pengukuran",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Kenalkan satuan waktu: detik, menit, jam, hari, pekan, bulan, tahun. Ajarkan hubungan antar satuan.]",
+        "[Panel 2 — Konversi utama: 1 jam = 60 menit, 1 menit = 60 detik, 1 hari = 24 jam, 1 pekan = 7 hari.]",
+        "[Panel 3 — Baca jam analog: jarum pendek = jam, jarum panjang = menit. Contoh: 07.45 di jam analog.]",
+        "[Panel 4 — Hitung durasi (waktu tempuh): waktu tiba − waktu berangkat. Trik hati-hati kalau lewat jam.]",
+        "[Panel 5 — Aplikasi soal cerita TKA: perjalanan, jadwal, jam sekolah. Tips: ubah semuanya ke menit untuk mudah dihitung.]"
+      ],
+      "content": "\n          <h2>Waktu & Jam</h2>\n          <p><em>[Isi materi utuh di sini.]</em></p>\n          <h3>Satuan Waktu</h3>\n          <div class=\"formula-box\">1 jam = 60 menit<br/>1 menit = 60 detik<br/>1 hari = 24 jam<br/>1 pekan = 7 hari</div>\n          <h3>Membaca Jam Analog</h3>\n          <p>[Jelaskan jarum pendek/jam dan jarum panjang/menit.]</p>\n          <h3>Menghitung Durasi</h3>\n          <div class=\"example-box\"><b>Contoh:</b> Berangkat 07.45, tiba 10.20. Durasi = 10.20 − 07.45 = 2 jam 35 menit = 155 menit.</div>\n        "
+    },
+    {
+      "id": "skala",
+      "title": "Skala",
+      "desc": "Membaca dan menghitung skala peta, denah, dan gambar.",
+      "status": "ready",
+      "isRemedial": false,
+      "practiceTopic": "pengukuran",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Kenalkan skala sebagai perbandingan ukuran gambar dengan ukuran sebenarnya. Contoh: 1 : 100.000.]",
+        "[Panel 2 — Rumus: Skala = Jarak Peta ÷ Jarak Sebenarnya. Ubah satuan supaya sama sebelum bagi.]",
+        "[Panel 3 — Cari jarak sebenarnya: Jarak Sebenarnya = Jarak Peta × Skala.]",
+        "[Panel 4 — Cari jarak peta: Jarak Peta = Jarak Sebenarnya ÷ Skala.]",
+        "[Panel 5 — Aplikasi: peta Indonesia, denah rumah, blueprint. Contoh soal.]"
+      ],
+      "content": "\n          <h2>Skala</h2>\n          <p><em>[Isi materi utuh di sini.]</em></p>\n          <h3>Rumus Skala</h3>\n          <div class=\"formula-box\">Skala = Jarak Peta : Jarak Sebenarnya</div>\n          <h3>Cara Hitung</h3>\n          <p>[Jelaskan langkah menyamakan satuan lalu bagi.]</p>\n          <h3>Contoh Soal</h3>\n          <div class=\"example-box\"><b>Contoh:</b> Skala 1 : 500.000, jarak peta 3 cm. Jarak sebenarnya? [Isi jawaban]</div>\n        "
+    },
+    {
+      "id": "volume-ruang",
+      "title": "Volume Bangun Ruang",
+      "desc": "Kubus, balok, tabung, prisma, kerucut, limas, dan bola.",
+      "status": "ready",
+      "isRemedial": false,
+      "practiceTopic": "geometri",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Kubus: V = sisi × sisi × sisi = s³. Contoh: s=5 → V=125.]",
+        "[Panel 2 — Balok: V = panjang × lebar × tinggi. Contoh: p=10, l=5, t=4 → V=200.]",
+        "[Panel 3 — Tabung: V = π × r² × t. Prisma: V = luas alas × tinggi.]",
+        "[Panel 4 — Kerucut: V = 1/3 × π × r² × t. Limas: V = 1/3 × luas alas × tinggi.]",
+        "[Panel 5 — Bola: V = 4/3 × π × r³. Tips: hafal semua rumus dan gambar bangunnya.]"
+      ],
+      "content": "\n          <h2>Volume Bangun Ruang</h2>\n          <p><em>[Isi materi utuh di sini.]</em></p>\n          <h3>Kubus & Balok</h3>\n          <div class=\"formula-box\">V kubus = s × s × s<br/>V balok = p × l × t</div>\n          <h3>Tabung, Prisma & Limas</h3>\n          <div class=\"formula-box\">V tabung = π × r² × t<br/>V prisma = luas alas × tinggi<br/>V limas = 1/3 × luas alas × tinggi</div>\n          <h3>Kerucut & Bola</h3>\n          <div class=\"formula-box\">V kerucut = 1/3 × π × r² × t<br/>V bola = 4/3 × π × r³</div>\n        "
+    },
+    {
+      "id": "visualisasi-bangun-ruang",
+      "title": "Visualisasi Bangun Ruang 3D",
+      "desc": "Tampak dari depan, atas, samping — sifat kubus, balok, dan gabungannya.",
+      "status": "ready",
+      "isRemedial": false,
+      "practiceTopic": "geometri",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Kenalkan istilah kubus dan balok: 6 sisi, 12 rusuk, 8 titik sudut. Sertakan gambar.]",
+        "[Panel 2 — Susunan kubus-kubus satuan. Cara hitung jumlah kubus dalam tumpukan (per lapisan).]",
+        "[Panel 3 — Tampak dari depan: bayangan bangun dilihat dari sisi depan. Contoh dengan susunan tangga.]",
+        "[Panel 4 — Tampak dari atas dan samping. Perbedaan bentuk yang terlihat dari setiap sisi.]",
+        "[Panel 5 — Jaring-jaring kubus & balok: pola datar hasil membuka bangun. Kubus punya 11 pola jaring. Latihan visualisasi!]"
+      ],
+      "content": "\n          <h2>Visualisasi Bangun Ruang 3D</h2>\n          <p><em>[Isi materi utuh di sini.]</em></p>\n          <h3>Sifat Kubus & Balok</h3>\n          <div class=\"example-box\"><b>Kubus:</b> 6 sisi persegi, 12 rusuk sama panjang, 8 titik sudut.<br/><b>Balok:</b> 6 sisi persegi panjang, 12 rusuk (3 kelompok panjang berbeda), 8 titik sudut.</div>\n          <h3>Menghitung Susunan Kubus</h3>\n          <p>[Jelaskan cara hitung jumlah kubus per lapisan. Contoh: lapisan bawah 6, tengah 4, atas 2 → total 12.]</p>\n          <h3>Tampak dari Sisi</h3>\n          <p>[Jelaskan tampak depan, atas, samping. Sertakan ilustrasi susunan tangga.]</p>\n          <h3>Jaring-jaring Kubus</h3>\n          <p>[Jelaskan 11 pola jaring kubus. Sertakan ilustrasi.]</p>\n        "
+    },
+    {
+      "id": "sudut",
+      "title": "Sudut",
+      "desc": "Jenis sudut (lancip, siku, tumpul), sudut berpelurus, dan cara mengukurnya.",
+      "status": "ready",
+      "isRemedial": false,
+      "practiceTopic": "geometri",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Kenalkan konsep sudut sebagai daerah antara 2 sinar yang bertemu di 1 titik. Satuan: derajat (°).]",
+        "[Panel 2 — 3 jenis sudut: lancip (< 90°), siku-siku (= 90°), tumpul (> 90° dan < 180°). Sudut lurus (180°).]",
+        "[Panel 3 — Sudut berpelurus: dua sudut yang jumlahnya = 180°. Contoh: kalau ∠A = 125°, maka ∠B = 55°.]",
+        "[Panel 4 — Sudut berpenyiku: dua sudut yang jumlahnya = 90°.]",
+        "[Panel 5 — Aplikasi: pisau lipat, jam analog (sudut antar jarum), meja setrika. Contoh soal TKA.]"
+      ],
+      "content": "\n          <h2>Sudut</h2>\n          <p><em>[Isi materi utuh di sini.]</em></p>\n          <h3>Jenis-jenis Sudut</h3>\n          <div class=\"example-box\"><b>Lancip:</b> < 90° (contoh: 45°, 75°, 89°)<br/><b>Siku-siku:</b> = 90°<br/><b>Tumpul:</b> > 90° dan < 180° (contoh: 120°, 145°)<br/><b>Lurus:</b> = 180°</div>\n          <h3>Sudut Berpelurus</h3>\n          <div class=\"formula-box\">∠A + ∠B = 180°</div>\n          <p>[Contoh: jika ∠AOC = 125° dan AOB garis lurus, maka ∠BOC = 180° − 125° = 55°.]</p>\n          <h3>Sudut Berpenyiku</h3>\n          <div class=\"formula-box\">∠A + ∠B = 90°</div>\n          <h3>Tips Baca Soal</h3>\n          <ul><li>[Tip 1: perhatikan gambar sudut yang diberikan]</li><li>[Tip 2: gunakan properti sudut lurus 180°]</li></ul>\n        "
+    },
+    {
+      "id": "membaca-diagram",
+      "title": "Membaca Diagram",
+      "desc": "Piktogram, diagram batang, dan tabel frekuensi — cara membaca info.",
+      "status": "ready",
+      "isRemedial": false,
+      "practiceTopic": "data",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Kenalkan 3 jenis penyajian data yang muncul di TKA: piktogram (gambar), diagram batang, dan tabel frekuensi.]",
+        "[Panel 2 — Piktogram: setiap gambar/ikon punya nilai tertentu (skala). Contoh: 1 ikon botol = 10 botol.]",
+        "[Panel 3 — Diagram batang: batang tinggi = nilai besar. Cara baca sumbu-x (kategori) dan sumbu-y (nilai).]",
+        "[Panel 4 — Tabel frekuensi: baris = kategori, kolom = jumlah/frekuensi. Baca kolom dan baris teliti.]",
+        "[Panel 5 — Tips soal TKA: baca judul, sumbu, dan legenda dulu. Perhatikan skala piktogram. Baru cari data yang ditanya.]"
+      ],
+      "content": "\n          <h2>Membaca Diagram</h2>\n          <p><em>[Isi materi utuh di sini.]</em></p>\n          <h3>Piktogram</h3>\n          <p>[Jelaskan cara baca ikon dan skala. Contoh: 1 ikon = 10 unit.]</p>\n          <div class=\"formula-box\">Total = banyak ikon × nilai per ikon</div>\n          <h3>Diagram Batang</h3>\n          <p>[Jelaskan cara baca batang tinggi rendah, sumbu horizontal (kategori) dan vertikal (nilai).]</p>\n          <h3>Tabel Frekuensi</h3>\n          <p>[Jelaskan cara baca baris dan kolom.]</p>\n          <h3>Tips Membaca</h3>\n          <ul><li>[Tip 1: baca judul & legenda dulu]</li><li>[Tip 2: perhatikan skala/satuan]</li><li>[Tip 3: identifikasi yang ditanya sebelum hitung]</li></ul>\n        "
+    },
+    {
+      "id": "rata-rata-mean-median-modus",
+      "title": "Rata-rata: Mean, Median, Modus",
+      "desc": "Tiga ukuran pemusatan data yang wajib dikuasai untuk TKA.",
+      "status": "ready",
+      "isRemedial": false,
+      "practiceTopic": "data",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Kenalkan 3 istilah: mean (rata-rata), median (nilai tengah), modus (paling sering muncul).]",
+        "[Panel 2 — Mean = jumlah semua data ÷ banyak data. Contoh: 5,7,8,10 → (5+7+8+10)/4 = 7,5.]",
+        "[Panel 3 — Median: urutkan data dulu, ambil nilai tengah. Jika genap, ambil rata-rata 2 tengah.]",
+        "[Panel 4 — Modus: nilai yang paling sering muncul. Bisa ada 1, banyak, atau tidak ada.]",
+        "[Panel 5 — Tips: soal cerita seringnya minta salah satu dari 3. Baca dulu apa yang ditanya!]"
+      ],
+      "content": "\n          <h2>Rata-rata: Mean, Median, Modus</h2>\n          <p><em>[Isi materi utuh di sini.]</em></p>\n          <h3>Mean (Rata-rata)</h3>\n          <div class=\"formula-box\">Mean = Jumlah semua data ÷ Banyak data</div>\n          <h3>Median (Nilai Tengah)</h3>\n          <p>[Urutkan dulu. Cari nilai tengah. Contoh dengan data ganjil dan genap.]</p>\n          <h3>Modus (Paling Sering)</h3>\n          <p>[Nilai yang frekuensinya paling banyak.]</p>\n          <h3>Contoh</h3>\n          <div class=\"example-box\"><b>Data:</b> 6, 7, 8, 8, 9<br/><b>Mean:</b> [Isi]<br/><b>Median:</b> [Isi]<br/><b>Modus:</b> [Isi]</div>\n        "
+    },
+    {
+      "id": "menyajikan-data",
+      "title": "Menyajikan & Menyimpulkan Data",
+      "desc": "Dari tabel ke diagram, memilih diagram yang tepat, dan menyimpulkan.",
+      "status": "ready",
+      "isRemedial": false,
+      "practiceTopic": "data",
+      "video": "",
+      "panels": [
+        "[Panel 1 — Langkah menyajikan data: 1) kumpulkan, 2) susun tabel, 3) pilih jenis diagram yang cocok.]",
+        "[Panel 2 — Kapan pakai batang? Kapan garis? Kapan lingkaran? Jelaskan sesuai kegunaan.]",
+        "[Panel 3 — Contoh mengubah tabel jadi diagram batang: sumbu-x kategori, sumbu-y nilai frekuensi.]",
+        "[Panel 4 — Kesimpulan dari diagram: nilai tertinggi/terendah, tren, perbandingan.]",
+        "[Panel 5 — Tips soal cerita: baca pertanyaan dengan cermat, lihat diagram, cocokkan pilihan.]"
+      ],
+      "content": "\n          <h2>Menyajikan & Menyimpulkan Data</h2>\n          <p><em>[Isi materi utuh di sini.]</em></p>\n          <h3>Langkah Menyajikan Data</h3>\n          <ol><li>[Kumpulkan data]</li><li>[Susun tabel frekuensi]</li><li>[Pilih diagram yang tepat]</li></ol>\n          <h3>Memilih Jenis Diagram</h3>\n          <div class=\"example-box\"><b>Batang:</b> perbandingan antar kategori.<br/><b>Garis:</b> perubahan seiring waktu.<br/><b>Lingkaran:</b> bagian dari keseluruhan (persentase).</div>\n          <h3>Menyimpulkan Data</h3>\n          <p>[Jelaskan cara menarik kesimpulan: nilai tertinggi, terendah, tren, dan perbandingan.]</p>\n        "
+    }
+  ]
+}

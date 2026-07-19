@@ -1,0 +1,125 @@
+{
+  "mapel": "matematika",
+  "topik": "data",
+  "count": 8,
+  "updated": "2026-07-13",
+  "soal": [
+    {
+      "level": "dasar",
+      "mapel": "Matematika · Data",
+      "question": "Data nilai 5 siswa: 70, 80, 60, 90, 80. Berapa rata-ratanya?",
+      "options": [
+        "70",
+        "76",
+        "80",
+        "90"
+      ],
+      "correct": 1,
+      "pembahasan": "Rata-rata = jumlah semua data ÷ banyak data = (70+80+60+90+80) ÷ 5 = 380 ÷ 5 = 76."
+    },
+    {
+      "level": "dasar",
+      "mapel": "Matematika · Data",
+      "question": "Dari data: 5, 8, 3, 8, 6, 8, 4. Modusnya adalah...",
+      "options": [
+        "3",
+        "5",
+        "6",
+        "8"
+      ],
+      "correct": 3,
+      "pembahasan": "Modus adalah data yang paling sering muncul. Angka 8 muncul 3 kali, paling banyak."
+    },
+    {
+      "level": "dasar",
+      "mapel": "Matematika · Data",
+      "question": "Sebuah diagram batang menunjukkan nilai matematika 30 siswa. Jika 12 siswa mendapat nilai A, berapa persentasenya?",
+      "options": [
+        "20%",
+        "30%",
+        "40%",
+        "50%"
+      ],
+      "correct": 2,
+      "pembahasan": "Persentase = (12/30) × 100% = 40%."
+    },
+    {
+      "level": "rutin",
+      "mapel": "Matematika · Data",
+      "question": "Tiga kurir bertugas hari ini dengan muatan: Kurir A membawa 126 paket, Kurir B 144 paket, Kurir C 138 paket. Sebelum istirahat, Kurir B sudah mengirim 64 paket. Setelah istirahat, ia akan mengantarkan sisanya ke beberapa desa dengan setiap desa menerima 40 paket. Berapa desa yang didatangi Kurir B setelah istirahat?",
+      "options": [
+        "1 desa",
+        "2 desa",
+        "3 desa",
+        "4 desa"
+      ],
+      "correct": 1,
+      "pembahasan": "Sisa paket Kurir B setelah istirahat = 144 − 64 = 80 paket. Jumlah desa = 80 ÷ 40 = 2 desa."
+    },
+    {
+      "level": "rutin",
+      "mapel": "Matematika · Data",
+      "question": "Kurir A membawa 126 paket dan akan mengantarnya ke beberapa desa dengan setiap desa menerima jumlah yang sama, yaitu 21 paket per desa. Berapa desa yang didatangi Kurir A?",
+      "options": [
+        "4 desa",
+        "5 desa",
+        "6 desa",
+        "7 desa"
+      ],
+      "correct": 2,
+      "pembahasan": "Jumlah desa = total paket ÷ paket per desa = 126 ÷ 21 = 6 desa."
+    },
+    {
+      "level": "ujian",
+      "mapel": "Matematika · Data",
+      "question": "Kota A memiliki tiga jenis transportasi umum. Berikut data jumlah penumpang selama satu pekan:<br/><br/><div class=\"q-scroll\"><table class=\"q-table\"><tr><th>Transportasi</th><th>Sen</th><th>Sel</th><th>Rab</th><th>Kam</th><th>Jum</th><th>Sab</th><th>Min</th></tr><tr><td>MRT</td><td>95rb</td><td>87rb</td><td>87rb</td><td>80rb</td><td>90rb</td><td>70rb</td><td>70rb</td></tr><tr><td>LRT</td><td>60rb</td><td>55rb</td><td>55rb</td><td>50rb</td><td>65rb</td><td>45rb</td><td>45rb</td></tr><tr><td>Trans Kota</td><td>50rb</td><td>42rb</td><td>42rb</td><td>38rb</td><td>45rb</td><td>30rb</td><td>30rb</td></tr></table></div><small><i>(rb = ribu orang)</i></small><br/><br/>Berdasarkan tabel, berapa jumlah penumpang Trans Kota pada hari Jumat?",
+      "options": [
+        "14.000 orang",
+        "35.000 orang",
+        "40.000 orang",
+        "45.000 orang"
+      ],
+      "correct": 3,
+      "pembahasan": "Baca tabel: baris Trans Kota, kolom Jumat = 45rb = 45.000 orang."
+    },
+    {
+      "format": "multi",
+      "level": "ujian",
+      "mapel": "Matematika · Data",
+      "question": "Diagram batang menunjukkan jumlah pengunjung Perpustakaan SD selama Pekan Literasi:<br/><br/><b>Senin: 30, Selasa: 40, Rabu: 20, Kamis: 60, Jumat: 40</b> orang.<br/><br/>Manakah pernyataan yang benar? (Pilih semua yang benar)",
+      "options": [
+        "Jumlah pengunjung tertinggi terjadi pada hari Kamis.",
+        "Selisih pengunjung hari Selasa dan Rabu adalah 20 orang.",
+        "Total pengunjung selama Pekan Literasi adalah 200 orang.",
+        "Jumlah pengunjung hari Jumat dua kali lipat hari Rabu."
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ],
+      "pembahasan": "Cek: (1) Kamis 60 = tertinggi ✓ BENAR. (2) Selisih Sel−Rab = 40 − 20 = 20 ✓ BENAR. (3) Total = 30+40+20+60+40 = 190 (bukan 200) SALAH. (4) Jumat 40 = 2 × Rabu 20 ✓ BENAR."
+    },
+    {
+      "format": "tf",
+      "level": "ujian",
+      "mapel": "Matematika · Data",
+      "question": "Sebuah program komputer memiliki alur berpikir: masukkan bilangan a. Jika (a+1) adalah bilangan ganjil, tampilkan hasil dari 10 − (a × 2). Jika (a+1) genap, tampilkan hasil dari 10 + (a × 3). Tentukan benar atau salah untuk setiap pernyataan:",
+      "statements": [
+        {
+          "text": "Jika nilai a ganjil, maka hasilnya juga ganjil.",
+          "correct": true
+        },
+        {
+          "text": "Jika masukan a = 3, hasil yang ditampilkan adalah 19.",
+          "correct": true
+        },
+        {
+          "text": "Jika masukan a = 2, hasil yang ditampilkan adalah 4.",
+          "correct": false
+        }
+      ],
+      "pembahasan": "(1) a ganjil → (a+1) genap → jalur \"tidak\" → 10 + (ganjil × 3) = 10 + ganjil = ganjil ✓ BENAR. (2) a=3 → (3+1)=4 genap → jalur \"tidak\" → 10 + 3×3 = 19 ✓ BENAR. (3) a=2 → (2+1)=3 ganjil → jalur \"ya\" → 10 − 2×2 = 6 (bukan 4) SALAH."
+    }
+  ]
+}

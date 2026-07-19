@@ -1,0 +1,44 @@
+{
+  "mapel": "indonesia",
+  "topik": "evaluasi",
+  "count": 3,
+  "updated": "2026-07-13",
+  "soal": [
+    {
+      "mapel": "Indonesia · Evaluasi & Apresiasi",
+      "question": "Ketika membaca cerita sedih, kita mungkin merasa...",
+      "options": [
+        "bahagia",
+        "iba dan sedih",
+        "marah",
+        "lucu"
+      ],
+      "correct": 1,
+      "pembahasan": "Cerita sedih biasanya menimbulkan respons emosional berupa perasaan iba, terharu, atau sedih dari pembaca."
+    },
+    {
+      "mapel": "Indonesia · Evaluasi & Apresiasi",
+      "question": "Peristiwa \"membuang sampah pada tempatnya\" dalam sebuah cerita relevan dengan kehidupan sehari-hari karena...",
+      "options": [
+        "tidak berhubungan",
+        "mengajarkan sikap peduli lingkungan",
+        "cuma di cerita saja",
+        "menyusahkan"
+      ],
+      "correct": 1,
+      "pembahasan": "Peristiwa tersebut relevan karena mengajarkan sikap peduli lingkungan yang bisa diterapkan dalam kehidupan sehari-hari."
+    },
+    {
+      "mapel": "Indonesia · Evaluasi & Apresiasi",
+      "question": "Sebuah teks yang menceritakan tokoh yang jujur dan berhasil, mengajak pembaca untuk...",
+      "options": [
+        "bermalas-malasan",
+        "meniru sifat jujurnya",
+        "iri hati",
+        "menyontek"
+      ],
+      "correct": 1,
+      "pembahasan": "Cerita dengan tokoh yang berbudi baik biasanya bertujuan agar pembaca meneladani sifat-sifat positif tokoh tersebut."
+    }
+  ]
+}

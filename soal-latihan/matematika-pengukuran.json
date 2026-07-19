@@ -1,0 +1,128 @@
+{
+  "mapel": "matematika",
+  "topik": "pengukuran",
+  "count": 8,
+  "updated": "2026-07-13",
+  "soal": [
+    {
+      "level": "dasar",
+      "mapel": "Matematika · Pengukuran",
+      "question": "2,5 km + 750 m = ... m",
+      "options": [
+        "1.750 m",
+        "2.750 m",
+        "3.250 m",
+        "3.500 m"
+      ],
+      "correct": 2,
+      "pembahasan": "2,5 km = 2.500 m. Jumlahnya = 2.500 + 750 = 3.250 m."
+    },
+    {
+      "level": "dasar",
+      "mapel": "Matematika · Pengukuran",
+      "question": "Sebuah mobil melaju dengan kecepatan 60 km/jam selama 2,5 jam. Berapa jarak yang ditempuh?",
+      "options": [
+        "62,5 km",
+        "120 km",
+        "150 km",
+        "180 km"
+      ],
+      "correct": 2,
+      "pembahasan": "Jarak = kecepatan × waktu = 60 × 2,5 = 150 km."
+    },
+    {
+      "level": "dasar",
+      "mapel": "Matematika · Pengukuran",
+      "question": "3 kg = ... gram",
+      "options": [
+        "30 gram",
+        "300 gram",
+        "3.000 gram",
+        "30.000 gram"
+      ],
+      "correct": 2,
+      "pembahasan": "1 kg = 1.000 gram, jadi 3 kg = 3 × 1.000 = 3.000 gram."
+    },
+    {
+      "level": "rutin",
+      "mapel": "Matematika · Pengukuran",
+      "question": "Ibu membeli sekantong tepung terigu seberat 3 kg. Sesampainya di rumah, ibu mengambil 800 gram tepung untuk adonan kue. Sisa tepung akan disimpan ke dalam toples kecil yang bisa menampung 200 gram tiap toples. Berapa banyak toples kecil yang dibutuhkan ibu untuk menyimpan tepat seluruh sisa tepung?",
+      "options": [
+        "11 toples",
+        "15 toples",
+        "19 toples",
+        "22 toples"
+      ],
+      "correct": 0,
+      "pembahasan": "Total tepung = 3 kg = 3.000 gram. Sisa setelah dipakai = 3.000 − 800 = 2.200 gram. Jumlah toples = 2.200 ÷ 200 = 11 toples."
+    },
+    {
+      "level": "rutin",
+      "mapel": "Matematika · Pengukuran",
+      "question": "Anita berjalan dari rumah menuju sekolah melewati rumah teman. Dari rumah ia menempuh 900 m ke rumah Ani, lalu 2 km ke rumah Andi, kemudian 800 m dari rumah Andi menuju sekolah. Berapa total jarak yang ditempuh Anita dari rumah ke sekolah?",
+      "options": [
+        "2,7 km",
+        "2,8 km",
+        "3,7 km",
+        "4,6 km"
+      ],
+      "correct": 2,
+      "pembahasan": "Total jarak = 900 m + 2.000 m + 800 m = 3.700 m = 3,7 km."
+    },
+    {
+      "level": "rutin",
+      "mapel": "Matematika · Pengukuran",
+      "question": "Perhatikan gambaran sudut berpelurus (dua sudut berdampingan yang membentuk garis lurus): garis AOB adalah sebuah garis lurus, dengan besar sudut AOC = 125°. Berapakah besar sudut BOC?",
+      "options": [
+        "45°",
+        "55°",
+        "65°",
+        "75°"
+      ],
+      "correct": 1,
+      "pembahasan": "Sudut berpelurus artinya jumlah kedua sudut = 180°. AOC + BOC = 180° → BOC = 180° − 125° = 55°."
+    },
+    {
+      "format": "tf",
+      "level": "ujian",
+      "mapel": "Matematika · Pengukuran",
+      "question": "Sebuah kereta api berangkat pukul 18.30 dari stasiun P dan akan menempuh jarak 400 km untuk sampai stasiun R. Awalnya kereta melaju dengan kecepatan rata-rata 120 km/jam sejauh 240 km. Sebelum melanjutkan, kereta singgah di stasiun Q. Kereta lalu melanjutkan sisa perjalanan dengan kecepatan rata-rata 80 km/jam. Tentukan benar atau salah untuk setiap pernyataan:",
+      "statements": [
+        {
+          "text": "Kereta api tiba di stasiun R pada pukul 22.30.",
+          "correct": true
+        },
+        {
+          "text": "Kereta api tiba di stasiun Q pada pukul 20.30.",
+          "correct": false
+        },
+        {
+          "text": "Kereta api membutuhkan waktu 4 jam dari stasiun P ke stasiun R.",
+          "correct": true
+        }
+      ],
+      "pembahasan": "Tahap 1: 240 km ÷ 120 km/jam = 2 jam. Tahap 2: sisa 160 km ÷ 80 km/jam = 2 jam. Total perjalanan efektif = 4 jam (BENAR). Kereta tiba di R pukul 22.30 dengan asumsi singgah singkat (BENAR). Pernyataan Q pukul 20.30 tidak akurat karena mengabaikan durasi singgah (SALAH)."
+    },
+    {
+      "format": "tf",
+      "level": "ujian",
+      "mapel": "Matematika · Pengukuran",
+      "question": "Pak Hamid berangkat dari rumah pukul 07.45 dan tiba di sekolah pukul 10.20. Tentukan benar atau salah:",
+      "statements": [
+        {
+          "text": "Lama perjalanan Pak Hamid dari rumah ke sekolah adalah 2 jam 35 menit.",
+          "correct": true
+        },
+        {
+          "text": "Jika dinyatakan dalam menit, lama perjalanan Pak Hamid adalah 155 menit.",
+          "correct": true
+        },
+        {
+          "text": "Jika esok hari Pak Hamid berangkat 30 menit lebih awal, ia akan tiba di sekolah pukul 09.50.",
+          "correct": true
+        }
+      ],
+      "pembahasan": "Lama perjalanan = 10.20 − 07.45 = 2 jam 35 menit (BENAR). 2 jam 35 menit = 2×60 + 35 = 155 menit (BENAR). Berangkat 30 menit lebih awal = 07.15, tiba = 07.15 + 2 jam 35 menit = 09.50 (BENAR)."
+    }
+  ]
+}
