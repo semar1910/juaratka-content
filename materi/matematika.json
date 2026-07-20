@@ -1,24 +1,25 @@
 {
   "mapel": "matematika",
   "count": 20,
-  "updated": "2026-07-13",
+  "updated": "2026-07-19",
   "items": [
     {
       "id": "nilai-tempat",
       "title": "Nilai Tempat Bilangan",
-      "desc": "Baca angka besar — satuan, puluhan, ratusan, ribuan, sampai ratusan ribu.",
+      "desc": "Membaca & memahami angka besar: nilai tempat, nilai angka, dan bentuk panjang (sampai ratusan ribu).",
       "status": "ready",
       "isRemedial": true,
       "practiceTopic": "bilangan",
       "video": "",
       "panels": [
-        "[Panel 1 — Kenalkan konsep nilai tempat: setiap posisi angka punya nilai berbeda. Contoh: angka 3 di 300 nilainya 300, di 30 nilainya 30.]",
-        "[Panel 2 — Nama tempat dari kanan: satuan, puluhan, ratusan, ribuan, puluh ribuan, ratus ribuan, jutaan.]",
-        "[Panel 3 — Cara baca angka besar. Contoh: 45.000 dibaca \"empat puluh lima ribu\". 125.000 dibaca \"seratus dua puluh lima ribu\".]",
-        "[Panel 4 — Uraian panjang. Contoh: 45.000 = 4 × 10.000 + 5 × 1.000 = 40.000 + 5.000.]",
-        "[Panel 5 — Tips soal TKA: kalau soal punya angka besar (harga, jarak, populasi), baca pelan dari nilai tempat terbesar.]"
+        "Setiap angka dalam sebuah bilangan punya nilai berbeda tergantung <b>posisinya</b>. Angka yang sama bisa bernilai kecil atau besar.",
+        "Contoh: angka 3 pada <b>30</b> bernilai 30, tapi pada <b>300</b> bernilai 300. Posisi yang menentukan nilai.",
+        "Nama tempat dihitung dari kanan: <b>satuan, puluhan, ratusan, ribuan, puluh ribuan, ratus ribuan</b>.",
+        "Membaca angka besar: kelompokkan tiga angka dari kanan. Contoh <b>375.482</b> → baca kelompok kiri lalu ucap “ribu”.",
+        "Bentuk panjang: 375.482 = 300.000 + 70.000 + 5.000 + 400 + 80 + 2.",
+        "Tips TKA: baca pelan, kelompokkan tiga-tiga dari kanan. Salah satu tempat, jawaban bisa meleset jauh."
       ],
-      "content": "\n          <h2>Nilai Tempat Bilangan</h2>\n          <p><em>[Isi materi utuh di sini.]</em></p>\n          <h3>Tabel Nilai Tempat</h3>\n          <div class=\"example-box\"><b>Ratus ribuan · Puluh ribuan · Ribuan · Ratusan · Puluhan · Satuan</b><br/>Contoh: 125.000 → 1 ratus ribuan, 2 puluh ribuan, 5 ribuan.</div>\n          <h3>Cara Baca Angka Besar</h3>\n          <p>[Jelaskan langkah baca dari kiri: berapa \"ribuan\", lalu ratusan-puluhan-satuan.]</p>\n          <h3>Uraian Panjang</h3>\n          <div class=\"formula-box\">45.000 = 40.000 + 5.000<br/>125.000 = 100.000 + 25.000</div>\n          <h3>Tips</h3>\n          <ul><li>[Tip 1: kelompokkan angka per 3 digit dari kanan]</li><li>[Tip 2: tanda titik (.) sebagai pemisah ribuan]</li></ul>\n        "
+      "content": "\n          <h2>Nilai Tempat Bilangan</h2>\n          <p>Setiap angka punya nilai berbeda tergantung <b>posisinya</b>. Dihitung dari kanan: satuan, puluhan, ratusan, ribuan, puluh ribuan, ratus ribuan.</p>\n          <h3>Contoh: 375.482</h3>\n          <div class=\"example-box\">\n            <b>3</b> ratus ribuan = 300.000<br/>\n            <b>7</b> puluh ribuan = 70.000<br/>\n            <b>5</b> ribuan = 5.000<br/>\n            <b>4</b> ratusan = 400<br/>\n            <b>8</b> puluhan = 80<br/>\n            <b>2</b> satuan = 2\n          </div>\n          <h3>Nilai Tempat vs Nilai Angka</h3>\n          <p>Dua hal yang sering tertukar. Ambil angka <b>7</b> pada 375.482:</p>\n          <div class=\"formula-box\">Nilai tempat 7 = puluh ribuan<br/>Nilai angka 7 = 70.000</div>\n          <h3>Cara Membaca Angka Besar</h3>\n          <p>Kelompokkan tiga angka dari kanan, baca kelompok kiri lalu ucapkan “ribu”, baru lanjut kelompok kanan.</p>\n          <div class=\"example-box\"><b>375.482</b> dibaca:<br/>“tiga ratus tujuh puluh lima ribu empat ratus delapan puluh dua”</div>\n          <h3>Bentuk Panjang</h3>\n          <div class=\"formula-box\">375.482 = 300.000 + 70.000 + 5.000 + 400 + 80 + 2</div>\n          <h3>Tips</h3>\n          <p>Kalau soal TKA memuat angka besar (harga, jarak, jumlah penduduk), baca pelan sambil kelompokkan tiga-tiga dari kanan agar tidak salah tempat.</p>\n        "
     },
     {
       "id": "penjumlahan-pengurangan",
@@ -156,18 +157,18 @@
     {
       "id": "bangun-datar",
       "title": "Bangun Datar",
-      "desc": "Rumus keliling & luas segitiga, segiempat, segi banyak.",
+      "desc": "Rumus keliling & luas segitiga & segiempat (persegi, jajar genjang, trapesium, belah ketupat, layang-layang) serta segi banyak.",
       "status": "ready",
       "panels": [
         "Bangun datar itu bentuk 2 dimensi — punya panjang dan lebar, tapi tidak punya tebal.",
-        "Ada macam-macam: <b>persegi</b>, <b>persegi panjang</b>, <b>segitiga</b>, <b>lingkaran</b>, dan <b>trapesium</b>.",
+        "Ada macam-macam: <b>persegi</b>, <b>persegi panjang</b>, <b>jajar genjang</b>, <b>trapesium</b>, <b>belah ketupat</b>, <b>layang-layang</b>, <b>segitiga</b>, dan <b>lingkaran</b>.",
         "Setiap bangun datar punya rumus <b>luas</b> dan <b>keliling</b> masing-masing.",
         "<b>Luas</b> itu ukuran daerah di dalam bangun. Misal luas persegi: sisi × sisi.",
         "<b>Keliling</b> itu jumlah panjang semua sisi. Misal keliling persegi: 4 × sisi.",
         "Contoh: persegi dengan sisi 5 cm. Luasnya 5 × 5 = 25 cm². Kelilingnya 4 × 5 = 20 cm."
       ],
       "practiceTopic": "geometri",
-      "content": "\n          <h2>Bangun Datar</h2>\n          <h3>Persegi</h3>\n          <div class=\"formula-box\">Keliling = 4 × s<br/>Luas = s × s</div>\n          <h3>Persegi Panjang</h3>\n          <div class=\"formula-box\">Keliling = 2 × (p + l)<br/>Luas = p × l</div>\n          <h3>Segitiga</h3>\n          <div class=\"formula-box\">Keliling = a + b + c<br/>Luas = 1/2 × alas × tinggi</div>\n          <div class=\"example-box\">\n            <b>Contoh:</b> Segitiga dengan alas 8 cm dan tinggi 6 cm.<br/>\n            Luas = 1/2 × 8 × 6 = 24 cm²\n          </div>\n          <h3>Lingkaran</h3>\n          <div class=\"formula-box\">Keliling = 2 × π × r<br/>Luas = π × r × r<br/>(π = 22/7 atau 3,14)</div>\n        "
+      "content": "\n          <h2>Bangun Datar</h2>\n          <h3>Persegi</h3>\n          <div class=\"formula-box\">Keliling = 4 × s<br/>Luas = s × s</div>\n          <h3>Persegi Panjang</h3>\n          <div class=\"formula-box\">Keliling = 2 × (p + l)<br/>Luas = p × l</div>\n          <h3>Jajar Genjang</h3>\n          <div class=\"formula-box\">Keliling = 2 × (a + b)<br/>Luas = alas × tinggi</div>\n          <h3>Trapesium</h3>\n          <div class=\"formula-box\">Luas = ½ × (jumlah sisi sejajar) × tinggi<br/>Keliling = jumlah semua sisi</div>\n          <div class=\"example-box\">\n            <b>Contoh:</b> Trapesium dengan sisi sejajar 10 cm dan 6 cm, tinggi 4 cm.<br/>\n            Luas = ½ × (10 + 6) × 4 = 32 cm²\n          </div>\n          <h3>Belah Ketupat</h3>\n          <div class=\"formula-box\">Keliling = 4 × s<br/>Luas = ½ × d₁ × d₂</div>\n          <p>Keempat sisinya sama panjang; kedua diagonalnya berpotongan tegak lurus.</p>\n          <h3>Layang-layang</h3>\n          <div class=\"formula-box\">Keliling = 2 × (sisi pendek + sisi panjang)<br/>Luas = ½ × d₁ × d₂</div>\n          <h3>Segitiga</h3>\n          <div class=\"formula-box\">Keliling = a + b + c<br/>Luas = ½ × alas × tinggi</div>\n          <div class=\"example-box\">\n            <b>Contoh:</b> Segitiga dengan alas 8 cm dan tinggi 6 cm.<br/>\n            Luas = ½ × 8 × 6 = 24 cm²\n          </div>\n          <h3>Lingkaran</h3>\n          <div class=\"formula-box\">Keliling = 2 × π × r<br/>Luas = π × r × r<br/>(π = 22/7 atau 3,14)</div>\n        "
     },
     {
       "id": "kpk-fpb",
