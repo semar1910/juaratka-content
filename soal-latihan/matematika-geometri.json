@@ -1,7 +1,7 @@
 {
   "mapel": "matematika",
   "topik": "geometri",
-  "count": 39,
+  "count": 69,
   "updated": "2026-07-19",
   "soal": [
     {
@@ -625,6 +625,498 @@
       "level": "ujian",
       "materi": "sudut",
       "image": "sudut-pq-or-os.svg"
+    },
+    {
+      "type": "mcq",
+      "question": "Permukaan sebuah ubin lantai memiliki 4 sisi sama panjang dan 4 sudut siku-siku. Bangun datar permukaan ubin itu adalah ...",
+      "options": [
+        "Persegi",
+        "Persegi panjang",
+        "Segitiga",
+        "Trapesium"
+      ],
+      "answer": 0,
+      "explanation": "Bangun datar dengan 4 sisi sama panjang dan 4 sudut siku-siku adalah persegi.",
+      "level": "dasar",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "mcq",
+      "question": "Bangun datar yang memiliki tiga sisi dan tiga sudut disebut ...",
+      "options": [
+        "Persegi",
+        "Segitiga",
+        "Trapesium",
+        "Lingkaran"
+      ],
+      "answer": 1,
+      "explanation": "Bangun datar bersisi tiga dan bersudut tiga adalah segitiga.",
+      "level": "dasar",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah sapu tangan berbentuk persegi dengan panjang sisi 25 cm. Keliling sapu tangan itu adalah ...",
+      "options": [
+        "50 cm",
+        "75 cm",
+        "100 cm",
+        "125 cm"
+      ],
+      "answer": 2,
+      "explanation": "Keliling persegi = 4 × sisi = 4 × 25 = 100 cm.",
+      "level": "dasar",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "mcq",
+      "question": "Sampul sebuah buku tulis berbentuk persegi panjang dengan panjang 25 cm dan lebar 18 cm. Luas sampul buku itu adalah ...",
+      "options": [
+        "86 cm²",
+        "225 cm²",
+        "450 cm²",
+        "500 cm²"
+      ],
+      "answer": 2,
+      "explanation": "Luas persegi panjang = panjang × lebar = 25 × 18 = 450 cm².",
+      "level": "dasar",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah kolam ikan berbentuk persegi panjang dengan panjang 8 m dan lebar 5 m. Keliling kolam tersebut adalah ...",
+      "options": [
+        "13 m",
+        "26 m",
+        "40 m",
+        "80 m"
+      ],
+      "answer": 1,
+      "explanation": "Keliling persegi panjang = 2 × (panjang + lebar) = 2 × (8 + 5) = 2 × 13 = 26 m.",
+      "level": "dasar",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah rambu lalu lintas berbentuk segitiga dengan alas 30 cm dan tinggi 40 cm. Luas rambu tersebut adalah ...",
+      "options": [
+        "70 cm²",
+        "120 cm²",
+        "600 cm²",
+        "1.200 cm²"
+      ],
+      "answer": 2,
+      "explanation": "Luas segitiga = ½ × alas × tinggi = ½ × 30 × 40 = 600 cm².",
+      "level": "dasar",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah taplak meja berbentuk persegi dengan panjang sisi 120 cm. Luas taplak meja tersebut adalah ...",
+      "options": [
+        "240 cm²",
+        "480 cm²",
+        "1.440 cm²",
+        "14.400 cm²"
+      ],
+      "answer": 3,
+      "explanation": "Luas persegi = sisi × sisi = 120 × 120 = 14.400 cm².",
+      "level": "dasar",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "mcq",
+      "question": "Trapesium adalah bangun datar segiempat yang memiliki tepat ...",
+      "options": [
+        "Dua pasang sisi sejajar",
+        "Sepasang sisi sejajar",
+        "Semua sisi sama panjang",
+        "Tidak punya sisi sejajar"
+      ],
+      "answer": 1,
+      "explanation": "Trapesium memiliki tepat sepasang sisi yang sejajar.",
+      "level": "dasar",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "mcq",
+      "question": "Sepotong kain berbentuk segitiga dengan alas 16 cm dan tinggi 9 cm. Luas kain tersebut adalah ...",
+      "options": [
+        "25 cm²",
+        "36 cm²",
+        "72 cm²",
+        "144 cm²"
+      ],
+      "answer": 2,
+      "explanation": "Luas segitiga = ½ × alas × tinggi = ½ × 16 × 9 = 72 cm².",
+      "level": "dasar",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah bingkai foto berbentuk persegi dengan panjang sisi 15 cm. Panjang kayu yang dibutuhkan untuk membuat kelilingnya adalah ...",
+      "options": [
+        "30 cm",
+        "45 cm",
+        "60 cm",
+        "225 cm"
+      ],
+      "answer": 2,
+      "explanation": "Keliling persegi = 4 × sisi = 4 × 15 = 60 cm.",
+      "level": "dasar",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "mcq",
+      "question": "Lantai sebuah kamar berbentuk persegi panjang dengan panjang 6 m dan lebar 4 m. Lantai akan dipasangi keramik, dan tiap 1 m² membutuhkan 4 keping keramik. Berapa keping keramik yang dibutuhkan?",
+      "options": [
+        "24 keping",
+        "48 keping",
+        "96 keping",
+        "120 keping"
+      ],
+      "answer": 2,
+      "explanation": "Luas lantai = 6 × 4 = 24 m². Kebutuhan keramik = 24 × 4 = 96 keping.",
+      "level": "rutin",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah kebun berbentuk persegi panjang berukuran 20 m × 15 m akan dipagari di sekelilingnya. Panjang pagar yang dibutuhkan adalah ...",
+      "options": [
+        "35 m",
+        "70 m",
+        "140 m",
+        "300 m"
+      ],
+      "answer": 1,
+      "explanation": "Panjang pagar = keliling = 2 × (20 + 15) = 2 × 35 = 70 m.",
+      "level": "rutin",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah layar perahu berbentuk segitiga memiliki luas 12 m² dan tinggi 6 m. Panjang alas layar tersebut adalah ...",
+      "options": [
+        "2 m",
+        "4 m",
+        "6 m",
+        "8 m"
+      ],
+      "answer": 1,
+      "explanation": "Luas = ½ × alas × tinggi → 12 = ½ × alas × 6 → 12 = 3 × alas → alas = 4 m.",
+      "level": "rutin",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "multiselect",
+      "question": "Perhatikan pernyataan tentang bangun persegi berikut. Pilih semua yang benar!",
+      "options": [
+        "Keempat sisinya sama panjang.",
+        "Memiliki 4 sudut siku-siku.",
+        "Hanya memiliki 2 sumbu simetri.",
+        "Kedua diagonalnya sama panjang."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Persegi: keempat sisi sama panjang (benar), 4 sudut siku-siku (benar), memiliki 4 sumbu simetri bukan 2 (salah), kedua diagonal sama panjang (benar).",
+      "level": "rutin",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "multiselect",
+      "question": "Pilih semua bangun datar yang memiliki sisi-sisi yang sejajar!",
+      "options": [
+        "Persegi panjang",
+        "Segitiga sama sisi",
+        "Jajar genjang",
+        "Trapesium"
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Persegi panjang memiliki dua pasang sisi sejajar (benar). Segitiga tidak memiliki sisi sejajar (salah). Jajar genjang memiliki dua pasang sisi sejajar (benar). Trapesium memiliki sepasang sisi sejajar (benar).",
+      "level": "rutin",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan pernyataan tentang keliling dan luas bangun datar berikut. Tentukan Benar atau Salah!",
+      "statements": [
+        {
+          "text": "Persegi dengan sisi 10 cm memiliki luas 100 cm².",
+          "answer": true
+        },
+        {
+          "text": "Persegi panjang dengan panjang 12 cm dan lebar 5 cm memiliki keliling 34 cm.",
+          "answer": true
+        },
+        {
+          "text": "Segitiga dengan alas 10 cm dan tinggi 4 cm memiliki luas 40 cm².",
+          "answer": false
+        }
+      ],
+      "explanation": "Luas persegi = 10 × 10 = 100 cm² (BENAR). Keliling = 2 × (12 + 5) = 34 cm (BENAR). Luas segitiga = ½ × 10 × 4 = 20 cm², bukan 40 (SALAH).",
+      "level": "rutin",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan gambar. Sebuah bangun berbentuk huruf L tersusun dari dua persegi panjang: bagian pertama 6 cm × 4 cm dan bagian kedua 3 cm × 2 cm. Luas seluruh bangun tersebut adalah ...",
+      "options": [
+        "18 cm²",
+        "24 cm²",
+        "30 cm²",
+        "36 cm²"
+      ],
+      "answer": 2,
+      "explanation": "Luas gabungan = luas bagian 1 + luas bagian 2 = (6 × 4) + (3 × 2) = 24 + 6 = 30 cm².",
+      "level": "rutin",
+      "materi": "bangun-datar",
+      "image": "bangun-L-gabungan.svg"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah taman berbentuk segitiga dengan panjang sisi 12 m, 16 m, dan 20 m. Pak Tani ingin memasang lampu di sepanjang tepi taman dengan jarak tiap 4 m. Berapa lampu yang dibutuhkan?",
+      "options": [
+        "10 lampu",
+        "12 lampu",
+        "14 lampu",
+        "48 lampu"
+      ],
+      "answer": 1,
+      "explanation": "Keliling taman = 12 + 16 + 20 = 48 m. Jumlah lampu = 48 ÷ 4 = 12 lampu.",
+      "level": "rutin",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah meja berbentuk trapesium dengan panjang sisi sejajar 80 cm dan 50 cm, serta tinggi 40 cm. Luas permukaan meja tersebut adalah ...",
+      "options": [
+        "1.300 cm²",
+        "2.000 cm²",
+        "2.600 cm²",
+        "5.200 cm²"
+      ],
+      "answer": 2,
+      "explanation": "Luas trapesium = ½ × (jumlah sisi sejajar) × tinggi = ½ × (80 + 50) × 40 = ½ × 130 × 40 = 2.600 cm².",
+      "level": "rutin",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "truefalse",
+      "question": "Sebuah persegi panjang berukuran 8 cm × 6 cm dipotong menjadi dua segitiga siku-siku yang sama besar melalui garis diagonalnya. Tentukan Benar atau Salah!",
+      "statements": [
+        {
+          "text": "Luas persegi panjang tersebut adalah 48 cm².",
+          "answer": true
+        },
+        {
+          "text": "Luas tiap segitiga hasil potongan adalah 24 cm².",
+          "answer": true
+        },
+        {
+          "text": "Kedua segitiga hasil potongan tidak sama luas.",
+          "answer": false
+        }
+      ],
+      "explanation": "Luas persegi panjang = 8 × 6 = 48 cm² (BENAR). Karena dibagi dua sama besar, tiap segitiga = 48 ÷ 2 = 24 cm² (BENAR). Kedua segitiga sama besar, jadi sama luas (SALAH).",
+      "level": "rutin",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan denah taman pada gambar. Taman berbentuk huruf L tersusun dari dua persegi panjang: 10 m × 4 m dan 4 m × 3 m. Luas taman tersebut adalah ...",
+      "options": [
+        "40 m²",
+        "52 m²",
+        "64 m²",
+        "120 m²"
+      ],
+      "answer": 1,
+      "explanation": "Luas taman = (10 × 4) + (4 × 3) = 40 + 12 = 52 m².",
+      "level": "ujian",
+      "materi": "bangun-datar",
+      "image": "bangun-taman-L.svg"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan gambar lantai yang dipasangi ubin persegi. Lantai berbentuk persegi panjang berukuran 4 m × 3 m, dan tiap ubin berukuran 1 m × 1 m. Tentukan Benar atau Salah!",
+      "statements": [
+        {
+          "text": "Dibutuhkan 12 ubin untuk menutup seluruh lantai.",
+          "answer": true
+        },
+        {
+          "text": "Luas lantai tersebut adalah 12 m².",
+          "answer": true
+        },
+        {
+          "text": "Keliling lantai tersebut adalah 12 m.",
+          "answer": false
+        }
+      ],
+      "explanation": "Luas lantai = 4 × 3 = 12 m², jadi butuh 12 ubin (BENAR & BENAR). Keliling = 2 × (4 + 3) = 14 m, bukan 12 (SALAH).",
+      "level": "ujian",
+      "materi": "bangun-datar",
+      "image": "bangun-lantai-ubin.png"
+    },
+    {
+      "type": "multiselect",
+      "question": "Perhatikan berbagai benda di sekitar kita. Pilih semua benda yang permukaannya berbentuk segitiga!",
+      "options": [
+        "Rambu peringatan 'hati-hati' di jalan.",
+        "Penggaris set (penggaris segitiga).",
+        "Permukaan uang logam.",
+        "Atap rumah dilihat dari depan."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Rambu peringatan berbentuk segitiga (benar). Penggaris set berbentuk segitiga (benar). Uang logam berbentuk lingkaran (salah). Atap rumah dari depan berbentuk segitiga (benar).",
+      "level": "ujian",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan gambar. Sebuah pelat logam berbentuk persegi berukuran 10 cm × 10 cm. Salah satu bagiannya dipotong berbentuk segitiga dengan alas 10 cm dan tinggi 4 cm. Luas pelat logam yang tersisa adalah ...",
+      "options": [
+        "70 cm²",
+        "80 cm²",
+        "90 cm²",
+        "100 cm²"
+      ],
+      "answer": 1,
+      "explanation": "Luas persegi = 10 × 10 = 100 cm². Luas segitiga yang dipotong = ½ × 10 × 4 = 20 cm². Sisa = 100 − 20 = 80 cm².",
+      "level": "ujian",
+      "materi": "bangun-datar",
+      "image": "bangun-potong-segitiga.svg"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan gambar bangun pada grid kotak-kotak. Bangun ini bisa disusun dari beberapa bangun datar. Tentukan Mungkin atau Tidak Mungkin untuk setiap kumpulan penyusun!",
+      "labels": [
+        "Mungkin",
+        "Tidak Mungkin"
+      ],
+      "statements": [
+        {
+          "text": "5 buah persegi satuan yang sama.",
+          "answer": true
+        },
+        {
+          "text": "1 persegi panjang 3×1 dan 2 persegi satuan.",
+          "answer": true
+        },
+        {
+          "text": "1 persegi 2×2 dan 1 persegi satuan.",
+          "answer": false
+        }
+      ],
+      "explanation": "Bangun berbentuk tanda tambah tersusun dari 5 persegi satuan (MUNGKIN). Bisa juga dilihat sebagai batang tegak 3×1 di tengah ditambah 2 persegi satuan di kiri-kanan (MUNGKIN). Persegi 2×2 tidak muat di dalam bentuk tanda tambah yang tidak punya blok 2×2 penuh (TIDAK MUNGKIN).",
+      "level": "ujian",
+      "materi": "bangun-datar",
+      "image": "bangun-plus-grid.svg"
+    },
+    {
+      "type": "mcq",
+      "question": "Bu Sari membuat taplak meja berbentuk persegi dengan panjang sisi 1 m. Ia menghias seluruh tepinya dengan renda seharga Rp5.000 per meter. Berapa biaya renda yang dibutuhkan?",
+      "options": [
+        "Rp15.000",
+        "Rp20.000",
+        "Rp25.000",
+        "Rp40.000"
+      ],
+      "answer": 1,
+      "explanation": "Panjang renda = keliling taplak = 4 × 1 = 4 m. Biaya = 4 × Rp5.000 = Rp20.000.",
+      "level": "ujian",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "multiselect",
+      "question": "Perhatikan pernyataan tentang sifat berbagai bangun datar berikut. Pilih semua pernyataan yang benar!",
+      "options": [
+        "Setiap persegi juga merupakan persegi panjang.",
+        "Setiap persegi panjang juga merupakan persegi.",
+        "Belah ketupat memiliki empat sisi yang sama panjang.",
+        "Trapesium memiliki dua pasang sisi sejajar."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Persegi memenuhi semua ciri persegi panjang (sudut siku-siku, sisi berhadapan sejajar), jadi persegi adalah persegi panjang khusus (benar). Sebaliknya tidak selalu berlaku (salah). Belah ketupat bersisi empat sama panjang (benar). Trapesium hanya punya sepasang sisi sejajar (salah).",
+      "level": "ujian",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "multiselect",
+      "question": "Perhatikan gambar papan nama berbentuk gabungan persegi panjang (20 cm × 8 cm) dan segitiga (alas 8 cm, tinggi 6 cm) di ujungnya. Pilih semua pernyataan yang benar!",
+      "options": [
+        "Luas bagian persegi panjang adalah 160 cm².",
+        "Luas bagian segitiga adalah 24 cm².",
+        "Luas seluruh papan nama adalah 184 cm².",
+        "Luas seluruh papan nama adalah 200 cm²."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Luas persegi panjang = 20 × 8 = 160 cm² (benar). Luas segitiga = ½ × 8 × 6 = 24 cm² (benar). Luas total = 160 + 24 = 184 cm² (benar), bukan 200 (salah).",
+      "level": "ujian",
+      "materi": "bangun-datar",
+      "image": "bangun-papan-nama.svg"
+    },
+    {
+      "type": "truefalse",
+      "question": "Dua buah taman diketahui ukurannya: Taman A berbentuk persegi dengan sisi 10 m, dan Taman B berbentuk persegi panjang berukuran 12 m × 8 m. Tentukan Benar atau Salah!",
+      "statements": [
+        {
+          "text": "Luas Taman A lebih besar daripada luas Taman B.",
+          "answer": true
+        },
+        {
+          "text": "Keliling kedua taman sama besar.",
+          "answer": true
+        },
+        {
+          "text": "Taman B memiliki luas lebih besar daripada Taman A.",
+          "answer": false
+        }
+      ],
+      "explanation": "Luas A = 10 × 10 = 100 m²; Luas B = 12 × 8 = 96 m², jadi A lebih luas (BENAR). Keliling A = 4 × 10 = 40 m; Keliling B = 2 × (12 + 8) = 40 m, sama (BENAR). Karena A lebih luas, pernyataan B lebih luas adalah SALAH.",
+      "level": "ujian",
+      "materi": "bangun-datar"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan gambar. Sebuah dinding berbentuk persegi panjang berukuran 5 m × 3 m akan dicat. Pada dinding itu terdapat satu jendela berbentuk persegi berukuran 1 m × 1 m yang tidak ikut dicat. Tentukan Benar atau Salah!",
+      "statements": [
+        {
+          "text": "Luas seluruh dinding adalah 15 m².",
+          "answer": true
+        },
+        {
+          "text": "Luas dinding yang dicat adalah 14 m².",
+          "answer": true
+        },
+        {
+          "text": "Luas dinding yang dicat adalah 15 m².",
+          "answer": false
+        }
+      ],
+      "explanation": "Luas dinding = 5 × 3 = 15 m² (BENAR). Luas jendela = 1 × 1 = 1 m². Luas yang dicat = 15 − 1 = 14 m² (BENAR), jadi 15 m² SALAH.",
+      "level": "ujian",
+      "materi": "bangun-datar",
+      "image": "bangun-dinding-jendela.png"
     }
   ]
 }
