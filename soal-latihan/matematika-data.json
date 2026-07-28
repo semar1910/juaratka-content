@@ -1,35 +1,9 @@
 {
   "mapel": "matematika",
   "topik": "data",
-  "count": 8,
-  "updated": "2026-07-13",
+  "count": 66,
+  "updated": "2026-07-22",
   "soal": [
-    {
-      "level": "dasar",
-      "mapel": "Matematika · Data",
-      "question": "Data nilai 5 siswa: 70, 80, 60, 90, 80. Berapa rata-ratanya?",
-      "options": [
-        "70",
-        "76",
-        "80",
-        "90"
-      ],
-      "correct": 1,
-      "pembahasan": "Rata-rata = jumlah semua data ÷ banyak data = (70+80+60+90+80) ÷ 5 = 380 ÷ 5 = 76."
-    },
-    {
-      "level": "dasar",
-      "mapel": "Matematika · Data",
-      "question": "Dari data: 5, 8, 3, 8, 6, 8, 4. Modusnya adalah...",
-      "options": [
-        "3",
-        "5",
-        "6",
-        "8"
-      ],
-      "correct": 3,
-      "pembahasan": "Modus adalah data yang paling sering muncul. Angka 8 muncul 3 kali, paling banyak."
-    },
     {
       "level": "dasar",
       "mapel": "Matematika · Data",
@@ -120,6 +94,973 @@
         }
       ],
       "pembahasan": "(1) a ganjil → (a+1) genap → jalur \"tidak\" → 10 + (ganjil × 3) = 10 + ganjil = ganjil ✓ BENAR. (2) a=3 → (3+1)=4 genap → jalur \"tidak\" → 10 + 3×3 = 19 ✓ BENAR. (3) a=2 → (2+1)=3 ganjil → jalur \"ya\" → 10 − 2×2 = 6 (bukan 4) SALAH."
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan diagram batang berikut! Berapa jumlah pengunjung perpustakaan pada hari Kamis?",
+      "image": "data-batang-pengunjung.svg",
+      "options": [
+        "30 orang",
+        "50 orang",
+        "60 orang",
+        "70 orang"
+      ],
+      "answer": 3,
+      "explanation": "Batang hari Kamis mencapai garis 70, jadi pengunjungnya 70 orang.",
+      "level": "dasar",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan diagram batang berikut! Pada hari apakah jumlah pengunjung paling sedikit?",
+      "image": "data-batang-pengunjung.svg",
+      "options": [
+        "Senin",
+        "Selasa",
+        "Rabu",
+        "Jumat"
+      ],
+      "answer": 2,
+      "explanation": "Batang paling pendek adalah hari Rabu (30 orang).",
+      "level": "dasar",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan diagram batang berikut! Buah apakah yang terjual paling banyak?",
+      "image": "data-batang-buah.svg",
+      "options": [
+        "Apel",
+        "Jeruk",
+        "Mangga",
+        "Pisang"
+      ],
+      "answer": 3,
+      "explanation": "Batang tertinggi adalah pisang (60 kg).",
+      "level": "dasar",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan diagram batang berikut! Berapa kg jeruk yang terjual?",
+      "image": "data-batang-buah.svg",
+      "options": [
+        "20 kg",
+        "30 kg",
+        "50 kg",
+        "60 kg"
+      ],
+      "answer": 2,
+      "explanation": "Batang jeruk mencapai garis 50, jadi jeruk terjual 50 kg.",
+      "level": "dasar",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan tabel berikut! Berapa banyak siswa yang mendapat nilai 80?",
+      "image": "data-tabel-nilai.svg",
+      "options": [
+        "4 siswa",
+        "5 siswa",
+        "7 siswa",
+        "9 siswa"
+      ],
+      "answer": 3,
+      "explanation": "Pada baris nilai 80 tertulis 9 siswa.",
+      "level": "dasar",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan tabel berikut! Petani manakah yang memperoleh hasil panen terbanyak?",
+      "image": "data-tabel-panen.svg",
+      "options": [
+        "Ahmad",
+        "Bagas",
+        "Cintia",
+        "Dewi"
+      ],
+      "answer": 2,
+      "explanation": "Hasil panen terbesar adalah Cintia dengan 140 kg.",
+      "level": "dasar",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan piktogram berikut! Berapa banyak buku yang dipinjam pada hari Selasa?",
+      "image": "data-piktogram-buku.svg",
+      "options": [
+        "7 buku",
+        "30 buku",
+        "60 buku",
+        "70 buku"
+      ],
+      "answer": 3,
+      "explanation": "Hari Selasa ada 7 gambar. Karena 1 gambar mewakili 10 buku, maka 7 × 10 = 70 buku.",
+      "level": "dasar",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan piktogram berikut! Berapa karung stok beras pada hari Senin?",
+      "image": "data-piktogram-beras.svg",
+      "options": [
+        "6 karung",
+        "125 karung",
+        "150 karung",
+        "200 karung"
+      ],
+      "answer": 2,
+      "explanation": "Hari Senin ada 6 gambar. Karena 1 gambar mewakili 25 karung, maka 6 × 25 = 150 karung.",
+      "level": "dasar",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan diagram batang berikut! Hobi apakah yang paling banyak dipilih siswa?",
+      "image": "data-batang-hobi.svg",
+      "options": [
+        "Membaca",
+        "Olahraga",
+        "Menggambar",
+        "Menyanyi"
+      ],
+      "answer": 1,
+      "explanation": "Batang tertinggi adalah olahraga (20 siswa).",
+      "level": "dasar",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "mcq",
+      "question": "Pada piktogram, keterangan seperti \"1 gambar mewakili 25 karung\" berguna untuk ...",
+      "options": [
+        "menghias diagram",
+        "mengetahui nilai yang diwakili setiap gambar",
+        "menunjukkan judul data",
+        "menentukan urutan hari"
+      ],
+      "answer": 1,
+      "explanation": "Keterangan tersebut menyatakan nilai yang diwakili satu gambar, sehingga jumlah sebenarnya = banyak gambar × nilai tiap gambar.",
+      "level": "dasar",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan diagram batang berikut! Berapa selisih jumlah pengunjung hari Selasa dan hari Rabu?",
+      "image": "data-batang-pengunjung.svg",
+      "options": [
+        "20 orang",
+        "30 orang",
+        "40 orang",
+        "90 orang"
+      ],
+      "answer": 1,
+      "explanation": "Selasa 60 orang dan Rabu 30 orang. Selisih = 60 − 30 = 30 orang.",
+      "level": "rutin",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan diagram batang berikut! Berapa jumlah seluruh pengunjung dari hari Senin sampai Jumat?",
+      "image": "data-batang-pengunjung.svg",
+      "options": [
+        "200 orang",
+        "240 orang",
+        "250 orang",
+        "270 orang"
+      ],
+      "answer": 2,
+      "explanation": "Total = 40 + 60 + 30 + 70 + 50 = 250 orang.",
+      "level": "rutin",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan diagram batang berikut! Berapa selisih penjualan pisang dan mangga?",
+      "image": "data-batang-buah.svg",
+      "options": [
+        "20 kg",
+        "30 kg",
+        "40 kg",
+        "80 kg"
+      ],
+      "answer": 2,
+      "explanation": "Pisang 60 kg dan mangga 20 kg. Selisih = 60 − 20 = 40 kg.",
+      "level": "rutin",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan tabel berikut! Berapa banyak siswa yang memperoleh nilai 90 atau lebih?",
+      "image": "data-tabel-nilai.svg",
+      "options": [
+        "5 siswa",
+        "7 siswa",
+        "12 siswa",
+        "16 siswa"
+      ],
+      "answer": 2,
+      "explanation": "Nilai 90 sebanyak 7 siswa dan nilai 100 sebanyak 5 siswa. Jumlah = 7 + 5 = 12 siswa.",
+      "level": "rutin",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan piktogram berikut! Berapa jumlah seluruh buku yang dipinjam selama lima hari?",
+      "image": "data-piktogram-buku.svg",
+      "options": [
+        "25 buku",
+        "200 buku",
+        "250 buku",
+        "300 buku"
+      ],
+      "answer": 2,
+      "explanation": "Jumlah gambar = 4 + 7 + 3 + 6 + 5 = 25 gambar. Total buku = 25 × 10 = 250 buku.",
+      "level": "rutin",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan piktogram berikut! Berapa selisih stok beras hari Selasa dan hari Rabu?",
+      "image": "data-piktogram-beras.svg",
+      "options": [
+        "3 karung",
+        "75 karung",
+        "125 karung",
+        "200 karung"
+      ],
+      "answer": 1,
+      "explanation": "Selasa = 8 × 25 = 200 karung; Rabu = 5 × 25 = 125 karung. Selisih = 200 − 125 = 75 karung.",
+      "level": "rutin",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan diagram batang berikut! Berapa jumlah seluruh siswa yang datanya disajikan?",
+      "image": "data-batang-hobi.svg",
+      "options": [
+        "48 siswa",
+        "52 siswa",
+        "56 siswa",
+        "60 siswa"
+      ],
+      "answer": 2,
+      "explanation": "Total = 12 + 20 + 8 + 16 = 56 siswa.",
+      "level": "rutin",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan tabel berikut! Berapa selisih hasil panen tertinggi dan terendah?",
+      "image": "data-tabel-panen.svg",
+      "options": [
+        "35 kg",
+        "45 kg",
+        "50 kg",
+        "245 kg"
+      ],
+      "answer": 1,
+      "explanation": "Tertinggi Cintia 140 kg, terendah Bagas 95 kg. Selisih = 140 − 95 = 45 kg.",
+      "level": "rutin",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "multiselect",
+      "question": "Perhatikan diagram batang berikut! Pilih semua pernyataan yang benar!",
+      "image": "data-batang-buah.svg",
+      "options": [
+        "Pisang terjual paling banyak.",
+        "Selisih penjualan jeruk dan apel adalah 20 kg.",
+        "Jumlah seluruh buah yang terjual 160 kg.",
+        "Mangga terjual lebih banyak daripada apel."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Apel 30, jeruk 50, mangga 20, pisang 60. Pisang terbanyak (✓). Selisih jeruk−apel = 50 − 30 = 20 kg (✓). Total = 30+50+20+60 = 160 kg (✓). Mangga (20) lebih sedikit daripada apel (30), jadi pernyataan terakhir salah.",
+      "level": "rutin",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan tabel berikut! Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "image": "data-tabel-nilai.svg",
+      "statements": [
+        {
+          "text": "Siswa paling banyak memperoleh nilai 80.",
+          "answer": true
+        },
+        {
+          "text": "Ada 5 siswa yang memperoleh nilai 100.",
+          "answer": true
+        },
+        {
+          "text": "Jumlah seluruh siswa adalah 20 orang.",
+          "answer": false
+        }
+      ],
+      "explanation": "Nilai 80 diperoleh 9 siswa, terbanyak (BENAR). Nilai 100 diperoleh 5 siswa (BENAR). Jumlah seluruh siswa = 4 + 9 + 7 + 5 = 25 orang, bukan 20 (SALAH).",
+      "level": "rutin",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan piktogram penjualan minuman berikut! Berapa botol air mineral yang terjual?",
+      "image": "data-piktogram-minuman.svg",
+      "options": [
+        "5 botol",
+        "30 botol",
+        "50 botol",
+        "60 botol"
+      ],
+      "answer": 2,
+      "explanation": "Air mineral memiliki 5 gambar, dan 1 gambar air mineral = 10 botol. Jadi 5 × 10 = 50 botol.",
+      "level": "ujian",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan piktogram penjualan minuman berikut! Minuman manakah yang terjual paling banyak?",
+      "image": "data-piktogram-minuman.svg",
+      "options": [
+        "Air mineral",
+        "Teh",
+        "Soda",
+        "Teh dan soda sama banyak"
+      ],
+      "answer": 0,
+      "explanation": "Perhatikan keterangannya berbeda tiap minuman. Air mineral = 5 × 10 = 50 botol; teh = 6 × 5 = 30 botol; soda = 4 × 8 = 32 botol. Meskipun gambar teh paling banyak, yang terjual paling banyak adalah air mineral.",
+      "level": "ujian",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "multiselect",
+      "question": "Perhatikan piktogram penjualan minuman berikut! Pilih semua pernyataan yang benar!",
+      "image": "data-piktogram-minuman.svg",
+      "options": [
+        "Air mineral terjual 50 botol.",
+        "Teh terjual 30 botol.",
+        "Soda terjual 32 botol.",
+        "Teh terjual paling banyak karena gambarnya paling banyak."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Air mineral 5 × 10 = 50 (✓); teh 6 × 5 = 30 (✓); soda 4 × 8 = 32 (✓). Banyaknya gambar tidak menentukan jumlah terbanyak karena nilai tiap gambar berbeda, jadi pernyataan terakhir salah.",
+      "level": "ujian",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "multiselect",
+      "question": "Perhatikan diagram batang berikut! Pilih semua pernyataan yang benar!",
+      "image": "data-batang-pengunjung.svg",
+      "options": [
+        "Jumlah pengunjung tertinggi terjadi pada hari Kamis.",
+        "Selisih pengunjung hari Selasa dan Rabu adalah 30 orang.",
+        "Total pengunjung selama lima hari adalah 250 orang.",
+        "Jumlah pengunjung hari Jumat dua kali lipat hari Rabu."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Data: Sen 40, Sel 60, Rab 30, Kam 70, Jum 50. Kamis tertinggi (✓). Selisih Sel−Rab = 30 (✓). Total = 250 (✓). Jumat 50, dua kali Rabu seharusnya 60, jadi pernyataan terakhir salah.",
+      "level": "ujian",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan piktogram stok beras berikut! Pada hari apakah stok beras sebanyak 225 karung?",
+      "image": "data-piktogram-beras.svg",
+      "options": [
+        "Senin",
+        "Selasa",
+        "Rabu",
+        "Kamis"
+      ],
+      "answer": 3,
+      "explanation": "225 ÷ 25 = 9 gambar. Hari yang memiliki 9 gambar adalah Kamis.",
+      "level": "ujian",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan piktogram stok beras berikut! Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "image": "data-piktogram-beras.svg",
+      "statements": [
+        {
+          "text": "Stok beras hari Kamis adalah 225 karung.",
+          "answer": true
+        },
+        {
+          "text": "Selisih stok hari Kamis dan hari Rabu adalah 100 karung.",
+          "answer": true
+        },
+        {
+          "text": "Stok beras hari Senin adalah 120 karung.",
+          "answer": false
+        }
+      ],
+      "explanation": "Kamis = 9 × 25 = 225 karung (BENAR). Rabu = 5 × 25 = 125; selisih = 225 − 125 = 100 karung (BENAR). Senin = 6 × 25 = 150 karung, bukan 120 (SALAH).",
+      "level": "ujian",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "multiselect",
+      "question": "Perhatikan tabel hasil panen berikut! Pilih semua pernyataan yang benar!",
+      "image": "data-tabel-panen.svg",
+      "options": [
+        "Cintia memperoleh panen terbanyak.",
+        "Jumlah seluruh hasil panen adalah 460 kg.",
+        "Selisih hasil panen Ahmad dan Dewi adalah 15 kg.",
+        "Bagas memperoleh panen lebih banyak daripada Dewi."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Ahmad 120, Bagas 95, Cintia 140, Dewi 105. Cintia terbanyak (✓). Total = 120+95+140+105 = 460 kg (✓). Ahmad − Dewi = 120 − 105 = 15 kg (✓). Bagas (95) lebih sedikit daripada Dewi (105), jadi pernyataan terakhir salah.",
+      "level": "ujian",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan diagram batang hobi siswa berikut! Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "image": "data-batang-hobi.svg",
+      "statements": [
+        {
+          "text": "Siswa yang memilih olahraga sebanyak 20 orang.",
+          "answer": true
+        },
+        {
+          "text": "Siswa yang memilih menyanyi dua kali lipat siswa yang memilih menggambar.",
+          "answer": true
+        },
+        {
+          "text": "Jumlah seluruh siswa adalah 48 orang.",
+          "answer": false
+        }
+      ],
+      "explanation": "Olahraga 20 siswa (BENAR). Menyanyi 16 dan menggambar 8, jadi 16 = 2 × 8 (BENAR). Total = 12 + 20 + 8 + 16 = 56 siswa, bukan 48 (SALAH).",
+      "level": "ujian",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan diagram batang penjualan buah berikut! Jika setiap kg pisang dijual seharga Rp5.000, berapa uang yang diperoleh dari penjualan pisang?",
+      "image": "data-batang-buah.svg",
+      "options": [
+        "Rp100.000",
+        "Rp250.000",
+        "Rp300.000",
+        "Rp800.000"
+      ],
+      "answer": 2,
+      "explanation": "Pisang terjual 60 kg. Uang = 60 × Rp5.000 = Rp300.000.",
+      "level": "ujian",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan piktogram peminjaman buku berikut! Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "image": "data-piktogram-buku.svg",
+      "statements": [
+        {
+          "text": "Pada hari Selasa dipinjam 70 buku.",
+          "answer": true
+        },
+        {
+          "text": "Selisih buku yang dipinjam hari Selasa dan Rabu adalah 40 buku.",
+          "answer": true
+        },
+        {
+          "text": "Jumlah buku yang dipinjam selama lima hari adalah 200 buku.",
+          "answer": false
+        }
+      ],
+      "explanation": "Selasa = 7 × 10 = 70 buku (BENAR). Rabu = 3 × 10 = 30; selisih = 70 − 30 = 40 buku (BENAR). Total = 40+70+30+60+50 = 250 buku, bukan 200 (SALAH).",
+      "level": "ujian",
+      "materi": "membaca-diagram"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan tabel berikut! Berapa banyak siswa yang menyukai jeruk?",
+      "image": "data-tabel-buah.svg",
+      "options": [
+        "3 siswa",
+        "4 siswa",
+        "6 siswa",
+        "7 siswa"
+      ],
+      "answer": 3,
+      "explanation": "Pada baris jeruk tertulis 7, jadi 7 siswa menyukai jeruk.",
+      "level": "dasar",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan tabel berikut! Berapa banyak siswa yang menyukai apel?",
+      "image": "data-tabel-buah.svg",
+      "options": [
+        "3 siswa",
+        "4 siswa",
+        "5 siswa",
+        "7 siswa"
+      ],
+      "answer": 1,
+      "explanation": "Pada baris apel tertulis 4, jadi 4 siswa menyukai apel.",
+      "level": "dasar",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan tabel berikut! Buah apakah yang paling banyak disukai siswa?",
+      "image": "data-tabel-buah.svg",
+      "options": [
+        "Apel",
+        "Jeruk",
+        "Mangga",
+        "Pisang"
+      ],
+      "answer": 1,
+      "explanation": "Banyaknya siswa: apel 4, jeruk 7, mangga 3, pisang 6. Terbanyak adalah jeruk.",
+      "level": "dasar",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "mcq",
+      "question": "Pada tabel frekuensi, angka pada kolom \"Banyak Siswa\" menunjukkan ...",
+      "options": [
+        "nama kelompok data",
+        "banyaknya data pada kelompok itu",
+        "jumlah seluruh data",
+        "urutan kelompok"
+      ],
+      "answer": 1,
+      "explanation": "Kolom banyak/frekuensi menunjukkan berapa banyak data yang termasuk kelompok tersebut.",
+      "level": "dasar",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "mcq",
+      "question": "Penyajian data yang menggunakan gambar untuk mewakili sejumlah benda disebut ...",
+      "options": [
+        "tabel frekuensi",
+        "piktogram",
+        "diagram batang",
+        "denah lokasi"
+      ],
+      "answer": 1,
+      "explanation": "Piktogram adalah penyajian data dengan gambar, dan setiap gambar mewakili sejumlah benda.",
+      "level": "dasar",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "mcq",
+      "question": "Penyajian data yang menggunakan batang-batang tegak dengan tinggi berbeda disebut ...",
+      "options": [
+        "piktogram",
+        "tabel frekuensi",
+        "diagram batang",
+        "denah lokasi"
+      ],
+      "answer": 2,
+      "explanation": "Diagram batang menyajikan data dengan batang yang tingginya sesuai besar datanya.",
+      "level": "dasar",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan tabel berikut! Berapa jumlah seluruh siswa yang datanya dicatat?",
+      "image": "data-tabel-buah.svg",
+      "options": [
+        "17 siswa",
+        "18 siswa",
+        "20 siswa",
+        "24 siswa"
+      ],
+      "answer": 2,
+      "explanation": "Jumlah = 4 + 7 + 3 + 6 = 20 siswa.",
+      "level": "dasar",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "mcq",
+      "question": "Diketahui data nilai ulangan: 7, 8, 7, 9, 8, 7, 9, 8. Berapa kali nilai 7 muncul?",
+      "options": [
+        "2 kali",
+        "3 kali",
+        "4 kali",
+        "5 kali"
+      ],
+      "answer": 1,
+      "explanation": "Nilai 7 muncul pada urutan ke-1, ke-3, dan ke-6, jadi sebanyak 3 kali.",
+      "level": "dasar",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "mcq",
+      "question": "Tabel yang mencatat banyaknya data pada setiap kelompok disebut ...",
+      "options": [
+        "tabel frekuensi",
+        "diagram batang",
+        "piktogram",
+        "denah"
+      ],
+      "answer": 0,
+      "explanation": "Tabel frekuensi mencatat berapa banyak data pada tiap kelompok.",
+      "level": "dasar",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "mcq",
+      "question": "Diketahui data warna kesukaan: merah, biru, merah, hijau, biru, merah. Berapa banyak siswa yang menyukai warna merah?",
+      "options": [
+        "1 siswa",
+        "2 siswa",
+        "3 siswa",
+        "4 siswa"
+      ],
+      "answer": 2,
+      "explanation": "Warna merah muncul 3 kali, jadi 3 siswa menyukai warna merah.",
+      "level": "dasar",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan diagram batang berikut! Jika data itu disajikan ulang dalam bentuk tabel, berapa isi baris \"Olahraga\"?",
+      "image": "data-batang-hobi.svg",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "20"
+      ],
+      "answer": 3,
+      "explanation": "Pada diagram, batang olahraga mencapai garis 20, jadi baris \"Olahraga\" pada tabel berisi 20.",
+      "level": "rutin",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan tabel berikut! Jika data itu disajikan dalam diagram batang, batang tertinggi adalah batang untuk nilai ...",
+      "image": "data-tabel-nilai.svg",
+      "options": [
+        "70",
+        "80",
+        "90",
+        "100"
+      ],
+      "answer": 1,
+      "explanation": "Frekuensi terbesar adalah nilai 80 dengan 9 siswa, sehingga batangnya paling tinggi.",
+      "level": "rutin",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "mcq",
+      "question": "Data banyak siswa dalam 4 kelompok berjumlah 30 anak. Kelompok A 8 anak, B 10 anak, dan C 5 anak. Berapa banyak anak pada kelompok D?",
+      "options": [
+        "5 anak",
+        "7 anak",
+        "8 anak",
+        "12 anak"
+      ],
+      "answer": 1,
+      "explanation": "Kelompok D = 30 − (8 + 10 + 5) = 30 − 23 = 7 anak.",
+      "level": "rutin",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan piktogram berikut! Jika data itu disajikan ulang dalam bentuk tabel, berapa isi baris \"Selasa\"?",
+      "image": "data-piktogram-buku.svg",
+      "options": [
+        "7",
+        "30",
+        "60",
+        "70"
+      ],
+      "answer": 3,
+      "explanation": "Hari Selasa memiliki 7 gambar, dan 1 gambar mewakili 10 buku. Jadi isinya 7 × 10 = 70 buku.",
+      "level": "rutin",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah data akan disajikan dalam piktogram dengan ketentuan 1 gambar mewakili 25 karung. Berapa gambar yang diperlukan untuk menyatakan 150 karung?",
+      "options": [
+        "4 gambar",
+        "5 gambar",
+        "6 gambar",
+        "7 gambar"
+      ],
+      "answer": 2,
+      "explanation": "Banyak gambar = 150 ÷ 25 = 6 gambar.",
+      "level": "rutin",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "multiselect",
+      "question": "Perhatikan tabel berikut! Pilih semua pernyataan yang benar!",
+      "image": "data-tabel-buah.svg",
+      "options": [
+        "Jeruk disukai 7 siswa.",
+        "Pisang disukai 6 siswa.",
+        "Jumlah seluruh siswa 20 anak.",
+        "Mangga disukai 5 siswa."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Jeruk 7 (✓), pisang 6 (✓), jumlah = 4 + 7 + 3 + 6 = 20 (✓). Mangga 3, bukan 5 (✗).",
+      "level": "rutin",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan beberapa pernyataan tentang penyajian data berikut. Tentukan Benar atau Salah!",
+      "statements": [
+        {
+          "text": "Pada piktogram, banyaknya data dihitung dengan mengalikan jumlah gambar dengan nilai tiap gambar.",
+          "answer": true
+        },
+        {
+          "text": "Pada diagram batang, batang yang lebih tinggi menunjukkan data yang lebih besar.",
+          "answer": true
+        },
+        {
+          "text": "Data yang sama tidak boleh disajikan dalam dua bentuk yang berbeda.",
+          "answer": false
+        }
+      ],
+      "explanation": "Dua pernyataan pertama BENAR. Data yang sama justru boleh disajikan dalam berbagai bentuk (tabel, piktogram, diagram batang) sesuai kebutuhan, jadi pernyataan terakhir SALAH.",
+      "level": "rutin",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "mcq",
+      "question": "Diketahui data nilai ulangan 10 siswa: 8, 7, 9, 8, 7, 8, 9, 7, 8, 9. Jika disajikan dalam tabel frekuensi, berapa frekuensi nilai 8?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2,
+      "explanation": "Nilai 8 muncul pada urutan ke-1, ke-4, ke-6, dan ke-9, jadi frekuensinya 4.",
+      "level": "rutin",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "truefalse",
+      "question": "Diketahui data banyak buku yang dipinjam selama 4 hari: Senin 30, Selasa 45, Rabu 25, Kamis 40. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "Jika disajikan dalam diagram batang, batang hari Selasa paling tinggi.",
+          "answer": true
+        },
+        {
+          "text": "Jumlah seluruh buku yang dipinjam adalah 140 buku.",
+          "answer": true
+        },
+        {
+          "text": "Batang hari Rabu lebih tinggi daripada batang hari Senin.",
+          "answer": false
+        }
+      ],
+      "explanation": "Selasa 45 adalah data terbesar, jadi batangnya paling tinggi (BENAR). Jumlah = 30 + 45 + 25 + 40 = 140 (BENAR). Rabu 25 lebih kecil daripada Senin 30, jadi batangnya lebih pendek (SALAH).",
+      "level": "rutin",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "mcq",
+      "question": "Bentuk penyajian data yang paling mudah digunakan untuk membandingkan tinggi rendahnya beberapa kelompok data adalah ...",
+      "options": [
+        "kalimat cerita",
+        "diagram batang",
+        "daftar angka acak",
+        "denah lokasi"
+      ],
+      "answer": 1,
+      "explanation": "Diagram batang memudahkan membandingkan besar kecilnya data karena tinggi batangnya langsung terlihat.",
+      "level": "rutin",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "multiselect",
+      "question": "Diketahui data hasil panen selama 4 bulan: Januari 120 kg, Februari 95 kg, Maret 140 kg, dan April 105 kg. Pilih semua pernyataan yang benar!",
+      "options": [
+        "Jika disajikan dalam diagram batang, batang bulan Maret paling tinggi.",
+        "Jumlah seluruh hasil panen adalah 460 kg.",
+        "Hasil panen bulan Februari paling sedikit.",
+        "Hasil panen bulan April lebih banyak daripada bulan Maret."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Maret 140 kg terbesar, batangnya tertinggi (✓). Jumlah = 120 + 95 + 140 + 105 = 460 kg (✓). Februari 95 kg terkecil (✓). April 105 kg lebih sedikit daripada Maret 140 kg (✗).",
+      "level": "ujian",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan diagram batang berikut! Kesimpulan yang tepat berdasarkan diagram tersebut adalah ...",
+      "image": "data-batang-buah.svg",
+      "options": [
+        "Pisang paling diminati dan mangga paling sedikit terjual.",
+        "Apel paling diminati pembeli.",
+        "Jeruk dan mangga terjual sama banyak.",
+        "Mangga terjual lebih banyak daripada pisang."
+      ],
+      "answer": 0,
+      "explanation": "Data: apel 30, jeruk 50, mangga 20, pisang 60. Pisang terbanyak dan mangga paling sedikit, sehingga kesimpulan pertama tepat.",
+      "level": "ujian",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "mcq",
+      "question": "Data banyak pengunjung selama 5 hari: 40, 60, 30, 70, 50. Jika data itu disajikan dalam piktogram dengan 1 gambar mewakili 10 pengunjung, berapa gambar yang diperlukan untuk hari dengan pengunjung terbanyak?",
+      "options": [
+        "4 gambar",
+        "5 gambar",
+        "6 gambar",
+        "7 gambar"
+      ],
+      "answer": 3,
+      "explanation": "Pengunjung terbanyak 70 orang. Banyak gambar = 70 ÷ 10 = 7 gambar.",
+      "level": "ujian",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "truefalse",
+      "question": "Data penjualan minuman: air mineral 50 botol, teh 30 botol, dan soda 32 botol. Data akan disajikan dalam piktogram dengan 1 gambar mewakili 10 botol untuk semua jenis. Tentukan Benar atau Salah!",
+      "statements": [
+        {
+          "text": "Air mineral memerlukan 5 gambar.",
+          "answer": true
+        },
+        {
+          "text": "Teh memerlukan 3 gambar.",
+          "answer": true
+        },
+        {
+          "text": "Soda memerlukan tepat 3 gambar.",
+          "answer": false
+        }
+      ],
+      "explanation": "Air mineral 50 ÷ 10 = 5 gambar (BENAR). Teh 30 ÷ 10 = 3 gambar (BENAR). Soda 32 ÷ 10 = 3,2 gambar sehingga tidak tepat 3 gambar — perlu 3 gambar penuh ditambah sebagian (SALAH).",
+      "level": "ujian",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "multiselect",
+      "question": "Diketahui data nilai ulangan 12 siswa: 7, 8, 9, 7, 8, 8, 9, 7, 8, 9, 8, 7. Pilih semua pernyataan yang benar jika data itu disajikan dalam tabel frekuensi!",
+      "options": [
+        "Frekuensi nilai 7 adalah 4.",
+        "Frekuensi nilai 8 adalah 5.",
+        "Frekuensi nilai 9 adalah 3.",
+        "Jumlah seluruh frekuensi adalah 10."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Nilai 7 muncul 4 kali (✓), nilai 8 muncul 5 kali (✓), nilai 9 muncul 3 kali (✓). Jumlah frekuensi = 4 + 5 + 3 = 12, bukan 10 (✗).",
+      "level": "ujian",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah tabel data berisi 4 kelompok dengan jumlah seluruhnya 100 siswa. Diketahui kelompok pertama 28 siswa, kelompok kedua 32 siswa, dan kelompok ketiga 15 siswa. Berapa banyak siswa pada kelompok keempat?",
+      "options": [
+        "15 siswa",
+        "20 siswa",
+        "25 siswa",
+        "30 siswa"
+      ],
+      "answer": 2,
+      "explanation": "Kelompok keempat = 100 − (28 + 32 + 15) = 100 − 75 = 25 siswa.",
+      "level": "ujian",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan tabel berikut! Data itu akan disajikan ulang dalam bentuk diagram batang. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "image": "data-tabel-buah.svg",
+      "statements": [
+        {
+          "text": "Batang untuk jeruk akan menjadi yang paling tinggi.",
+          "answer": true
+        },
+        {
+          "text": "Batang untuk mangga akan menjadi yang paling pendek.",
+          "answer": true
+        },
+        {
+          "text": "Batang untuk apel akan lebih tinggi daripada batang pisang.",
+          "answer": false
+        }
+      ],
+      "explanation": "Data: apel 4, jeruk 7, mangga 3, pisang 6. Jeruk terbesar → batang tertinggi (BENAR). Mangga terkecil → terpendek (BENAR). Apel 4 lebih kecil daripada pisang 6 (SALAH).",
+      "level": "ujian",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "mcq",
+      "question": "Data jumlah paket yang diantar tiga kurir: Kurir A 126 paket, Kurir B 144 paket, dan Kurir C 108 paket. Jika data disajikan dalam diagram batang, urutan batang dari yang tertinggi adalah ...",
+      "options": [
+        "A, B, C",
+        "B, A, C",
+        "C, A, B",
+        "B, C, A"
+      ],
+      "answer": 1,
+      "explanation": "Urutkan dari terbesar: B 144, A 126, C 108. Jadi urutan batang dari tertinggi adalah B, A, C.",
+      "level": "ujian",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "multiselect",
+      "question": "Data banyak siswa yang mengikuti ekstrakurikuler: Pramuka 24, Futsal 18, Tari 12, dan Melukis 6. Pilih semua pernyataan yang benar!",
+      "options": [
+        "Jumlah seluruh siswa adalah 60 anak.",
+        "Jika disajikan dalam piktogram dengan 1 gambar = 6 siswa, Pramuka memerlukan 4 gambar.",
+        "Selisih peserta Pramuka dan Melukis adalah 18 anak.",
+        "Peserta Tari lebih banyak daripada peserta Futsal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Jumlah = 24 + 18 + 12 + 6 = 60 (✓). Pramuka 24 ÷ 6 = 4 gambar (✓). Selisih = 24 − 6 = 18 (✓). Tari 12 lebih sedikit daripada Futsal 18 (✗).",
+      "level": "ujian",
+      "materi": "menyajikan-data"
+    },
+    {
+      "type": "mcq",
+      "question": "Data hasil ulangan disajikan dalam tabel frekuensi dengan jumlah seluruh siswa 24 anak. Jika data itu diubah menjadi piktogram dengan 1 gambar mewakili 4 siswa, berapa jumlah seluruh gambar yang diperlukan?",
+      "options": [
+        "4 gambar",
+        "6 gambar",
+        "8 gambar",
+        "12 gambar"
+      ],
+      "answer": 1,
+      "explanation": "Jumlah gambar = 24 ÷ 4 = 6 gambar.",
+      "level": "ujian",
+      "materi": "menyajikan-data"
     }
   ]
 }
