@@ -1,8 +1,8 @@
 {
   "mapel": "matematika",
   "topik": "geometri",
-  "count": 69,
-  "updated": "2026-07-19",
+  "count": 129,
+  "updated": "2026-07-22",
   "soal": [
     {
       "level": "dasar",
@@ -1117,6 +1117,945 @@
       "level": "ujian",
       "materi": "bangun-datar",
       "image": "bangun-dinding-jendela.png"
+    },
+    {
+      "type": "mcq",
+      "question": "Rumus volume kubus dengan panjang rusuk s adalah ...",
+      "options": [
+        "s × s",
+        "s × s × s",
+        "6 × s × s",
+        "4 × s"
+      ],
+      "answer": 1,
+      "explanation": "Volume kubus = rusuk × rusuk × rusuk = s³.",
+      "level": "dasar",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Volume kubus dengan panjang rusuk 5 cm adalah ...",
+      "options": [
+        "25 cm³",
+        "75 cm³",
+        "125 cm³",
+        "150 cm³"
+      ],
+      "answer": 2,
+      "explanation": "V = 5 × 5 × 5 = 125 cm³.",
+      "level": "dasar",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Rumus volume balok adalah ...",
+      "options": [
+        "p + l + t",
+        "p × l × t",
+        "2 × (p + l)",
+        "p × l"
+      ],
+      "answer": 1,
+      "explanation": "Volume balok = panjang × lebar × tinggi.",
+      "level": "dasar",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah balok memiliki panjang 8 cm, lebar 5 cm, dan tinggi 4 cm. Volumenya adalah ...",
+      "options": [
+        "17 cm³",
+        "80 cm³",
+        "160 cm³",
+        "200 cm³"
+      ],
+      "answer": 2,
+      "explanation": "V = 8 × 5 × 4 = 160 cm³.",
+      "level": "dasar",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Volume kubus dengan panjang rusuk 3 cm adalah ...",
+      "options": [
+        "9 cm³",
+        "18 cm³",
+        "27 cm³",
+        "54 cm³"
+      ],
+      "answer": 2,
+      "explanation": "V = 3 × 3 × 3 = 27 cm³.",
+      "level": "dasar",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah balok berukuran 10 cm × 6 cm × 2 cm. Volumenya adalah ...",
+      "options": [
+        "18 cm³",
+        "60 cm³",
+        "120 cm³",
+        "180 cm³"
+      ],
+      "answer": 2,
+      "explanation": "V = 10 × 6 × 2 = 120 cm³.",
+      "level": "dasar",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Volume kubus dengan panjang rusuk 10 cm adalah ...",
+      "options": [
+        "100 cm³",
+        "600 cm³",
+        "1.000 cm³",
+        "10.000 cm³"
+      ],
+      "answer": 2,
+      "explanation": "V = 10 × 10 × 10 = 1.000 cm³.",
+      "level": "dasar",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah balok berukuran 12 cm × 5 cm × 3 cm. Volumenya adalah ...",
+      "options": [
+        "20 cm³",
+        "60 cm³",
+        "180 cm³",
+        "360 cm³"
+      ],
+      "answer": 2,
+      "explanation": "V = 12 × 5 × 3 = 180 cm³.",
+      "level": "dasar",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Volume kubus dengan panjang rusuk 4 cm adalah ...",
+      "options": [
+        "12 cm³",
+        "16 cm³",
+        "48 cm³",
+        "64 cm³"
+      ],
+      "answer": 3,
+      "explanation": "V = 4 × 4 × 4 = 64 cm³.",
+      "level": "dasar",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Satuan yang tepat untuk menyatakan volume adalah ...",
+      "options": [
+        "cm",
+        "cm²",
+        "cm³",
+        "cm⁴"
+      ],
+      "answer": 2,
+      "explanation": "Volume menyatakan isi ruang, satuannya kubik (pangkat tiga), misalnya cm³.",
+      "level": "dasar",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah balok memiliki luas alas 24 cm² dan tinggi 5 cm. Volumenya adalah ...",
+      "options": [
+        "29 cm³",
+        "96 cm³",
+        "120 cm³",
+        "240 cm³"
+      ],
+      "answer": 2,
+      "explanation": "Volume = luas alas × tinggi = 24 × 5 = 120 cm³.",
+      "level": "rutin",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah kubus memiliki volume 343 cm³. Panjang rusuknya adalah ...",
+      "options": [
+        "6 cm",
+        "7 cm",
+        "8 cm",
+        "9 cm"
+      ],
+      "answer": 1,
+      "explanation": "Cari bilangan yang dipangkatkan tiga menghasilkan 343: 7 × 7 × 7 = 343. Jadi rusuknya 7 cm.",
+      "level": "rutin",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah balok memiliki volume 240 cm³, panjang 8 cm, dan lebar 5 cm. Tinggi balok adalah ...",
+      "options": [
+        "4 cm",
+        "6 cm",
+        "8 cm",
+        "10 cm"
+      ],
+      "answer": 1,
+      "explanation": "Luas alas = 8 × 5 = 40 cm². Tinggi = 240 ÷ 40 = 6 cm.",
+      "level": "rutin",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Volume kubus dengan panjang rusuk 8 cm adalah ...",
+      "options": [
+        "64 cm³",
+        "256 cm³",
+        "384 cm³",
+        "512 cm³"
+      ],
+      "answer": 3,
+      "explanation": "V = 8 × 8 × 8 = 512 cm³.",
+      "level": "rutin",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah bangun tersusun dari balok berukuran 10 cm × 6 cm × 4 cm dengan sebuah kubus berusuk 5 cm di atasnya. Volume seluruh bangun adalah ...",
+      "options": [
+        "240 cm³",
+        "265 cm³",
+        "365 cm³",
+        "1.200 cm³"
+      ],
+      "answer": 2,
+      "explanation": "Volume balok = 10 × 6 × 4 = 240 cm³. Volume kubus = 5 × 5 × 5 = 125 cm³. Total = 240 + 125 = 365 cm³.",
+      "level": "rutin",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah balok berukuran 15 cm × 8 cm × 6 cm. Volumenya adalah ...",
+      "options": [
+        "29 cm³",
+        "120 cm³",
+        "720 cm³",
+        "840 cm³"
+      ],
+      "answer": 2,
+      "explanation": "V = 15 × 8 × 6 = 720 cm³.",
+      "level": "rutin",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Volume 1 liter sama dengan ...",
+      "options": [
+        "10 cm³",
+        "100 cm³",
+        "1.000 cm³",
+        "10.000 cm³"
+      ],
+      "answer": 2,
+      "explanation": "1 liter = 1 dm³ = 1.000 cm³.",
+      "level": "rutin",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "multiselect",
+      "question": "Pilih semua pernyataan yang benar tentang volume!",
+      "options": [
+        "Volume kubus = rusuk × rusuk × rusuk.",
+        "Volume balok = panjang × lebar × tinggi.",
+        "Volume prisma = luas alas × tinggi.",
+        "Volume balok = 2 × (p + l + t)."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Tiga rumus pertama benar. Rumus 2 × (p + l + t) bukan volume, melainkan berkaitan dengan jumlah panjang rusuk balok.",
+      "level": "rutin",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan sebuah kubus dengan panjang rusuk 6 cm. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "Volume kubus tersebut adalah 216 cm³.",
+          "answer": true
+        },
+        {
+          "text": "Jika rusuknya menjadi 12 cm, volumenya menjadi 1.728 cm³.",
+          "answer": true
+        },
+        {
+          "text": "Volume kubus tersebut adalah 36 cm³.",
+          "answer": false
+        }
+      ],
+      "explanation": "6 × 6 × 6 = 216 cm³ (BENAR). 12 × 12 × 12 = 1.728 cm³ (BENAR). 36 cm² adalah luas satu sisi, bukan volume (SALAH).",
+      "level": "rutin",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "truefalse",
+      "question": "Sebuah balok berukuran 20 cm × 10 cm × 5 cm. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "Volume balok adalah 1.000 cm³.",
+          "answer": true
+        },
+        {
+          "text": "Volume balok sama dengan 1 liter.",
+          "answer": true
+        },
+        {
+          "text": "Volume balok adalah 35 cm³.",
+          "answer": false
+        }
+      ],
+      "explanation": "V = 20 × 10 × 5 = 1.000 cm³ (BENAR), dan 1.000 cm³ = 1 liter (BENAR). Angka 35 adalah jumlah ukuran, bukan volume (SALAH).",
+      "level": "rutin",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah akuarium berbentuk balok berukuran panjang 60 cm, lebar 40 cm, dan tinggi 30 cm. Berapa liter air yang dapat ditampung akuarium jika terisi penuh?",
+      "options": [
+        "7,2 liter",
+        "72 liter",
+        "720 liter",
+        "7.200 liter"
+      ],
+      "answer": 1,
+      "explanation": "V = 60 × 40 × 30 = 72.000 cm³. Karena 1 liter = 1.000 cm³, maka 72.000 ÷ 1.000 = 72 liter.",
+      "level": "ujian",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah kardus berbentuk kubus dengan panjang rusuk 30 cm. Berapa liter isi kardus tersebut?",
+      "options": [
+        "2,7 liter",
+        "27 liter",
+        "270 liter",
+        "2.700 liter"
+      ],
+      "answer": 1,
+      "explanation": "V = 30 × 30 × 30 = 27.000 cm³ = 27 liter.",
+      "level": "ujian",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah bak air berbentuk balok berukuran 100 cm × 80 cm × 50 cm. Berapa liter air yang dapat ditampung bak tersebut?",
+      "options": [
+        "40 liter",
+        "400 liter",
+        "4.000 liter",
+        "40.000 liter"
+      ],
+      "answer": 1,
+      "explanation": "V = 100 × 80 × 50 = 400.000 cm³ = 400 liter.",
+      "level": "ujian",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah kotak berbentuk kubus dengan rusuk 10 cm akan diisi penuh kubus-kubus kecil berusuk 2 cm. Berapa banyak kubus kecil yang dibutuhkan?",
+      "options": [
+        "5 buah",
+        "25 buah",
+        "125 buah",
+        "500 buah"
+      ],
+      "answer": 2,
+      "explanation": "Volume kotak = 10³ = 1.000 cm³. Volume kubus kecil = 2³ = 8 cm³. Banyaknya = 1.000 ÷ 8 = 125 buah.",
+      "level": "ujian",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah bak mandi berbentuk balok berukuran 80 cm × 50 cm × 60 cm terisi air setengahnya. Berapa liter air di dalam bak?",
+      "options": [
+        "60 liter",
+        "120 liter",
+        "240 liter",
+        "1.200 liter"
+      ],
+      "answer": 1,
+      "explanation": "Volume penuh = 80 × 50 × 60 = 240.000 cm³ = 240 liter. Terisi setengah = 240 ÷ 2 = 120 liter.",
+      "level": "ujian",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "multiselect",
+      "question": "Sebuah balok berukuran 25 cm × 20 cm × 10 cm. Pilih semua pernyataan yang benar!",
+      "options": [
+        "Volumenya 5.000 cm³.",
+        "Volumenya sama dengan 5 liter.",
+        "Jika tingginya digandakan menjadi 20 cm, volumenya menjadi 10.000 cm³.",
+        "Volumenya 55 cm³."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "V = 25 × 20 × 10 = 5.000 cm³ (benar) = 5 liter (benar). Jika tinggi jadi 20 cm: 25 × 20 × 20 = 10.000 cm³ (benar). Bukan 55 cm³ (salah).",
+      "level": "ujian",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "multiselect",
+      "question": "Pilih semua pernyataan yang benar!",
+      "options": [
+        "1 liter = 1.000 cm³",
+        "1 m³ = 1.000 liter",
+        "Kubus rusuk 20 cm volumenya 8.000 cm³",
+        "Kubus rusuk 20 cm volumenya 400 cm³"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "1 liter = 1.000 cm³ (benar). 1 m³ = 1.000 liter (benar). 20³ = 8.000 cm³ (benar); 400 adalah 20², bukan volume (salah).",
+      "level": "ujian",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "truefalse",
+      "question": "Sebuah bangun tersusun dari balok berukuran 20 cm × 10 cm × 5 cm dengan kubus berusuk 10 cm di atasnya. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "Volume balok adalah 1.000 cm³.",
+          "answer": true
+        },
+        {
+          "text": "Volume seluruh bangun adalah 2.000 cm³.",
+          "answer": true
+        },
+        {
+          "text": "Volume seluruh bangun adalah 1.500 cm³.",
+          "answer": false
+        }
+      ],
+      "explanation": "Volume balok = 20 × 10 × 5 = 1.000 cm³ (BENAR). Volume kubus = 10 × 10 × 10 = 1.000 cm³. Total = 1.000 + 1.000 = 2.000 cm³ (BENAR), jadi bukan 1.500 cm³ (SALAH).",
+      "level": "ujian",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "truefalse",
+      "question": "Sebuah kolam berbentuk balok berukuran 4 m × 3 m × 2 m. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "Volume kolam adalah 24 m³.",
+          "answer": true
+        },
+        {
+          "text": "Volume kolam sama dengan 24.000 liter.",
+          "answer": true
+        },
+        {
+          "text": "Volume kolam sama dengan 2.400 liter.",
+          "answer": false
+        }
+      ],
+      "explanation": "V = 4 × 3 × 2 = 24 m³ (BENAR). Karena 1 m³ = 1.000 liter, maka 24 m³ = 24.000 liter (BENAR), bukan 2.400 liter (SALAH).",
+      "level": "ujian",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah wadah berbentuk balok dengan luas alas 150 cm² berisi air sebanyak 3 liter. Berapa tinggi permukaan air dalam wadah?",
+      "options": [
+        "2 cm",
+        "20 cm",
+        "45 cm",
+        "450 cm"
+      ],
+      "answer": 1,
+      "explanation": "3 liter = 3.000 cm³. Tinggi = volume ÷ luas alas = 3.000 ÷ 150 = 20 cm.",
+      "level": "ujian",
+      "materi": "volume-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan gambar! Susunan tersebut terdiri dari 3 tumpukan kubus satuan yang berjajar, dengan tinggi berturut-turut 3, 2, dan 1 kubus. Berapa jumlah seluruh kubus satuan pada susunan itu?",
+      "image": "ruang-tangga.svg",
+      "options": [
+        "3 kubus",
+        "5 kubus",
+        "6 kubus",
+        "9 kubus"
+      ],
+      "answer": 2,
+      "explanation": "Jumlah = 3 + 2 + 1 = 6 kubus satuan.",
+      "level": "dasar",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan gambar! Susunan tersebut terdiri dari 4 tumpukan kubus satuan yang berjajar, dengan tinggi berturut-turut 4, 3, 2, dan 1 kubus. Berapa jumlah seluruh kubus satuan?",
+      "image": "ruang-tangga4.svg",
+      "options": [
+        "4 kubus",
+        "8 kubus",
+        "10 kubus",
+        "16 kubus"
+      ],
+      "answer": 2,
+      "explanation": "Jumlah = 4 + 3 + 2 + 1 = 10 kubus satuan.",
+      "level": "dasar",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan gambar! Susunan kubus satuan tersebut memiliki alas 3 × 3. Tinggi tiap tumpukan dari baris belakang ke depan adalah: baris belakang 3, 2, 1; baris tengah 2, 1, 1; baris depan 1, 1, 1. Berapa jumlah seluruh kubus satuan?",
+      "image": "ruang-tumpukan-a.svg",
+      "options": [
+        "9 kubus",
+        "12 kubus",
+        "13 kubus",
+        "15 kubus"
+      ],
+      "answer": 2,
+      "explanation": "Jumlah = (3+2+1) + (2+1+1) + (1+1+1) = 6 + 4 + 3 = 13 kubus satuan.",
+      "level": "dasar",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah balok disusun dari kubus satuan dengan panjang 3 kubus, lebar 2 kubus, dan tinggi 2 kubus. Berapa banyak kubus satuan yang diperlukan?",
+      "options": [
+        "7 kubus",
+        "10 kubus",
+        "12 kubus",
+        "18 kubus"
+      ],
+      "answer": 2,
+      "explanation": "Banyak kubus = 3 × 2 × 2 = 12 kubus satuan.",
+      "level": "dasar",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah kubus besar disusun dari kubus satuan dengan panjang rusuk 3 kubus. Berapa banyak kubus satuan yang diperlukan?",
+      "options": [
+        "9 kubus",
+        "18 kubus",
+        "27 kubus",
+        "36 kubus"
+      ],
+      "answer": 2,
+      "explanation": "Banyak kubus = 3 × 3 × 3 = 27 kubus satuan.",
+      "level": "dasar",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah susunan terdiri dari 2 lapis, dan setiap lapis berisi 4 kubus satuan. Berapa jumlah seluruh kubus satuan?",
+      "options": [
+        "4 kubus",
+        "6 kubus",
+        "8 kubus",
+        "16 kubus"
+      ],
+      "answer": 2,
+      "explanation": "Jumlah = 2 × 4 = 8 kubus satuan.",
+      "level": "dasar",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah balok disusun dari kubus satuan dengan panjang 4, lebar 3, dan tinggi 1 kubus. Berapa banyak kubus satuan penyusunnya?",
+      "options": [
+        "8 kubus",
+        "12 kubus",
+        "13 kubus",
+        "24 kubus"
+      ],
+      "answer": 1,
+      "explanation": "Banyak kubus = 4 × 3 × 1 = 12 kubus satuan.",
+      "level": "dasar",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan gambar! Susunan tersebut memiliki alas 3 × 2. Tinggi tiap tumpukan: baris belakang 2, 2, 2 dan baris depan 2, 2, 1. Berapa jumlah seluruh kubus satuan?",
+      "image": "ruang-balok-kurang.svg",
+      "options": [
+        "10 kubus",
+        "11 kubus",
+        "12 kubus",
+        "14 kubus"
+      ],
+      "answer": 1,
+      "explanation": "Jumlah = (2+2+2) + (2+2+1) = 6 + 5 = 11 kubus satuan.",
+      "level": "dasar",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah balok disusun dari kubus satuan berukuran panjang 4, lebar 3, dan tinggi 2 kubus. Jika dilihat dari atas, bentuk yang terlihat adalah ...",
+      "options": [
+        "persegi panjang berisi 12 kotak",
+        "persegi panjang berisi 8 kotak",
+        "persegi berisi 9 kotak",
+        "persegi panjang berisi 24 kotak"
+      ],
+      "answer": 0,
+      "explanation": "Tampak atas menunjukkan alasnya, yaitu persegi panjang 4 × 3 = 12 kotak. Tingginya tidak terlihat dari atas.",
+      "level": "dasar",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Cara menghitung banyak kubus satuan penyusun sebuah balok adalah ...",
+      "options": [
+        "panjang + lebar + tinggi",
+        "panjang × lebar × tinggi",
+        "panjang × lebar",
+        "2 × (panjang + lebar)"
+      ],
+      "answer": 1,
+      "explanation": "Banyak kubus satuan = panjang × lebar × tinggi (dalam satuan kubus).",
+      "level": "dasar",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan gambar! Susunan terdiri dari 3 tumpukan berjajar dengan tinggi 3, 2, dan 1 kubus. Jika susunan itu dilihat dari atas, bentuk yang terlihat adalah ...",
+      "image": "ruang-tangga.svg",
+      "options": [
+        "3 kotak berjajar dalam satu baris",
+        "6 kotak membentuk tangga",
+        "persegi berisi 9 kotak",
+        "1 kotak saja"
+      ],
+      "answer": 0,
+      "explanation": "Dilihat dari atas yang tampak hanya alasnya, yaitu 3 tumpukan berjajar dalam satu baris → 3 kotak berjajar. Tinggi tumpukan tidak terlihat dari atas.",
+      "level": "rutin",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan gambar! Susunan terdiri dari 3 tumpukan berjajar dengan tinggi 3, 2, dan 1 kubus. Jika dilihat dari samping sehingga tinggi tiap tumpukan terlihat, bentuk yang tampak adalah ...",
+      "image": "ruang-tangga.svg",
+      "options": [
+        "Bentuk tangga: 3 kotak, lalu 2 kotak, lalu 1 kotak",
+        "Persegi berisi 9 kotak",
+        "3 kotak berjajar mendatar",
+        "1 kotak saja"
+      ],
+      "answer": 0,
+      "explanation": "Dari samping, tinggi tiap tumpukan terlihat berurutan 3, 2, dan 1 kotak sehingga membentuk tangga menurun.",
+      "level": "rutin",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan gambar! Susunan kubus satuan itu memiliki alas 3 × 3 dan setiap tumpukan berisi paling sedikit 1 kubus. Jika dilihat dari atas, bentuk yang terlihat adalah ...",
+      "image": "ruang-tumpukan-a.svg",
+      "options": [
+        "persegi berisi 9 kotak",
+        "persegi panjang berisi 6 kotak",
+        "bentuk tangga",
+        "13 kotak berjajar"
+      ],
+      "answer": 0,
+      "explanation": "Tampak atas menunjukkan alasnya, yaitu 3 × 3 = 9 kotak berbentuk persegi.",
+      "level": "rutin",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan gambar! Susunan tersebut berisi 11 kubus satuan dengan alas 3 × 2. Berapa kubus satuan lagi yang diperlukan agar susunan itu menjadi balok utuh berukuran 3 × 2 × 2?",
+      "image": "ruang-balok-kurang.svg",
+      "options": [
+        "1 kubus",
+        "2 kubus",
+        "3 kubus",
+        "5 kubus"
+      ],
+      "answer": 0,
+      "explanation": "Balok utuh 3 × 2 × 2 memerlukan 12 kubus. Karena sudah ada 11 kubus, kekurangannya = 12 − 11 = 1 kubus.",
+      "level": "rutin",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah balok utuh berukuran 4 × 3 × 2 kubus satuan. Jika baru tersusun 20 kubus, berapa kubus lagi yang diperlukan?",
+      "options": [
+        "2 kubus",
+        "4 kubus",
+        "6 kubus",
+        "8 kubus"
+      ],
+      "answer": 1,
+      "explanation": "Balok utuh = 4 × 3 × 2 = 24 kubus. Kekurangan = 24 − 20 = 4 kubus.",
+      "level": "rutin",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah kubus besar disusun dari kubus satuan dengan panjang rusuk 4 kubus. Berapa banyak kubus satuan penyusunnya?",
+      "options": [
+        "16 kubus",
+        "48 kubus",
+        "64 kubus",
+        "80 kubus"
+      ],
+      "answer": 2,
+      "explanation": "Banyak kubus = 4 × 4 × 4 = 64 kubus satuan.",
+      "level": "rutin",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "multiselect",
+      "question": "Perhatikan gambar! Susunan terdiri dari 4 tumpukan berjajar dengan tinggi 4, 3, 2, dan 1 kubus. Pilih semua pernyataan yang benar!",
+      "image": "ruang-tangga4.svg",
+      "options": [
+        "Jumlah seluruh kubus satuan adalah 10.",
+        "Tumpukan tertinggi berisi 4 kubus.",
+        "Dilihat dari atas tampak 4 kotak berjajar.",
+        "Jumlah seluruh kubus satuan adalah 16."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Jumlah = 4 + 3 + 2 + 1 = 10 kubus (✓). Tumpukan tertinggi 4 kubus (✓). Tampak atas menunjukkan alas berupa 4 tumpukan berjajar = 4 kotak (✓). Jadi bukan 16 (✗).",
+      "level": "rutin",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan gambar! Susunan kubus satuan itu beralas 3 × 3, dengan tinggi tiap tumpukan: baris belakang 2, 2, 1; baris tengah 2, 1, 1; baris depan 1, 1, 1. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "image": "ruang-tumpukan-b.svg",
+      "statements": [
+        {
+          "text": "Jumlah seluruh kubus satuan adalah 12.",
+          "answer": true
+        },
+        {
+          "text": "Dilihat dari atas tampak persegi berisi 9 kotak.",
+          "answer": true
+        },
+        {
+          "text": "Jumlah seluruh kubus satuan adalah 9.",
+          "answer": false
+        }
+      ],
+      "explanation": "Jumlah = (2+2+1) + (2+1+1) + (1+1+1) = 5 + 4 + 3 = 12 kubus (BENAR). Alasnya 3 × 3 = 9 kotak (BENAR). Jadi bukan 9 kubus (SALAH) — 9 adalah banyak tumpukan, bukan banyak kubus.",
+      "level": "rutin",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah susunan terdiri dari dua lapis. Lapis bawah berbentuk persegi 3 × 3 kubus dan lapis atas berbentuk persegi 2 × 2 kubus. Berapa jumlah seluruh kubus satuan?",
+      "options": [
+        "11 kubus",
+        "12 kubus",
+        "13 kubus",
+        "18 kubus"
+      ],
+      "answer": 2,
+      "explanation": "Lapis bawah = 3 × 3 = 9 kubus; lapis atas = 2 × 2 = 4 kubus. Jumlah = 9 + 4 = 13 kubus.",
+      "level": "rutin",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan pernyataan tentang cara memandang bangun ruang berikut. Tentukan Benar atau Salah!",
+      "statements": [
+        {
+          "text": "Tampak atas memperlihatkan bentuk alas susunan.",
+          "answer": true
+        },
+        {
+          "text": "Tampak samping memperlihatkan tinggi susunan.",
+          "answer": true
+        },
+        {
+          "text": "Tampak atas memperlihatkan tinggi tiap tumpukan.",
+          "answer": false
+        }
+      ],
+      "explanation": "Dari atas yang terlihat adalah alasnya (BENAR); dari samping terlihat tingginya (BENAR). Tinggi tumpukan tidak dapat dilihat dari atas (SALAH).",
+      "level": "rutin",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "multiselect",
+      "question": "Perhatikan susunan kubus satuan berikut! Pilih semua pernyataan yang benar!",
+      "image": "ruang-tumpukan-a.svg",
+      "options": [
+        "Jumlah seluruh kubus satuan adalah 13.",
+        "Banyak tumpukan pada susunan itu adalah 9.",
+        "Tumpukan tertinggi berisi 3 kubus.",
+        "Susunan itu sudah berbentuk balok utuh."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Hitung tiap tumpukan: baris belakang 3 + 2 + 1 = 6; baris tengah 2 + 1 + 1 = 4; baris depan 1 + 1 + 1 = 3. Jumlah = 13 kubus (✓). Alas 3 × 3 berarti 9 tumpukan (✓). Tumpukan tertinggi 3 kubus (✓). Karena tingginya tidak sama, susunan belum berbentuk balok utuh (✗).",
+      "level": "ujian",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan susunan kubus satuan pada gambar bagian atas! Jika susunan itu dilihat dari depan sehingga tinggi tiap tumpukan terlihat, bentuk yang tampak ditunjukkan oleh ...",
+      "image": "ruang-tampak-pilihan.svg",
+      "options": [
+        "Gambar A",
+        "Gambar B",
+        "Gambar C",
+        "Gambar D"
+      ],
+      "answer": 0,
+      "explanation": "Tinggi tumpukan berurutan 3, 2, dan 1 kubus dari kiri ke kanan. Bentuk yang terlihat adalah tangga menurun: baris bawah 3 kotak, di atasnya 2 kotak, lalu 1 kotak paling atas — yaitu Gambar A.",
+      "level": "ujian",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah balok disusun dari kubus satuan berukuran panjang 5, lebar 4, dan tinggi 3 kubus. Berapa banyak kubus satuan penyusunnya?",
+      "options": [
+        "12 kubus",
+        "20 kubus",
+        "60 kubus",
+        "80 kubus"
+      ],
+      "answer": 2,
+      "explanation": "Banyak kubus = 5 × 4 × 3 = 60 kubus satuan.",
+      "level": "ujian",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan susunan kubus satuan berikut! Berapa kubus satuan lagi yang diperlukan agar susunan itu menjadi balok utuh berukuran 3 × 3 × 2?",
+      "image": "ruang-tumpukan-b.svg",
+      "options": [
+        "3 kubus",
+        "4 kubus",
+        "6 kubus",
+        "9 kubus"
+      ],
+      "answer": 2,
+      "explanation": "Susunan itu terdiri dari (2+2+1) + (2+1+1) + (1+1+1) = 12 kubus satuan. Balok utuh 3 × 3 × 2 memerlukan 18 kubus, jadi kekurangannya = 18 − 12 = 6 kubus.",
+      "level": "ujian",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "multiselect",
+      "question": "Sebuah balok disusun dari kubus satuan berukuran 4 × 3 × 2. Pilih semua pernyataan yang benar!",
+      "options": [
+        "Banyak kubus satuan penyusunnya 24.",
+        "Dilihat dari atas tampak 12 kotak.",
+        "Dilihat dari samping (sisi panjang) tampak 8 kotak.",
+        "Banyak kubus satuan penyusunnya 9."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Banyak kubus = 4 × 3 × 2 = 24 (✓). Tampak atas = 4 × 3 = 12 kotak (✓). Tampak samping pada sisi panjang = 4 × 2 = 8 kotak (✓). Jadi bukan 9 (✗).",
+      "level": "ujian",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan tumpukan kubus berukuran sama berikut! Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "image": "ruang-lapisan.svg",
+      "statements": [
+        {
+          "text": "Lapisan paling bawah terdiri dari 6 kubus.",
+          "answer": true
+        },
+        {
+          "text": "Jumlah seluruh kubus pada tumpukan adalah 12.",
+          "answer": true
+        },
+        {
+          "text": "Jumlah seluruh kubus pada tumpukan adalah 9.",
+          "answer": false
+        }
+      ],
+      "explanation": "Hitung per lapisan: lapisan bawah 6 kubus, lapisan tengah 4 kubus, dan lapisan atas 2 kubus. Jumlah = 6 + 4 + 2 = 12 kubus. Kubus yang terhalang di belakang tetap ikut dihitung, jadi bukan 9.",
+      "level": "ujian",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah balok tersusun dari 36 kubus satuan. Jika alasnya berukuran 6 × 3 kubus, berapa tinggi balok tersebut?",
+      "options": [
+        "2 kubus",
+        "3 kubus",
+        "4 kubus",
+        "6 kubus"
+      ],
+      "answer": 0,
+      "explanation": "Banyak kubus pada satu lapis = 6 × 3 = 18. Tinggi = 36 ÷ 18 = 2 kubus.",
+      "level": "ujian",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "truefalse",
+      "question": "Sebuah kubus besar disusun dari kubus satuan dengan panjang rusuk 3 kubus. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "Banyak kubus satuan penyusunnya adalah 27.",
+          "answer": true
+        },
+        {
+          "text": "Dilihat dari atas tampak persegi berisi 9 kotak.",
+          "answer": true
+        },
+        {
+          "text": "Dilihat dari samping tampak persegi berisi 27 kotak.",
+          "answer": false
+        }
+      ],
+      "explanation": "Banyak kubus = 3 × 3 × 3 = 27 (BENAR). Tampak atas = 3 × 3 = 9 kotak (BENAR). Tampak samping juga 3 × 3 = 9 kotak, bukan 27 (SALAH).",
+      "level": "ujian",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "multiselect",
+      "question": "Sebuah susunan terdiri dari tiga lapis: lapis bawah 3 × 3 kubus, lapis tengah 2 × 2 kubus, dan lapis atas 1 kubus. Pilih semua pernyataan yang benar!",
+      "options": [
+        "Jumlah seluruh kubus satuan adalah 14.",
+        "Lapis bawah berisi 9 kubus.",
+        "Dilihat dari atas tampak persegi berisi 9 kotak.",
+        "Jumlah seluruh kubus satuan adalah 12."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Jumlah = 9 + 4 + 1 = 14 kubus (✓). Lapis bawah 3 × 3 = 9 kubus (✓). Tampak atas mengikuti lapis terluas, yaitu 9 kotak (✓). Jadi bukan 12 (✗).",
+      "level": "ujian",
+      "materi": "visualisasi-bangun-ruang"
+    },
+    {
+      "type": "mcq",
+      "question": "Gambar berikut menunjukkan tumpukan beberapa kubus berukuran sama. Berapakah jumlah seluruh kubus dalam tumpukan tersebut?",
+      "image": "ruang-lapisan.svg",
+      "options": [
+        "9 buah",
+        "10 buah",
+        "12 buah",
+        "14 buah"
+      ],
+      "answer": 2,
+      "explanation": "Hitung per lapisan: lapisan bawah 6, lapisan tengah 4, lapisan atas 2. Total = 6 + 4 + 2 = 12 buah. Jangan lupa menghitung kubus yang terhalang di belakang.",
+      "level": "ujian",
+      "materi": "visualisasi-bangun-ruang"
     }
   ]
 }
