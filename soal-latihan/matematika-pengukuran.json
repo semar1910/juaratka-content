@@ -1,8 +1,8 @@
 {
   "mapel": "matematika",
   "topik": "pengukuran",
-  "count": 8,
-  "updated": "2026-07-13",
+  "count": 158,
+  "updated": "2026-07-24",
   "soal": [
     {
       "level": "dasar",
@@ -123,6 +123,2356 @@
         }
       ],
       "pembahasan": "Lama perjalanan = 10.20 − 07.45 = 2 jam 35 menit (BENAR). 2 jam 35 menit = 2×60 + 35 = 155 menit (BENAR). Berangkat 30 menit lebih awal = 07.15, tiba = 07.15 + 2 jam 35 menit = 09.50 (BENAR)."
+    },
+    {
+      "type": "mcq",
+      "question": "1 km = ... m",
+      "options": [
+        "10",
+        "100",
+        "1.000",
+        "10.000"
+      ],
+      "answer": 2,
+      "explanation": "Dari km ke m turun 3 anak tangga (km-hm-dam-m), masing-masing × 10: 1 × 1.000 = 1.000 m.",
+      "level": "dasar",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "mcq",
+      "question": "1 kg = ... gram",
+      "options": [
+        "10",
+        "100",
+        "1.000",
+        "10.000"
+      ],
+      "answer": 2,
+      "explanation": "Dari kg ke gram turun 3 anak tangga: 1 × 1.000 = 1.000 gram.",
+      "level": "dasar",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "mcq",
+      "question": "1 jam = ... menit",
+      "options": [
+        "24",
+        "60",
+        "100",
+        "360"
+      ],
+      "answer": 1,
+      "explanation": "1 jam = 60 menit.",
+      "level": "dasar",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "mcq",
+      "question": "1 menit = ... detik",
+      "options": [
+        "10",
+        "30",
+        "60",
+        "100"
+      ],
+      "answer": 2,
+      "explanation": "1 menit = 60 detik.",
+      "level": "dasar",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "mcq",
+      "question": "5 m = ... cm",
+      "options": [
+        "5",
+        "50",
+        "500",
+        "5.000"
+      ],
+      "answer": 2,
+      "explanation": "Dari m ke cm turun 2 anak tangga (× 100): 5 × 100 = 500 cm.",
+      "level": "dasar",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "mcq",
+      "question": "1 ton = ... kg",
+      "options": [
+        "10",
+        "100",
+        "1.000",
+        "10.000"
+      ],
+      "answer": 2,
+      "explanation": "1 ton = 1.000 kg.",
+      "level": "dasar",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "mcq",
+      "question": "1 lusin = ... buah",
+      "options": [
+        "10",
+        "12",
+        "20",
+        "24"
+      ],
+      "answer": 1,
+      "explanation": "1 lusin = 12 buah.",
+      "level": "dasar",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "mcq",
+      "question": "2 km = ... m",
+      "options": [
+        "20",
+        "200",
+        "2.000",
+        "20.000"
+      ],
+      "answer": 2,
+      "explanation": "2 × 1.000 = 2.000 m.",
+      "level": "dasar",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "mcq",
+      "question": "1 hari = ... jam",
+      "options": [
+        "7",
+        "12",
+        "24",
+        "60"
+      ],
+      "answer": 2,
+      "explanation": "1 hari = 24 jam.",
+      "level": "dasar",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "mcq",
+      "question": "3 kg = ... gram",
+      "options": [
+        "30",
+        "300",
+        "3.000",
+        "30.000"
+      ],
+      "answer": 2,
+      "explanation": "3 × 1.000 = 3.000 gram.",
+      "level": "dasar",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "mcq",
+      "question": "2.500 m = ... km",
+      "options": [
+        "0,25 km",
+        "2,5 km",
+        "25 km",
+        "250 km"
+      ],
+      "answer": 1,
+      "explanation": "Dari m ke km naik 3 anak tangga (÷ 1.000): 2.500 ÷ 1.000 = 2,5 km.",
+      "level": "rutin",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "mcq",
+      "question": "1 kuintal = ... kg",
+      "options": [
+        "10",
+        "100",
+        "1.000",
+        "10.000"
+      ],
+      "answer": 1,
+      "explanation": "1 kuintal = 100 kg.",
+      "level": "rutin",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "mcq",
+      "question": "3 minggu = ... hari",
+      "options": [
+        "14",
+        "21",
+        "24",
+        "28"
+      ],
+      "answer": 1,
+      "explanation": "1 minggu = 7 hari, jadi 3 × 7 = 21 hari.",
+      "level": "rutin",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "multiselect",
+      "question": "Pilih semua yang senilai dengan 1 meter!",
+      "options": [
+        "100 cm",
+        "10 dm",
+        "1.000 mm",
+        "10 cm"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "1 m = 100 cm (✓) = 10 dm (✓) = 1.000 mm (✓). Sedangkan 10 cm = 0,1 m (✗).",
+      "level": "rutin",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "multiselect",
+      "question": "Pilih semua pernyataan yang benar tentang satuan waktu!",
+      "options": [
+        "1 jam = 60 menit",
+        "1 hari = 24 jam",
+        "1 minggu = 10 hari",
+        "1 tahun = 12 bulan"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "1 jam = 60 menit (benar). 1 hari = 24 jam (benar). 1 minggu = 7 hari, bukan 10 (salah). 1 tahun = 12 bulan (benar).",
+      "level": "rutin",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan beberapa konversi satuan berikut. Tentukan Benar atau Salah!",
+      "statements": [
+        {
+          "text": "1 km = 1.000 m",
+          "answer": true
+        },
+        {
+          "text": "1 kg = 100 gram",
+          "answer": false
+        },
+        {
+          "text": "1 jam = 60 menit",
+          "answer": true
+        }
+      ],
+      "explanation": "1 km = 1.000 m (BENAR). 1 kg = 1.000 gram, bukan 100 (SALAH). 1 jam = 60 menit (BENAR).",
+      "level": "rutin",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "mcq",
+      "question": "4.000 gram = ... kg",
+      "options": [
+        "0,4 kg",
+        "4 kg",
+        "40 kg",
+        "400 kg"
+      ],
+      "answer": 1,
+      "explanation": "Dari gram ke kg naik 3 anak tangga (÷ 1.000): 4.000 ÷ 1.000 = 4 kg.",
+      "level": "rutin",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "mcq",
+      "question": "2 kodi = ... lembar",
+      "options": [
+        "24",
+        "40",
+        "44",
+        "144"
+      ],
+      "answer": 1,
+      "explanation": "1 kodi = 20 lembar, jadi 2 × 20 = 40 lembar.",
+      "level": "rutin",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "mcq",
+      "question": "120 menit = ... jam",
+      "options": [
+        "1 jam",
+        "2 jam",
+        "3 jam",
+        "60 jam"
+      ],
+      "answer": 1,
+      "explanation": "120 ÷ 60 = 2 jam.",
+      "level": "rutin",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan beberapa satuan kuantitas berikut. Tentukan Benar atau Salah!",
+      "statements": [
+        {
+          "text": "1 lusin = 12 buah",
+          "answer": true
+        },
+        {
+          "text": "1 gross = 144 buah",
+          "answer": true
+        },
+        {
+          "text": "1 rim = 100 lembar",
+          "answer": false
+        }
+      ],
+      "explanation": "1 lusin = 12 (BENAR). 1 gross = 144 (BENAR). 1 rim = 500 lembar, bukan 100 (SALAH).",
+      "level": "rutin",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah tali panjangnya 3 m dan sebuah tali lain 250 cm. Berapa panjang kedua tali seluruhnya dalam cm?",
+      "options": [
+        "253 cm",
+        "325 cm",
+        "550 cm",
+        "3.250 cm"
+      ],
+      "answer": 2,
+      "explanation": "Samakan satuan: 3 m = 300 cm. Total = 300 + 250 = 550 cm.",
+      "level": "ujian",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "mcq",
+      "question": "Berat sebuah karung beras 25 kg. Berapa berat 4 karung beras dalam gram?",
+      "options": [
+        "100 g",
+        "10.000 g",
+        "100.000 g",
+        "1.000.000 g"
+      ],
+      "answer": 2,
+      "explanation": "Berat total = 25 × 4 = 100 kg. Dalam gram: 100 × 1.000 = 100.000 g.",
+      "level": "ujian",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "multiselect",
+      "question": "Perhatikan waktu 2 jam 30 menit. Pilih semua pernyataan yang benar!",
+      "options": [
+        "Sama dengan 150 menit.",
+        "Sama dengan 2,5 jam.",
+        "Sama dengan 9.000 detik.",
+        "Sama dengan 90 menit."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "2 jam = 120 menit, jadi 2 jam 30 menit = 150 menit (benar) = 2,5 jam (benar). Dalam detik: 150 × 60 = 9.000 detik (benar). Bukan 90 menit (salah).",
+      "level": "ujian",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah truk mengangkut 2 ton 5 kuintal pasir. Berapa kg pasir seluruhnya?",
+      "options": [
+        "2.005 kg",
+        "2.050 kg",
+        "2.500 kg",
+        "7.000 kg"
+      ],
+      "answer": 2,
+      "explanation": "2 ton = 2.000 kg dan 5 kuintal = 500 kg. Total = 2.000 + 500 = 2.500 kg.",
+      "level": "ujian",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "truefalse",
+      "question": "Jarak rumah Andi ke sekolah adalah 1,5 km. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "1,5 km sama dengan 1.500 m.",
+          "answer": true
+        },
+        {
+          "text": "1,5 km sama dengan 150.000 cm.",
+          "answer": true
+        },
+        {
+          "text": "1,5 km sama dengan 15.000 m.",
+          "answer": false
+        }
+      ],
+      "explanation": "1,5 km = 1.500 m (BENAR). 1.500 m = 150.000 cm (BENAR). Jadi bukan 15.000 m (SALAH).",
+      "level": "ujian",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "mcq",
+      "question": "Ibu membeli 3 lusin gelas. Berapa jumlah gelas seluruhnya?",
+      "options": [
+        "15",
+        "30",
+        "36",
+        "144"
+      ],
+      "answer": 2,
+      "explanation": "1 lusin = 12, jadi 3 × 12 = 36 gelas.",
+      "level": "ujian",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "multiselect",
+      "question": "Pilih semua pernyataan yang benar!",
+      "options": [
+        "5 km = 5.000 m",
+        "2.000 gram = 2 kg",
+        "1 hari = 1.440 menit",
+        "3 jam = 300 menit"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "5 km = 5.000 m (benar). 2.000 gram = 2 kg (benar). 1 hari = 24 × 60 = 1.440 menit (benar). 3 jam = 180 menit, bukan 300 (salah).",
+      "level": "ujian",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah drum berisi 5 liter air. Berapa mililiter (mL) air dalam drum tersebut?",
+      "options": [
+        "50 mL",
+        "500 mL",
+        "5.000 mL",
+        "50.000 mL"
+      ],
+      "answer": 2,
+      "explanation": "1 liter = 1.000 mL, jadi 5 × 1.000 = 5.000 mL.",
+      "level": "ujian",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah lomba lari dimulai pukul 07.15 dan berlangsung selama 45 menit. Pukul berapa lomba selesai?",
+      "options": [
+        "07.45",
+        "08.00",
+        "08.15",
+        "07.60"
+      ],
+      "answer": 1,
+      "explanation": "07.15 + 45 menit = 08.00 (karena 15 + 45 = 60 menit = 1 jam).",
+      "level": "ujian",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "truefalse",
+      "question": "Sebuah toko menjual kertas sebanyak 3 rim. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "1 rim = 500 lembar.",
+          "answer": true
+        },
+        {
+          "text": "3 rim = 1.500 lembar.",
+          "answer": true
+        },
+        {
+          "text": "3 rim = 300 lembar.",
+          "answer": false
+        }
+      ],
+      "explanation": "1 rim = 500 lembar (BENAR). 3 × 500 = 1.500 lembar (BENAR), jadi bukan 300 (SALAH).",
+      "level": "ujian",
+      "materi": "konversi-satuan"
+    },
+    {
+      "type": "mcq",
+      "question": "Rumus untuk mencari kecepatan adalah ...",
+      "options": [
+        "jarak × waktu",
+        "jarak ÷ waktu",
+        "waktu ÷ jarak",
+        "jarak + waktu"
+      ],
+      "answer": 1,
+      "explanation": "Kecepatan = jarak ÷ waktu.",
+      "level": "dasar",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah mobil menempuh jarak 120 km dalam waktu 2 jam. Kecepatan mobil tersebut adalah ...",
+      "options": [
+        "40 km/jam",
+        "60 km/jam",
+        "120 km/jam",
+        "240 km/jam"
+      ],
+      "answer": 1,
+      "explanation": "Kecepatan = 120 ÷ 2 = 60 km/jam.",
+      "level": "dasar",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "mcq",
+      "question": "Rumus untuk mencari jarak adalah ...",
+      "options": [
+        "kecepatan × waktu",
+        "kecepatan ÷ waktu",
+        "waktu ÷ kecepatan",
+        "kecepatan − waktu"
+      ],
+      "answer": 0,
+      "explanation": "Jarak = kecepatan × waktu.",
+      "level": "dasar",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "mcq",
+      "question": "Seorang anak bersepeda dengan kecepatan 15 km/jam selama 2 jam. Jarak yang ditempuh adalah ...",
+      "options": [
+        "7,5 km",
+        "17 km",
+        "30 km",
+        "45 km"
+      ],
+      "answer": 2,
+      "explanation": "Jarak = 15 × 2 = 30 km.",
+      "level": "dasar",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "mcq",
+      "question": "Rumus untuk mencari waktu tempuh adalah ...",
+      "options": [
+        "jarak × kecepatan",
+        "jarak ÷ kecepatan",
+        "kecepatan ÷ jarak",
+        "jarak − kecepatan"
+      ],
+      "answer": 1,
+      "explanation": "Waktu = jarak ÷ kecepatan.",
+      "level": "dasar",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah sepeda motor menempuh jarak 180 km dengan kecepatan 60 km/jam. Waktu yang diperlukan adalah ...",
+      "options": [
+        "2 jam",
+        "3 jam",
+        "4 jam",
+        "6 jam"
+      ],
+      "answer": 1,
+      "explanation": "Waktu = 180 ÷ 60 = 3 jam.",
+      "level": "dasar",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "mcq",
+      "question": "Satuan kecepatan yang paling umum digunakan untuk kendaraan adalah ...",
+      "options": [
+        "km",
+        "jam",
+        "km/jam",
+        "km × jam"
+      ],
+      "answer": 2,
+      "explanation": "Kecepatan menyatakan jarak tiap satuan waktu, misalnya kilometer per jam (km/jam).",
+      "level": "dasar",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah bus menempuh jarak 240 km dalam waktu 4 jam. Kecepatan bus tersebut adalah ...",
+      "options": [
+        "50 km/jam",
+        "60 km/jam",
+        "70 km/jam",
+        "80 km/jam"
+      ],
+      "answer": 1,
+      "explanation": "Kecepatan = 240 ÷ 4 = 60 km/jam.",
+      "level": "dasar",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "mcq",
+      "question": "Jarak rumah ke kota 90 km. Jika ditempuh dengan kecepatan 45 km/jam, waktu yang diperlukan adalah ...",
+      "options": [
+        "1 jam",
+        "2 jam",
+        "3 jam",
+        "4 jam"
+      ],
+      "answer": 1,
+      "explanation": "Waktu = 90 ÷ 45 = 2 jam.",
+      "level": "dasar",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah mobil melaju dengan kecepatan 50 km/jam selama 3 jam. Jarak yang ditempuh adalah ...",
+      "options": [
+        "100 km",
+        "150 km",
+        "153 km",
+        "200 km"
+      ],
+      "answer": 1,
+      "explanation": "Jarak = 50 × 3 = 150 km.",
+      "level": "dasar",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah mobil melaju dengan kecepatan 60 km/jam selama 1 jam 30 menit. Jarak yang ditempuh adalah ...",
+      "options": [
+        "60 km",
+        "75 km",
+        "90 km",
+        "120 km"
+      ],
+      "answer": 2,
+      "explanation": "1 jam 30 menit = 1,5 jam. Jarak = 60 × 1,5 = 90 km.",
+      "level": "rutin",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "mcq",
+      "question": "Jarak dua kota 150 km ditempuh dengan kecepatan 60 km/jam. Waktu yang diperlukan adalah ...",
+      "options": [
+        "2 jam",
+        "2 jam 30 menit",
+        "3 jam",
+        "3 jam 30 menit"
+      ],
+      "answer": 1,
+      "explanation": "Waktu = 150 ÷ 60 = 2,5 jam = 2 jam 30 menit.",
+      "level": "rutin",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah bus berangkat pukul 07.00 menempuh jarak 180 km dengan kecepatan 60 km/jam. Bus tiba pada pukul ...",
+      "options": [
+        "09.00",
+        "10.00",
+        "10.30",
+        "11.00"
+      ],
+      "answer": 1,
+      "explanation": "Waktu tempuh = 180 ÷ 60 = 3 jam. Tiba = 07.00 + 3 jam = 10.00.",
+      "level": "rutin",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah kereta menempuh jarak 300 km dalam waktu 4 jam. Kecepatan rata-rata kereta adalah ...",
+      "options": [
+        "65 km/jam",
+        "70 km/jam",
+        "75 km/jam",
+        "80 km/jam"
+      ],
+      "answer": 2,
+      "explanation": "Kecepatan = 300 ÷ 4 = 75 km/jam.",
+      "level": "rutin",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "mcq",
+      "question": "Seorang pengendara motor melaju dengan kecepatan 60 km/jam selama 45 menit. Jarak yang ditempuh adalah ...",
+      "options": [
+        "30 km",
+        "45 km",
+        "60 km",
+        "75 km"
+      ],
+      "answer": 1,
+      "explanation": "45 menit = 45/60 jam. Jarak = 60 × 45/60 = 45 km.",
+      "level": "rutin",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah mobil menempuh jarak 100 km dalam waktu 1 jam 15 menit. Kecepatan mobil tersebut adalah ...",
+      "options": [
+        "75 km/jam",
+        "80 km/jam",
+        "85 km/jam",
+        "125 km/jam"
+      ],
+      "answer": 1,
+      "explanation": "1 jam 15 menit = 1,25 jam. Kecepatan = 100 ÷ 1,25 = 80 km/jam.",
+      "level": "rutin",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "multiselect",
+      "question": "Sebuah mobil menempuh jarak 240 km dalam waktu 3 jam. Pilih semua pernyataan yang benar!",
+      "options": [
+        "Kecepatan rata-rata mobil 80 km/jam.",
+        "Dalam 1 jam mobil menempuh 80 km.",
+        "Dalam 5 jam mobil dapat menempuh 400 km.",
+        "Kecepatan rata-rata mobil 60 km/jam."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Kecepatan = 240 ÷ 3 = 80 km/jam (✓), berarti 80 km tiap jam (✓). Dalam 5 jam: 80 × 5 = 400 km (✓). Jadi bukan 60 km/jam (✗).",
+      "level": "rutin",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "truefalse",
+      "question": "Sebuah sepeda melaju dengan kecepatan 20 km/jam. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "Dalam 2 jam sepeda menempuh 40 km.",
+          "answer": true
+        },
+        {
+          "text": "Untuk menempuh 100 km diperlukan waktu 5 jam.",
+          "answer": true
+        },
+        {
+          "text": "Dalam 30 menit sepeda menempuh 20 km.",
+          "answer": false
+        }
+      ],
+      "explanation": "Jarak 2 jam = 20 × 2 = 40 km (BENAR). Waktu 100 km = 100 ÷ 20 = 5 jam (BENAR). Dalam 30 menit (setengah jam) = 20 × 0,5 = 10 km, bukan 20 km (SALAH).",
+      "level": "rutin",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "mcq",
+      "question": "Andi bersepeda menempuh 12 km dalam 30 menit. Berapa kecepatan Andi dalam km/jam?",
+      "options": [
+        "6 km/jam",
+        "12 km/jam",
+        "24 km/jam",
+        "36 km/jam"
+      ],
+      "answer": 2,
+      "explanation": "30 menit = 0,5 jam. Kecepatan = 12 ÷ 0,5 = 24 km/jam.",
+      "level": "rutin",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "truefalse",
+      "question": "Kendaraan A menempuh 120 km dalam 2 jam, sedangkan kendaraan B menempuh 150 km dalam 3 jam. Tentukan Benar atau Salah!",
+      "statements": [
+        {
+          "text": "Kecepatan kendaraan A adalah 60 km/jam.",
+          "answer": true
+        },
+        {
+          "text": "Kecepatan kendaraan B adalah 50 km/jam.",
+          "answer": true
+        },
+        {
+          "text": "Kendaraan B melaju lebih cepat daripada kendaraan A.",
+          "answer": false
+        }
+      ],
+      "explanation": "A = 120 ÷ 2 = 60 km/jam (BENAR). B = 150 ÷ 3 = 50 km/jam (BENAR). Karena 60 lebih besar dari 50, justru A yang lebih cepat (SALAH).",
+      "level": "rutin",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "truefalse",
+      "question": "Sebuah kereta api berangkat pukul 06.15 menempuh jarak seluruhnya 300 km. Mula-mula kereta melaju 180 km dengan kecepatan 90 km/jam, lalu melanjutkan sisa perjalanan dengan kecepatan 60 km/jam. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "Waktu tempuh tahap pertama adalah 2 jam.",
+          "answer": true
+        },
+        {
+          "text": "Sisa jarak yang ditempuh pada tahap kedua adalah 120 km.",
+          "answer": true
+        },
+        {
+          "text": "Kereta tiba di tujuan pada pukul 09.15.",
+          "answer": false
+        }
+      ],
+      "explanation": "Tahap 1: 180 ÷ 90 = 2 jam (BENAR). Sisa jarak = 300 − 180 = 120 km (BENAR). Tahap 2: 120 ÷ 60 = 2 jam. Total 4 jam, tiba = 06.15 + 4 jam = 10.15, bukan 09.15 (SALAH).",
+      "level": "ujian",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah mobil berangkat pukul 07.45 dan tiba di tujuan pukul 10.20. Jika kecepatan rata-ratanya 60 km/jam, berapa jarak yang ditempuh?",
+      "options": [
+        "135 km",
+        "150 km",
+        "155 km",
+        "165 km"
+      ],
+      "answer": 2,
+      "explanation": "Lama perjalanan = 10.20 − 07.45 = 2 jam 35 menit = 155 menit. Karena 60 km/jam berarti 1 km tiap menit, jarak = 155 km.",
+      "level": "ujian",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah bus berangkat pukul 08.00 menempuh jarak 240 km dengan kecepatan 80 km/jam. Di tengah perjalanan bus beristirahat 30 menit. Pukul berapa bus tiba di tujuan?",
+      "options": [
+        "11.00",
+        "11.30",
+        "12.00",
+        "12.30"
+      ],
+      "answer": 1,
+      "explanation": "Waktu jalan = 240 ÷ 80 = 3 jam. Ditambah istirahat 30 menit menjadi 3 jam 30 menit. Tiba = 08.00 + 3 jam 30 menit = 11.30.",
+      "level": "ujian",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "multiselect",
+      "question": "Sebuah kendaraan menempuh 150 km pada 2 jam pertama dan 90 km pada 1 jam berikutnya. Pilih semua pernyataan yang benar!",
+      "options": [
+        "Jarak seluruhnya adalah 240 km.",
+        "Waktu tempuh seluruhnya adalah 3 jam.",
+        "Kecepatan rata-rata seluruh perjalanan adalah 80 km/jam.",
+        "Kecepatan rata-rata seluruh perjalanan adalah 120 km/jam."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Jarak total = 150 + 90 = 240 km (✓). Waktu total = 2 + 1 = 3 jam (✓). Kecepatan rata-rata = 240 ÷ 3 = 80 km/jam (✓), bukan 120 km/jam (✗).",
+      "level": "ujian",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "mcq",
+      "question": "Jarak kota A ke kota B adalah 175 km. Sebuah mobil berangkat pukul 06.30 dengan kecepatan 70 km/jam. Pukul berapa mobil tiba di kota B?",
+      "options": [
+        "08.30",
+        "09.00",
+        "09.30",
+        "10.00"
+      ],
+      "answer": 1,
+      "explanation": "Waktu = 175 ÷ 70 = 2,5 jam = 2 jam 30 menit. Tiba = 06.30 + 2 jam 30 menit = 09.00.",
+      "level": "ujian",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "truefalse",
+      "question": "Ayah mengendarai mobil dari rumah ke kota dengan kecepatan tetap 80 km/jam selama 2 jam 15 menit. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "2 jam 15 menit sama dengan 2,25 jam.",
+          "answer": true
+        },
+        {
+          "text": "Jarak yang ditempuh adalah 180 km.",
+          "answer": true
+        },
+        {
+          "text": "Jarak yang ditempuh adalah 160 km.",
+          "answer": false
+        }
+      ],
+      "explanation": "15 menit = 0,25 jam, jadi 2 jam 15 menit = 2,25 jam (BENAR). Jarak = 80 × 2,25 = 180 km (BENAR), jadi bukan 160 km (SALAH).",
+      "level": "ujian",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah bus menempuh jarak 210 km dengan kecepatan 70 km/jam. Jika bus berangkat pukul 13.15, pukul berapa bus tiba di tujuan?",
+      "options": [
+        "15.15",
+        "16.00",
+        "16.15",
+        "17.15"
+      ],
+      "answer": 2,
+      "explanation": "Waktu tempuh = 210 ÷ 70 = 3 jam. Tiba = 13.15 + 3 jam = 16.15.",
+      "level": "ujian",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "multiselect",
+      "question": "Sebuah motor berangkat pukul 09.00 dengan kecepatan 50 km/jam dan menempuh jarak 125 km. Pilih semua pernyataan yang benar!",
+      "options": [
+        "Waktu tempuh motor adalah 2 jam 30 menit.",
+        "Motor tiba pada pukul 11.30.",
+        "Dalam 1 jam pertama motor menempuh 50 km.",
+        "Motor tiba pada pukul 11.00."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Waktu = 125 ÷ 50 = 2,5 jam = 2 jam 30 menit (✓). Tiba = 09.00 + 2 jam 30 menit = 11.30 (✓), jadi bukan 11.00 (✗). Kecepatan 50 km/jam berarti 50 km pada jam pertama (✓).",
+      "level": "ujian",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "mcq",
+      "question": "Dua kota berjarak 360 km. Sebuah bus menempuhnya dalam 6 jam, sedangkan kereta menempuhnya dalam 4 jam. Berapa selisih kecepatan bus dan kereta?",
+      "options": [
+        "20 km/jam",
+        "30 km/jam",
+        "40 km/jam",
+        "60 km/jam"
+      ],
+      "answer": 1,
+      "explanation": "Kecepatan bus = 360 ÷ 6 = 60 km/jam. Kecepatan kereta = 360 ÷ 4 = 90 km/jam. Selisih = 90 − 60 = 30 km/jam.",
+      "level": "ujian",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "truefalse",
+      "question": "Sebuah truk berangkat pukul 05.30 dan tiba pukul 09.30 setelah menempuh jarak 200 km. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "Lama perjalanan truk adalah 4 jam.",
+          "answer": true
+        },
+        {
+          "text": "Kecepatan rata-rata truk adalah 50 km/jam.",
+          "answer": true
+        },
+        {
+          "text": "Kecepatan rata-rata truk adalah 40 km/jam.",
+          "answer": false
+        }
+      ],
+      "explanation": "Lama perjalanan = 09.30 − 05.30 = 4 jam (BENAR). Kecepatan = 200 ÷ 4 = 50 km/jam (BENAR), jadi bukan 40 km/jam (SALAH).",
+      "level": "ujian",
+      "materi": "kecepatan-jarak-waktu"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan jam berikut! Jam tersebut menunjukkan pukul ...",
+      "image": "waktu-jam-0715.svg",
+      "options": [
+        "03.35",
+        "07.03",
+        "07.15",
+        "15.07"
+      ],
+      "answer": 2,
+      "explanation": "Jarum pendek berada sedikit setelah angka 7 dan jarum panjang di angka 3 (berarti 15 menit). Jadi pukul 07.15.",
+      "level": "dasar",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan jam berikut! Jam tersebut menunjukkan pukul ...",
+      "image": "waktu-jam-0940.svg",
+      "options": [
+        "08.45",
+        "09.08",
+        "09.40",
+        "09.45"
+      ],
+      "answer": 2,
+      "explanation": "Jarum pendek di antara angka 9 dan 10, jarum panjang di angka 8 (berarti 40 menit). Jadi pukul 09.40.",
+      "level": "dasar",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan jam berikut! Jam tersebut menunjukkan pukul ...",
+      "image": "waktu-jam-0230.svg",
+      "options": [
+        "02.06",
+        "02.30",
+        "06.10",
+        "06.30"
+      ],
+      "answer": 1,
+      "explanation": "Jarum pendek di antara angka 2 dan 3, jarum panjang di angka 6 (berarti 30 menit). Jadi pukul 02.30.",
+      "level": "dasar",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "mcq",
+      "question": "1 jam sama dengan ... menit.",
+      "options": [
+        "24",
+        "30",
+        "60",
+        "100"
+      ],
+      "answer": 2,
+      "explanation": "1 jam = 60 menit.",
+      "level": "dasar",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "mcq",
+      "question": "2 jam sama dengan ... menit.",
+      "options": [
+        "60",
+        "100",
+        "120",
+        "240"
+      ],
+      "answer": 2,
+      "explanation": "2 × 60 = 120 menit.",
+      "level": "dasar",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "mcq",
+      "question": "90 menit sama dengan ...",
+      "options": [
+        "1 jam",
+        "1 jam 30 menit",
+        "2 jam",
+        "9 jam"
+      ],
+      "answer": 1,
+      "explanation": "90 menit = 60 menit + 30 menit = 1 jam 30 menit.",
+      "level": "dasar",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "mcq",
+      "question": "Pukul 07.00 ditambah 2 jam menjadi pukul ...",
+      "options": [
+        "08.00",
+        "09.00",
+        "09.30",
+        "10.00"
+      ],
+      "answer": 1,
+      "explanation": "07.00 + 2 jam = 09.00.",
+      "level": "dasar",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "mcq",
+      "question": "Pukul 10.00 dikurangi 1 jam menjadi pukul ...",
+      "options": [
+        "08.00",
+        "09.00",
+        "09.30",
+        "11.00"
+      ],
+      "answer": 1,
+      "explanation": "10.00 − 1 jam = 09.00.",
+      "level": "dasar",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "mcq",
+      "question": "1 hari sama dengan ... jam.",
+      "options": [
+        "7",
+        "12",
+        "24",
+        "60"
+      ],
+      "answer": 2,
+      "explanation": "1 hari = 24 jam.",
+      "level": "dasar",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "mcq",
+      "question": "Setengah jam sama dengan ... menit.",
+      "options": [
+        "15",
+        "20",
+        "30",
+        "45"
+      ],
+      "answer": 2,
+      "explanation": "Setengah dari 60 menit adalah 30 menit.",
+      "level": "dasar",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan dua jam berikut! Berapa lama perjalanan yang ditempuh?",
+      "image": "waktu-jam-perjalanan.svg",
+      "options": [
+        "2 jam 25 menit",
+        "2 jam 35 menit",
+        "3 jam 25 menit",
+        "3 jam 35 menit"
+      ],
+      "answer": 1,
+      "explanation": "Berangkat pukul 06.50 dan tiba pukul 09.25. Dari 06.50 ke 08.50 adalah 2 jam, lalu ke 09.25 tambah 35 menit. Jadi 2 jam 35 menit.",
+      "level": "rutin",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan dua jam berikut! Jika dinyatakan dalam menit, berapa lama perjalanan tersebut?",
+      "image": "waktu-jam-perjalanan.svg",
+      "options": [
+        "135 menit",
+        "145 menit",
+        "155 menit",
+        "235 menit"
+      ],
+      "answer": 2,
+      "explanation": "Lama perjalanan 2 jam 35 menit = (2 × 60) + 35 = 120 + 35 = 155 menit.",
+      "level": "rutin",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan dua jam berikut! Berapa lama kegiatan belajar berlangsung?",
+      "image": "waktu-jam-belajar.svg",
+      "options": [
+        "2 jam 50 menit",
+        "2 jam 90 menit",
+        "3 jam 50 menit",
+        "3 jam 10 menit"
+      ],
+      "answer": 0,
+      "explanation": "Mulai pukul 08.15 dan selesai pukul 11.05. Dari 08.15 ke 10.15 adalah 2 jam, lalu ke 11.05 tambah 50 menit. Jadi 2 jam 50 menit.",
+      "level": "rutin",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "mcq",
+      "question": "Pukul 08.30 ditambah 45 menit menjadi pukul ...",
+      "options": [
+        "08.75",
+        "09.15",
+        "09.30",
+        "09.45"
+      ],
+      "answer": 1,
+      "explanation": "08.30 + 30 menit = 09.00, lalu + 15 menit = 09.15.",
+      "level": "rutin",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "mcq",
+      "question": "Pukul 13.10 dikurangi 25 menit menjadi pukul ...",
+      "options": [
+        "12.35",
+        "12.45",
+        "12.85",
+        "13.35"
+      ],
+      "answer": 1,
+      "explanation": "13.10 − 10 menit = 13.00, lalu − 15 menit = 12.45.",
+      "level": "rutin",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "multiselect",
+      "question": "Pilih semua pernyataan yang benar tentang satuan waktu!",
+      "options": [
+        "1 jam = 60 menit",
+        "1 menit = 60 detik",
+        "2 jam 15 menit = 135 menit",
+        "1 jam 20 menit = 120 menit"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "1 jam = 60 menit (✓). 1 menit = 60 detik (✓). 2 jam 15 menit = 120 + 15 = 135 menit (✓). 1 jam 20 menit = 60 + 20 = 80 menit, bukan 120 (✗).",
+      "level": "rutin",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "truefalse",
+      "question": "Sebuah kegiatan berlangsung dari pukul 09.00 sampai pukul 11.30. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "Lama kegiatan adalah 2 jam 30 menit.",
+          "answer": true
+        },
+        {
+          "text": "Lama kegiatan sama dengan 150 menit.",
+          "answer": true
+        },
+        {
+          "text": "Lama kegiatan adalah 2 jam 50 menit.",
+          "answer": false
+        }
+      ],
+      "explanation": "Dari 09.00 ke 11.30 adalah 2 jam 30 menit (BENAR) = (2 × 60) + 30 = 150 menit (BENAR), jadi bukan 2 jam 50 menit (SALAH).",
+      "level": "rutin",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah film mulai diputar pukul 19.20 dan berlangsung selama 105 menit. Film tersebut selesai pada pukul ...",
+      "options": [
+        "20.25",
+        "20.65",
+        "21.05",
+        "21.25"
+      ],
+      "answer": 2,
+      "explanation": "105 menit = 1 jam 45 menit. 19.20 + 1 jam = 20.20, lalu + 45 menit = 21.05.",
+      "level": "rutin",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "mcq",
+      "question": "Pukul 15.45 ditambah 1 jam 30 menit menjadi pukul ...",
+      "options": [
+        "16.15",
+        "16.75",
+        "17.15",
+        "17.45"
+      ],
+      "answer": 2,
+      "explanation": "15.45 + 1 jam = 16.45, lalu + 30 menit = 17.15.",
+      "level": "rutin",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan beberapa pernyataan tentang waktu berikut. Tentukan Benar atau Salah!",
+      "statements": [
+        {
+          "text": "180 menit sama dengan 3 jam.",
+          "answer": true
+        },
+        {
+          "text": "1 jam 45 menit sama dengan 105 menit.",
+          "answer": true
+        },
+        {
+          "text": "75 menit sama dengan 1 jam 25 menit.",
+          "answer": false
+        }
+      ],
+      "explanation": "180 ÷ 60 = 3 jam (BENAR). 60 + 45 = 105 menit (BENAR). 75 menit = 1 jam 15 menit, bukan 1 jam 25 menit (SALAH).",
+      "level": "rutin",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan dua jam berikut yang menunjukkan waktu berangkat dan waktu tiba Pak Hamid. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "image": "waktu-jam-perjalanan.svg",
+      "statements": [
+        {
+          "text": "Lama perjalanan Pak Hamid adalah 2 jam 35 menit.",
+          "answer": true
+        },
+        {
+          "text": "Jika dinyatakan dalam menit, lama perjalanan adalah 155 menit.",
+          "answer": true
+        },
+        {
+          "text": "Jika esok hari Pak Hamid berangkat 30 menit lebih awal dengan lama perjalanan sama, ia tiba pukul 09.05.",
+          "answer": false
+        }
+      ],
+      "explanation": "Berangkat 06.50, tiba 09.25 → lama 2 jam 35 menit (BENAR) = 155 menit (BENAR). Berangkat 30 menit lebih awal berarti pukul 06.20; tiba = 06.20 + 2 jam 35 menit = 08.55, bukan 09.05 (SALAH).",
+      "level": "ujian",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "multiselect",
+      "question": "Perhatikan dua jam berikut yang menunjukkan waktu mulai dan selesai kegiatan belajar. Pilih semua pernyataan yang benar!",
+      "image": "waktu-jam-belajar.svg",
+      "options": [
+        "Kegiatan dimulai pukul 08.15.",
+        "Kegiatan selesai pukul 11.05.",
+        "Lama kegiatan adalah 170 menit.",
+        "Lama kegiatan adalah 3 jam."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Jam pertama menunjukkan 08.15 (✓) dan jam kedua 11.05 (✓). Lama = 2 jam 50 menit = 120 + 50 = 170 menit (✓), jadi bukan 3 jam (✗).",
+      "level": "ujian",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah kereta berangkat pukul 21.40 dan menempuh perjalanan selama 3 jam 45 menit. Kereta tiba pada pukul ...",
+      "options": [
+        "00.25",
+        "01.25",
+        "01.85",
+        "25.25"
+      ],
+      "answer": 1,
+      "explanation": "21.40 + 3 jam = 00.40 (lewat tengah malam), lalu + 45 menit = 01.25.",
+      "level": "ujian",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "multiselect",
+      "question": "Sebuah rapat berlangsung dari pukul 09.15 sampai pukul 11.00. Pilih semua pernyataan yang benar!",
+      "options": [
+        "Lama rapat adalah 1 jam 45 menit.",
+        "Lama rapat sama dengan 105 menit.",
+        "Jika rapat dimulai 15 menit lebih awal dengan lama sama, rapat selesai pukul 10.45.",
+        "Lama rapat adalah 2 jam 45 menit."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dari 09.15 ke 11.00 adalah 1 jam 45 menit (✓) = 105 menit (✓). Mulai 15 menit lebih awal berarti 09.00; selesai = 09.00 + 1 jam 45 menit = 10.45 (✓). Bukan 2 jam 45 menit (✗).",
+      "level": "ujian",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "mcq",
+      "question": "Anita tidur pukul 21.30 dan bangun pukul 04.45. Berapa lama Anita tidur?",
+      "options": [
+        "6 jam 15 menit",
+        "7 jam 15 menit",
+        "7 jam 45 menit",
+        "8 jam 15 menit"
+      ],
+      "answer": 1,
+      "explanation": "Dari 21.30 ke 24.00 adalah 2 jam 30 menit, lalu dari 00.00 ke 04.45 adalah 4 jam 45 menit. Total = 7 jam 15 menit.",
+      "level": "ujian",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "truefalse",
+      "question": "Sebuah toko buka pukul 08.00 dan tutup pukul 17.30. Pada pukul 12.00 sampai 13.00 toko istirahat. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "Toko buka selama 9 jam 30 menit jika dihitung dari buka sampai tutup.",
+          "answer": true
+        },
+        {
+          "text": "Waktu melayani pembeli (tanpa istirahat) adalah 8 jam 30 menit.",
+          "answer": true
+        },
+        {
+          "text": "Waktu melayani pembeli (tanpa istirahat) adalah 9 jam.",
+          "answer": false
+        }
+      ],
+      "explanation": "Dari 08.00 ke 17.30 adalah 9 jam 30 menit (BENAR). Dikurangi istirahat 1 jam menjadi 8 jam 30 menit (BENAR), jadi bukan 9 jam (SALAH).",
+      "level": "ujian",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "mcq",
+      "question": "Seorang siswa mengerjakan tiga soal ujian berturut-turut, masing-masing 25 menit, 40 menit, dan 35 menit tanpa jeda. Jika ia mulai pukul 07.30, ia selesai pada pukul ...",
+      "options": [
+        "09.00",
+        "09.10",
+        "09.20",
+        "09.40"
+      ],
+      "answer": 1,
+      "explanation": "Total waktu = 25 + 40 + 35 = 100 menit = 1 jam 40 menit. Selesai = 07.30 + 1 jam 40 menit = 09.10.",
+      "level": "ujian",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan jam berikut! Jika 50 menit kemudian bel sekolah berbunyi, pukul berapa bel tersebut berbunyi?",
+      "image": "waktu-jam-0940.svg",
+      "options": [
+        "10.20",
+        "10.30",
+        "10.40",
+        "10.50"
+      ],
+      "answer": 1,
+      "explanation": "Jam menunjukkan pukul 09.40. Ditambah 50 menit: 09.40 + 20 menit = 10.00, lalu + 30 menit = 10.30.",
+      "level": "ujian",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "multiselect",
+      "question": "Sebuah kegiatan berlangsung dari pukul 14.25 sampai pukul 16.10. Pilih semua pernyataan yang benar!",
+      "options": [
+        "Lama kegiatan adalah 1 jam 45 menit.",
+        "Lama kegiatan sama dengan 105 menit.",
+        "Jika kegiatan diperpanjang 20 menit, kegiatan selesai pukul 16.30.",
+        "Lama kegiatan adalah 2 jam 15 menit."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dari 14.25 ke 16.10: 14.25 → 16.25 adalah 2 jam, dikurangi 15 menit menjadi 1 jam 45 menit (✓) = 105 menit (✓). Diperpanjang 20 menit: 16.10 + 20 = 16.30 (✓). Bukan 2 jam 15 menit (✗).",
+      "level": "ujian",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan jam berikut. Jam tersebut menunjukkan waktu Andi mulai mengerjakan tugas, dan ia selesai 1 jam 50 menit kemudian. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "image": "waktu-jam-0715.svg",
+      "statements": [
+        {
+          "text": "Andi mulai mengerjakan tugas pukul 07.15.",
+          "answer": true
+        },
+        {
+          "text": "Andi selesai mengerjakan tugas pukul 09.05.",
+          "answer": true
+        },
+        {
+          "text": "Lama Andi mengerjakan tugas sama dengan 150 menit.",
+          "answer": false
+        }
+      ],
+      "explanation": "Jam menunjukkan 07.15 (BENAR). Selesai = 07.15 + 1 jam 50 menit = 09.05 (BENAR). Lama mengerjakan = 60 + 50 = 110 menit, bukan 150 menit (SALAH).",
+      "level": "ujian",
+      "materi": "waktu-jam"
+    },
+    {
+      "type": "mcq",
+      "question": "1 km sama dengan ... m",
+      "options": [
+        "10",
+        "100",
+        "1.000",
+        "10.000"
+      ],
+      "answer": 2,
+      "explanation": "1 km = 1.000 m.",
+      "level": "dasar",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "mcq",
+      "question": "1 m sama dengan ... cm",
+      "options": [
+        "10",
+        "100",
+        "1.000",
+        "10.000"
+      ],
+      "answer": 1,
+      "explanation": "1 m = 100 cm.",
+      "level": "dasar",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "mcq",
+      "question": "2 km sama dengan ... m",
+      "options": [
+        "20",
+        "200",
+        "2.000",
+        "20.000"
+      ],
+      "answer": 2,
+      "explanation": "2 × 1.000 = 2.000 m.",
+      "level": "dasar",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "mcq",
+      "question": "300 cm sama dengan ... m",
+      "options": [
+        "0,3",
+        "3",
+        "30",
+        "300"
+      ],
+      "answer": 1,
+      "explanation": "300 ÷ 100 = 3 m.",
+      "level": "dasar",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan denah berikut! Berapa jarak dari rumah Andi ke sekolah?",
+      "image": "denah-rute-sekolah.svg",
+      "options": [
+        "600 m",
+        "700 m",
+        "1,5 km",
+        "2,1 km"
+      ],
+      "answer": 0,
+      "explanation": "Pada denah, ruas antara rumah Andi dan sekolah tertulis 600 m.",
+      "level": "dasar",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan denah berikut! Berapa jarak dari rumah Anita ke rumah Ani?",
+      "image": "denah-rute-sekolah.svg",
+      "options": [
+        "600 m",
+        "700 m",
+        "900 m",
+        "1,5 km"
+      ],
+      "answer": 1,
+      "explanation": "Pada denah, ruas antara rumah Anita dan rumah Ani tertulis 700 m.",
+      "level": "dasar",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "mcq",
+      "question": "1,5 km sama dengan ... m",
+      "options": [
+        "150",
+        "1.050",
+        "1.500",
+        "15.000"
+      ],
+      "answer": 2,
+      "explanation": "1,5 × 1.000 = 1.500 m.",
+      "level": "dasar",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "mcq",
+      "question": "2.000 m sama dengan ... km",
+      "options": [
+        "0,2 km",
+        "2 km",
+        "20 km",
+        "200 km"
+      ],
+      "answer": 1,
+      "explanation": "2.000 ÷ 1.000 = 2 km.",
+      "level": "dasar",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "mcq",
+      "question": "Urutan satuan panjang dari yang terbesar adalah ...",
+      "options": [
+        "m, dam, hm, km",
+        "km, hm, dam, m",
+        "km, dam, hm, m",
+        "m, km, hm, dam"
+      ],
+      "answer": 1,
+      "explanation": "Urutan dari terbesar: km, hm, dam, m (lalu dm, cm, mm).",
+      "level": "dasar",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "mcq",
+      "question": "50 cm sama dengan ... m",
+      "options": [
+        "0,05",
+        "0,5",
+        "5",
+        "50"
+      ],
+      "answer": 1,
+      "explanation": "50 ÷ 100 = 0,5 m.",
+      "level": "dasar",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan denah berikut! Berapa jarak dari rumah Ani ke sekolah?",
+      "image": "denah-rute-sekolah.svg",
+      "options": [
+        "1,5 km",
+        "2,1 km",
+        "2,2 km",
+        "2,8 km"
+      ],
+      "answer": 1,
+      "explanation": "Rute Ani ke sekolah melewati rumah Andi: 1,5 km + 600 m. Samakan satuan: 1.500 m + 600 m = 2.100 m = 2,1 km.",
+      "level": "rutin",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan denah berikut! Berapa jarak dari rumah Anita ke rumah Andi?",
+      "image": "denah-rute-sekolah.svg",
+      "options": [
+        "1,5 km",
+        "2,1 km",
+        "2,2 km",
+        "2,8 km"
+      ],
+      "answer": 2,
+      "explanation": "Rute Anita ke rumah Andi melewati rumah Ani: 700 m + 1,5 km = 700 m + 1.500 m = 2.200 m = 2,2 km.",
+      "level": "rutin",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "mcq",
+      "question": "Hasil dari 1,2 km + 800 m adalah ...",
+      "options": [
+        "1,28 km",
+        "2 km",
+        "2,8 km",
+        "9,2 km"
+      ],
+      "answer": 1,
+      "explanation": "Samakan satuan: 1,2 km = 1.200 m. Maka 1.200 + 800 = 2.000 m = 2 km.",
+      "level": "rutin",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "mcq",
+      "question": "Hasil dari 3 km − 1.500 m adalah ...",
+      "options": [
+        "1,5 km",
+        "1.497 km",
+        "2,5 km",
+        "15 km"
+      ],
+      "answer": 0,
+      "explanation": "3 km = 3.000 m. Maka 3.000 − 1.500 = 1.500 m = 1,5 km.",
+      "level": "rutin",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "multiselect",
+      "question": "Pilih semua pernyataan yang benar tentang satuan panjang!",
+      "options": [
+        "2,5 km = 2.500 m",
+        "750 cm = 7,5 m",
+        "1.200 m = 1,2 km",
+        "0,8 km = 80 m"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "2,5 × 1.000 = 2.500 m (✓). 750 ÷ 100 = 7,5 m (✓). 1.200 ÷ 1.000 = 1,2 km (✓). 0,8 km = 800 m, bukan 80 m (✗).",
+      "level": "rutin",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan beberapa pernyataan berikut. Tentukan Benar atau Salah!",
+      "statements": [
+        {
+          "text": "1 km = 1.000 m",
+          "answer": true
+        },
+        {
+          "text": "1 m = 10 cm",
+          "answer": false
+        },
+        {
+          "text": "500 m = 0,5 km",
+          "answer": true
+        }
+      ],
+      "explanation": "1 km = 1.000 m (BENAR). 1 m = 100 cm, bukan 10 cm (SALAH). 500 ÷ 1.000 = 0,5 km (BENAR).",
+      "level": "rutin",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah tali panjangnya 2 m disambung dengan tali lain sepanjang 150 cm. Berapa panjang tali seluruhnya?",
+      "options": [
+        "152 cm",
+        "170 cm",
+        "3,5 m",
+        "17 m"
+      ],
+      "answer": 2,
+      "explanation": "Samakan satuan: 2 m = 200 cm. Total = 200 + 150 = 350 cm = 3,5 m.",
+      "level": "rutin",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan denah berikut! Berapa panjang Jalur A (lewat Pasar) dari rumah Budi ke sekolah?",
+      "image": "denah-dua-jalur.svg",
+      "options": [
+        "1,2 km",
+        "2,1 km",
+        "2,5 km",
+        "3,4 km"
+      ],
+      "answer": 1,
+      "explanation": "Jalur A = 1,2 km + 900 m. Samakan satuan: 1.200 m + 900 m = 2.100 m = 2,1 km.",
+      "level": "rutin",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "mcq",
+      "question": "4,5 km sama dengan ... m",
+      "options": [
+        "450",
+        "4.005",
+        "4.050",
+        "4.500"
+      ],
+      "answer": 3,
+      "explanation": "4,5 × 1.000 = 4.500 m.",
+      "level": "rutin",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "truefalse",
+      "question": "Sebuah lapangan memiliki panjang 250 m. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "Panjang lapangan sama dengan 0,25 km.",
+          "answer": true
+        },
+        {
+          "text": "Panjang lapangan sama dengan 25.000 cm.",
+          "answer": true
+        },
+        {
+          "text": "Panjang lapangan sama dengan 2,5 km.",
+          "answer": false
+        }
+      ],
+      "explanation": "250 ÷ 1.000 = 0,25 km (BENAR). 250 × 100 = 25.000 cm (BENAR). 2,5 km = 2.500 m, jauh lebih panjang (SALAH).",
+      "level": "rutin",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan denah berikut! Anita berangkat dari rumahnya menuju sekolah melewati rumah Ani dan rumah Andi. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "image": "denah-rute-sekolah.svg",
+      "statements": [
+        {
+          "text": "Jarak yang ditempuh Anita adalah 2.800 m.",
+          "answer": true
+        },
+        {
+          "text": "Jarak yang ditempuh Anita sama dengan 2,8 km.",
+          "answer": true
+        },
+        {
+          "text": "Jarak yang ditempuh Anita adalah 1,3 km.",
+          "answer": false
+        }
+      ],
+      "explanation": "Rute Anita = 700 m + 1,5 km + 600 m. Samakan satuan: 700 + 1.500 + 600 = 2.800 m (BENAR) = 2,8 km (BENAR). Angka 1,3 km diperoleh jika satuannya tidak disamakan, jadi SALAH.",
+      "level": "ujian",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan denah berikut! Berapakah jarak yang ditempuh Anita dari rumah ke sekolah?",
+      "image": "denah-rute-sekolah.svg",
+      "options": [
+        "1,3 km",
+        "2,1 km",
+        "2,8 km",
+        "3,8 km"
+      ],
+      "answer": 2,
+      "explanation": "Rute Anita: 700 m + 1,5 km + 600 m = 700 + 1.500 + 600 = 2.800 m = 2,8 km.",
+      "level": "ujian",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan denah berikut! Jalur manakah yang lebih pendek dan berapa selisihnya?",
+      "image": "denah-dua-jalur.svg",
+      "options": [
+        "Jalur A, selisih 400 m",
+        "Jalur A, selisih 1,3 km",
+        "Jalur B, selisih 400 m",
+        "Jalur B, selisih 1,3 km"
+      ],
+      "answer": 0,
+      "explanation": "Jalur A = 1,2 km + 900 m = 2.100 m. Jalur B = 2,5 km = 2.500 m. Jalur A lebih pendek dengan selisih 2.500 − 2.100 = 400 m.",
+      "level": "ujian",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "multiselect",
+      "question": "Perhatikan denah berikut! Pilih semua pernyataan yang benar!",
+      "image": "denah-dua-jalur.svg",
+      "options": [
+        "Panjang Jalur A adalah 2.100 m.",
+        "Panjang Jalur B adalah 2.500 m.",
+        "Jalur A lebih pendek daripada Jalur B.",
+        "Panjang Jalur A adalah 2,9 km."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Jalur A = 1.200 + 900 = 2.100 m (✓). Jalur B = 2,5 km = 2.500 m (✓). Karena 2.100 < 2.500, Jalur A lebih pendek (✓). Jadi bukan 2,9 km (✗).",
+      "level": "ujian",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan denah berikut! Jika Anita pergi ke sekolah lalu pulang lewat jalur yang sama, berapa jarak yang ia tempuh seluruhnya?",
+      "image": "denah-rute-sekolah.svg",
+      "options": [
+        "2,8 km",
+        "5,6 km",
+        "6,2 km",
+        "8,4 km"
+      ],
+      "answer": 1,
+      "explanation": "Sekali jalan = 2.800 m. Pergi pulang = 2 × 2.800 = 5.600 m = 5,6 km.",
+      "level": "ujian",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "truefalse",
+      "question": "Seorang petugas mengukur pagar sekolah. Sisi depan 45 m, sisi samping 3.000 cm, dan sisi belakang 0,05 km. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "Sisi samping sama dengan 30 m.",
+          "answer": true
+        },
+        {
+          "text": "Sisi belakang sama dengan 50 m.",
+          "answer": true
+        },
+        {
+          "text": "Sisi depan adalah yang terpanjang.",
+          "answer": false
+        }
+      ],
+      "explanation": "3.000 cm = 30 m (BENAR). 0,05 km = 50 m (BENAR). Bandingkan: depan 45 m, samping 30 m, belakang 50 m — yang terpanjang adalah sisi belakang, bukan sisi depan (SALAH).",
+      "level": "ujian",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "mcq",
+      "question": "Seorang pelari mengelilingi lintasan sepanjang 400 m sebanyak 3 putaran. Berapa jarak yang ia tempuh?",
+      "options": [
+        "1,2 km",
+        "1,4 km",
+        "12 km",
+        "120 km"
+      ],
+      "answer": 0,
+      "explanation": "Jarak = 3 × 400 = 1.200 m = 1,2 km.",
+      "level": "ujian",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "multiselect",
+      "question": "Sebuah jalan diperbaiki sepanjang 1,8 km. Hari pertama selesai 700 m dan hari kedua selesai 600 m. Pilih semua pernyataan yang benar!",
+      "options": [
+        "Panjang jalan seluruhnya 1.800 m.",
+        "Yang sudah diperbaiki 1.300 m.",
+        "Sisa jalan yang belum diperbaiki 500 m.",
+        "Sisa jalan yang belum diperbaiki 1,1 km."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "1,8 km = 1.800 m (✓). Sudah diperbaiki = 700 + 600 = 1.300 m (✓). Sisa = 1.800 − 1.300 = 500 m (✓), bukan 1,1 km (✗).",
+      "level": "ujian",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "mcq",
+      "question": "Perhatikan denah berikut! Jika Anita pergi dan pulang dari sekolah setiap hari selama 5 hari, berapa jarak yang ia tempuh seluruhnya?",
+      "image": "denah-rute-sekolah.svg",
+      "options": [
+        "14 km",
+        "24 km",
+        "28 km",
+        "56 km"
+      ],
+      "answer": 2,
+      "explanation": "Pergi pulang sehari = 5.600 m. Selama 5 hari = 5 × 5.600 = 28.000 m = 28 km.",
+      "level": "ujian",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "truefalse",
+      "question": "Tiga anak mengukur panjang benda: Ali 2,5 m, Bima 180 cm, dan Cika 0,003 km. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "Panjang benda Cika sama dengan 3 m.",
+          "answer": true
+        },
+        {
+          "text": "Benda Cika paling panjang di antara ketiganya.",
+          "answer": true
+        },
+        {
+          "text": "Benda Bima lebih panjang daripada benda Ali.",
+          "answer": false
+        }
+      ],
+      "explanation": "0,003 km = 3 m (BENAR). Bandingkan dalam meter: Ali 2,5 m, Bima 1,8 m, Cika 3 m — Cika paling panjang (BENAR). Bima 1,8 m lebih pendek daripada Ali 2,5 m (SALAH).",
+      "level": "ujian",
+      "materi": "satuan-panjang"
+    },
+    {
+      "type": "mcq",
+      "question": "Pak Bakri memiliki lahan seluas 3,5 hektar. Sebanyak 1/5 bagian ditanami cabai. Berapa luas lahan yang ditanami cabai?",
+      "options": [
+        "0,70 hektar",
+        "0,88 hektar",
+        "1,17 hektar",
+        "2,80 hektar"
+      ],
+      "answer": 0,
+      "explanation": "Luas cabai = 1/5 × 3,5 = 0,7 hektar.",
+      "level": "dasar",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah kebun luasnya 8 hektar. Sebanyak 1/4 bagian ditanami jagung. Berapa luas kebun yang ditanami jagung?",
+      "options": [
+        "2 hektar",
+        "4 hektar",
+        "6 hektar",
+        "1 hektar"
+      ],
+      "answer": 0,
+      "explanation": "Luas jagung = 1/4 × 8 = 2 hektar.",
+      "level": "dasar",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "mcq",
+      "question": "Ibu memiliki 6,4 kg tepung. Sebanyak 1/2 bagian dipakai membuat kue. Berapa kg tepung yang dipakai?",
+      "options": [
+        "1,60 kg",
+        "3,20 kg",
+        "4,80 kg",
+        "6,40 kg"
+      ],
+      "answer": 1,
+      "explanation": "Tepung dipakai = 1/2 × 6,4 = 3,2 kg.",
+      "level": "dasar",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah drum berisi 10 liter air. Sebanyak 2/5 bagian digunakan menyiram tanaman. Berapa liter air yang digunakan?",
+      "options": [
+        "2 liter",
+        "4 liter",
+        "6 liter",
+        "10 liter"
+      ],
+      "answer": 1,
+      "explanation": "Air digunakan = 2/5 × 10 = 4 liter.",
+      "level": "dasar",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "mcq",
+      "question": "1 hektar sama dengan ... m²",
+      "options": [
+        "100 m²",
+        "1.000 m²",
+        "10.000 m²",
+        "100.000 m²"
+      ],
+      "answer": 2,
+      "explanation": "1 hektar = 10.000 m².",
+      "level": "dasar",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah tali panjangnya 12 m. Sebanyak 3/4 bagian dipotong. Berapa meter tali yang dipotong?",
+      "options": [
+        "3 m",
+        "6 m",
+        "9 m",
+        "12 m"
+      ],
+      "answer": 2,
+      "explanation": "Tali dipotong = 3/4 × 12 = 9 m.",
+      "level": "dasar",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah pekerjaan diperkirakan selesai dalam 9 jam. Setelah 1/3 bagian waktu berlalu, berapa jam yang sudah dipakai?",
+      "options": [
+        "3 jam",
+        "6 jam",
+        "1 jam",
+        "9 jam"
+      ],
+      "answer": 0,
+      "explanation": "Waktu terpakai = 1/3 × 9 = 3 jam.",
+      "level": "dasar",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "mcq",
+      "question": "Luas 0,5 hektar sama dengan ... m²",
+      "options": [
+        "500 m²",
+        "5.000 m²",
+        "50.000 m²",
+        "5 m²"
+      ],
+      "answer": 1,
+      "explanation": "0,5 × 10.000 = 5.000 m².",
+      "level": "dasar",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah lahan seluas 6 hektar. Sebanyak 1/3 bagian sudah ditanami. Berapa luas lahan yang belum ditanami?",
+      "options": [
+        "2 hektar",
+        "4 hektar",
+        "6 hektar",
+        "3 hektar"
+      ],
+      "answer": 1,
+      "explanation": "Sudah ditanami = 1/3 × 6 = 2 hektar. Belum ditanami = 6 − 2 = 4 hektar.",
+      "level": "dasar",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah gudang berisi 20 kg gula. Sebanyak 1/4 bagian terjual. Berapa kg gula yang terjual?",
+      "options": [
+        "5 kg",
+        "10 kg",
+        "15 kg",
+        "4 kg"
+      ],
+      "answer": 0,
+      "explanation": "Gula terjual = 1/4 × 20 = 5 kg.",
+      "level": "dasar",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "mcq",
+      "question": "Pak Bakri memiliki lahan seluas 3,5 hektar. Sebanyak 1/5 bagian ditanami cabai merah dan sisanya ditanami sayuran lain. Berapa luas lahan yang ditanami sayuran lain?",
+      "options": [
+        "0,70 hektar",
+        "1,17 hektar",
+        "2,80 hektar",
+        "3,50 hektar"
+      ],
+      "answer": 2,
+      "explanation": "Cabai = 1/5 × 3,5 = 0,7 hektar. Sayuran lain = 3,5 − 0,7 = 2,8 hektar.",
+      "level": "rutin",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "mcq",
+      "question": "Seorang pedagang memiliki 12 kg beras. Sebanyak 1/3 bagian terjual pada pagi hari. Berapa kg beras yang belum terjual?",
+      "options": [
+        "4 kg",
+        "8 kg",
+        "6 kg",
+        "12 kg"
+      ],
+      "answer": 1,
+      "explanation": "Terjual = 1/3 × 12 = 4 kg. Belum terjual = 12 − 4 = 8 kg.",
+      "level": "rutin",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah tangki berisi 24 liter air. Sebanyak 1/4 bagian dipakai pagi hari dan 1/3 bagian dipakai sore hari. Berapa liter air yang tersisa?",
+      "options": [
+        "10 liter",
+        "6 liter",
+        "8 liter",
+        "14 liter"
+      ],
+      "answer": 0,
+      "explanation": "Pagi = 6 liter; sore = 8 liter. Sisa = 24 − 6 − 8 = 10 liter.",
+      "level": "rutin",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah lahan seluas 15 hektar. Sebanyak 2/5 bagian ditanami jagung dan sisanya ditanami singkong. Berapa luas lahan yang ditanami singkong?",
+      "options": [
+        "6 hektar",
+        "9 hektar",
+        "10 hektar",
+        "15 hektar"
+      ],
+      "answer": 1,
+      "explanation": "Jagung = 2/5 × 15 = 6 hektar. Singkong = 15 − 6 = 9 hektar.",
+      "level": "rutin",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "multiselect",
+      "question": "Sebuah kebun seluas 20 hektar. Sebanyak 1/4 bagian ditanami padi, 1/5 bagian ditanami jagung, dan sisanya ditanami kedelai. Pilih semua pernyataan yang benar!",
+      "options": [
+        "Luas padi adalah 5 hektar.",
+        "Luas jagung adalah 4 hektar.",
+        "Luas kedelai adalah 11 hektar.",
+        "Luas kedelai adalah 9 hektar."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Padi = 5 ha (✓); jagung = 4 ha (✓). Kedelai = 20 − 5 − 4 = 11 ha (✓). Angka 9 adalah jumlah padi dan jagung, bukan kedelai (✗).",
+      "level": "rutin",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "truefalse",
+      "question": "Ibu memiliki 8 kg tepung. Sebanyak 1/2 bagian dipakai membuat kue dan 1/4 bagian dipakai membuat roti. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "Tepung untuk kue adalah 4 kg.",
+          "answer": true
+        },
+        {
+          "text": "Tepung untuk roti adalah 2 kg.",
+          "answer": true
+        },
+        {
+          "text": "Sisa tepung Ibu adalah 2 kg lebih banyak daripada tepung untuk roti.",
+          "answer": false
+        }
+      ],
+      "explanation": "Kue = 4 kg (BENAR); roti = 2 kg (BENAR). Sisa = 8 − 4 − 2 = 2 kg, yaitu sama banyak dengan tepung untuk roti, bukan lebih banyak (SALAH).",
+      "level": "rutin",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah lahan seluas 4,5 hektar. Sebanyak 1/3 bagian ditanami tomat. Berapa luas lahan yang ditanami tomat?",
+      "options": [
+        "2,25 hektar",
+        "1,50 hektar",
+        "3,00 hektar",
+        "4,50 hektar"
+      ],
+      "answer": 1,
+      "explanation": "Tomat = 1/3 × 4,5 = 1,5 hektar.",
+      "level": "rutin",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah bak berisi 30 liter air. Sebanyak 2/5 bagian dialirkan ke kolam. Berapa liter air yang masih ada di bak?",
+      "options": [
+        "12 liter",
+        "18 liter",
+        "6 liter",
+        "30 liter"
+      ],
+      "answer": 1,
+      "explanation": "Dialirkan = 2/5 × 30 = 12 liter. Sisa = 30 − 12 = 18 liter.",
+      "level": "rutin",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "mcq",
+      "question": "Seorang penjual memiliki 2,4 kg madu. Sebanyak 1/4 bagian terjual. Berapa kg madu yang terjual?",
+      "options": [
+        "0,60 kg",
+        "1,20 kg",
+        "1,80 kg",
+        "2,40 kg"
+      ],
+      "answer": 0,
+      "explanation": "Madu terjual = 1/4 × 2,4 = 0,6 kg.",
+      "level": "rutin",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "truefalse",
+      "question": "Perhatikan beberapa pernyataan tentang satuan luas berikut. Tentukan Benar atau Salah!",
+      "statements": [
+        {
+          "text": "1 hektar sama dengan 10.000 m².",
+          "answer": true
+        },
+        {
+          "text": "2,5 hektar sama dengan 25.000 m².",
+          "answer": true
+        },
+        {
+          "text": "0,3 hektar sama dengan 300 m².",
+          "answer": false
+        }
+      ],
+      "explanation": "1 ha = 10.000 m² (BENAR). 2,5 × 10.000 = 25.000 m² (BENAR). 0,3 × 10.000 = 3.000 m², bukan 300 m² (SALAH).",
+      "level": "rutin",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "mcq",
+      "question": "Pak Hasan memiliki lahan seluas 4,2 hektar. Sebanyak 1/6 bagian ditanami cabai merah, 1/3 bagian ditanami tomat, dan sisanya ditanami daun bawang. Berapakah luas lahan yang ditanami tomat dan daun bawang?",
+      "options": [
+        "2,10 hektar",
+        "2,80 hektar",
+        "3,50 hektar",
+        "4,20 hektar"
+      ],
+      "answer": 2,
+      "explanation": "Cabai = 1/6 × 4,2 = 0,7 ha. Tomat = 1/3 × 4,2 = 1,40 ha. Daun bawang = 4,2 − 0,7 − 1,40 = 2,10 ha. Tomat + daun bawang = 1,40 + 2,10 = 3,50 ha. Cara cepat: 4,2 − 0,7 = 3,50 ha.",
+      "level": "ujian",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah kebun seluas 6 hektar. Sebanyak 1/4 bagian ditanami mangga, 1/3 bagian ditanami jeruk, dan sisanya ditanami rambutan. Berapa luas kebun yang ditanami rambutan?",
+      "options": [
+        "1,50 hektar",
+        "2,00 hektar",
+        "2,50 hektar",
+        "3,50 hektar"
+      ],
+      "answer": 2,
+      "explanation": "Mangga = 1,50 ha; jeruk = 2,00 ha. Rambutan = 6 − 1,50 − 2,00 = 2,50 ha.",
+      "level": "ujian",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "multiselect",
+      "question": "Seorang pedagang memiliki 18 kg gula. Sebanyak 1/3 bagian terjual pagi hari, 1/6 bagian terjual sore hari, dan sisanya belum terjual. Pilih semua pernyataan yang benar!",
+      "options": [
+        "Gula terjual pagi hari 6 kg.",
+        "Gula terjual sore hari 3 kg.",
+        "Gula yang belum terjual 9 kg.",
+        "Gula yang belum terjual 9 kg."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Pagi = 6 kg (✓); sore = 3 kg (✓). Belum terjual = 18 − 6 − 3 = 9 kg (✓). Angka 9 kg adalah jumlah yang sudah terjual (✗).",
+      "level": "ujian",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah tandon berisi 40 liter air. Sebanyak 2/5 bagian dipakai untuk mandi dan 1/4 bagian dipakai untuk mencuci. Berapa liter air yang masih tersisa di tandon?",
+      "options": [
+        "16 liter",
+        "10 liter",
+        "14 liter",
+        "26 liter"
+      ],
+      "answer": 2,
+      "explanation": "Mandi = 16 liter; mencuci = 10 liter. Sisa = 40 − 16 − 10 = 14 liter.",
+      "level": "ujian",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "truefalse",
+      "question": "Bu Rina memiliki lahan seluas 7,2 hektar. Sebanyak 1/4 bagian ditanami bayam, 1/3 bagian ditanami kangkung, dan sisanya ditanami sawi. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "Luas lahan bayam adalah 1,80 hektar.",
+          "answer": true
+        },
+        {
+          "text": "Luas lahan sawi adalah 3,00 hektar.",
+          "answer": true
+        },
+        {
+          "text": "Luas lahan kangkung dan sawi adalah 1,80 hektar.",
+          "answer": false
+        }
+      ],
+      "explanation": "Bayam = 1/4 × 7,2 = 1,80 ha (BENAR). Kangkung = 2,40 ha. Sawi = 7,2 − 1,80 − 2,40 = 3,00 ha (BENAR). Kangkung + sawi = 2,40 + 3,00 = 5,40 ha, bukan 1,80 ha (SALAH).",
+      "level": "ujian",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah pekerjaan direncanakan selesai dalam 12 jam. Sebanyak 1/4 bagian waktu dipakai untuk persiapan, 1/6 bagian untuk pemasangan, dan sisanya untuk perapian. Berapa jam waktu untuk pemasangan dan perapian?",
+      "options": [
+        "3 jam",
+        "7 jam",
+        "9 jam",
+        "12 jam"
+      ],
+      "answer": 2,
+      "explanation": "Persiapan = 3 jam. Sisa waktu untuk pemasangan dan perapian = 12 − 3 = 9 jam.",
+      "level": "ujian",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah lahan seluas 2,8 hektar. Sebanyak 1/4 bagian ditanami terong, 2/7 bagian ditanami cabai, dan sisanya ditanami kacang. Berapa luas lahan yang ditanami terong dan kacang?",
+      "options": [
+        "0,80 hektar",
+        "1,30 hektar",
+        "2,00 hektar",
+        "2,80 hektar"
+      ],
+      "answer": 2,
+      "explanation": "Cabai = 2/7 × 2,8 = 0,80 ha. Terong dan kacang = seluruh lahan dikurangi cabai = 2,8 − 0,80 = 2,00 ha.",
+      "level": "ujian",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "multiselect",
+      "question": "Sebuah gudang berisi 50 kg pupuk. Sebanyak 3/10 bagian dipakai minggu pertama, 1/5 bagian dipakai minggu kedua, dan sisanya masih tersimpan. Pilih semua pernyataan yang benar!",
+      "options": [
+        "Pupuk minggu pertama 15 kg.",
+        "Pupuk minggu kedua 10 kg.",
+        "Pupuk yang masih tersimpan 25 kg.",
+        "Pupuk yang sudah dipakai 25 kg."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Minggu pertama = 15 kg (✓); minggu kedua = 10 kg (✓). Tersimpan = 50 − 15 − 10 = 25 kg (✓). Yang sudah dipakai = 25 kg, bukan 25 kg (✗).",
+      "level": "ujian",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "mcq",
+      "question": "Sebuah lahan seluas 9 hektar. Sebanyak 1/3 bagian ditanami padi, 2/9 bagian ditanami jagung, dan sisanya ditanami ubi. Berapa luas lahan yang ditanami padi dan ubi?",
+      "options": [
+        "2,00 hektar",
+        "4,00 hektar",
+        "7,00 hektar",
+        "9,00 hektar"
+      ],
+      "answer": 2,
+      "explanation": "Jagung = 2/9 × 9 = 2,00 ha. Padi dan ubi = 9 − 2,00 = 7,00 ha.",
+      "level": "ujian",
+      "materi": "penaksiran-ukuran"
+    },
+    {
+      "type": "truefalse",
+      "question": "Sebuah lahan seluas 15 hektar dibagi tiga bagian: 1/3 bagian untuk kebun, 1/5 bagian untuk kolam, dan sisanya untuk bangunan. Tentukan Benar atau Salah untuk setiap pernyataan!",
+      "statements": [
+        {
+          "text": "Luas kebun adalah 5 hektar.",
+          "answer": true
+        },
+        {
+          "text": "Luas bangunan adalah 7 hektar.",
+          "answer": true
+        },
+        {
+          "text": "Luas kolam lebih besar daripada luas bangunan.",
+          "answer": false
+        }
+      ],
+      "explanation": "Kebun = 5 ha (BENAR). Kolam = 3 ha. Bangunan = 15 − 5 − 3 = 7 ha (BENAR). Karena 3 ha lebih kecil daripada 7 ha, kolam justru lebih kecil (SALAH).",
+      "level": "ujian",
+      "materi": "penaksiran-ukuran"
     }
   ]
 }
