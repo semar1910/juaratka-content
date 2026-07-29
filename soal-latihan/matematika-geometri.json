@@ -2,7 +2,7 @@
   "mapel": "matematika",
   "topik": "geometri",
   "count": 129,
-  "updated": "2026-07-22",
+  "updated": "2026-07-29",
   "soal": [
     {
       "level": "dasar",
@@ -146,7 +146,13 @@
       "answer": 0,
       "explanation": "Sudut lancip besarnya kurang dari 90°. Karena 75° kurang dari 90°, maka termasuk sudut lancip.",
       "level": "dasar",
-      "materi": "sudut"
+      "materi": "sudut",
+      "petunjuk": "Sudut 75° itu lebih sempit atau lebih lebar dari pojok bukumu?",
+      "langkah": [
+        "Pojok buku besarnya 90°. Itu patokan yang kamu pakai.",
+        "Sekarang bandingkan: 75° lebih kecil atau lebih besar dari 90°?",
+        "Sudut yang lebih kecil dari pojok buku punya nama sendiri. Coba ingat lagi."
+      ]
     },
     {
       "type": "mcq",
@@ -160,7 +166,13 @@
       "answer": 1,
       "explanation": "Sudut yang besarnya tepat 90° disebut sudut siku-siku. Pojok buku, ubin, dan pertemuan dinding dengan lantai adalah contohnya.",
       "level": "dasar",
-      "materi": "sudut"
+      "materi": "sudut",
+      "petunjuk": "Contohnya sedang kamu pegang. Pojok buku itu sudut apa namanya?",
+      "langkah": [
+        "Sudut ini tidak lebih sempit, tidak lebih lebar. Pas.",
+        "Pojok ubin, sudut meja, pertemuan dinding dengan lantai — semuanya sama seperti ini.",
+        "Nama sudut yang besarnya tepat 90° ada di pilihan. Yang mana?"
+      ]
     },
     {
       "type": "mcq",
@@ -174,7 +186,13 @@
       "answer": 2,
       "explanation": "Sudut tumpul besarnya lebih dari 90° tetapi kurang dari 180°. Karena 120° berada di antara 90° dan 180°, maka termasuk sudut tumpul.",
       "level": "dasar",
-      "materi": "sudut"
+      "materi": "sudut",
+      "petunjuk": "120° itu lebih besar atau lebih kecil dari pojok buku?",
+      "langkah": [
+        "Patokannya tetap pojok buku, 90°.",
+        "120° lewat dari 90°. Tapi belum sampai lurus, karena lurus itu 180°.",
+        "Sudut yang berada di antara 90° dan 180° punya nama sendiri."
+      ]
     },
     {
       "type": "mcq",
@@ -188,7 +206,13 @@
       "answer": 2,
       "explanation": "Kedua jarum yang segaris lurus dan berlawanan arah membentuk sudut lurus, yaitu 180°.",
       "level": "dasar",
-      "materi": "sudut"
+      "materi": "sudut",
+      "petunjuk": "Kalau kedua jarum sudah jadi satu garis lurus, berapa besar sudutnya?",
+      "langkah": [
+        "Pukul 06.00: jarum pendek di angka 6, jarum panjang di angka 12.",
+        "Bayangkan keduanya — membentuk satu garis lurus dari atas ke bawah.",
+        "Besar sudut satu garis lurus sudah kamu hafal. Itu jawabannya."
+      ]
     },
     {
       "type": "mcq",
@@ -202,7 +226,13 @@
       "answer": 1,
       "explanation": "Dua sudut yang berpelurus jumlahnya 180°. Sudut di sisi lain = 180° − 130° = 50°.",
       "level": "dasar",
-      "materi": "sudut"
+      "materi": "sudut",
+      "petunjuk": "Papan itu satu batang lurus. Berapa jumlah sudut di sepanjang garis lurus?",
+      "langkah": [
+        "Papannya lurus, kan? Dua sudut yang berjejer di garis lurus jumlahnya 180°.",
+        "Satu sudutnya sudah diketahui: 130°. Yang dicari sudut di sebelahnya.",
+        "Berarti tinggal dikurangi: 180° − 130°."
+      ]
     },
     {
       "type": "mcq",
@@ -216,7 +246,13 @@
       "answer": 1,
       "explanation": "Dua sudut yang berpenyiku jumlahnya 90°. Sudut bagian lain = 90° − 25° = 65°.",
       "level": "dasar",
-      "materi": "sudut"
+      "materi": "sudut",
+      "petunjuk": "Kali ini bukan garis lurus, tapi pojok siku-siku. Berapa jumlah keduanya?",
+      "langkah": [
+        "Sudut siku-siku besarnya 90°. Dua bagian itu kalau digabung jadi 90°.",
+        "Satu bagiannya sudah diketahui: 25°.",
+        "Berarti tinggal dikurangi: 90° − 25°."
+      ]
     },
     {
       "type": "mcq",
@@ -230,7 +266,13 @@
       "answer": 1,
       "explanation": "Satu putaran penuh 360°. Setengah putaran = 360° ÷ 2 = 180°.",
       "level": "dasar",
-      "materi": "sudut"
+      "materi": "sudut",
+      "petunjuk": "Satu putaran penuh berapa derajat? Ini baru setengahnya.",
+      "langkah": [
+        "Satu putaran penuh besarnya 360°.",
+        "Yang ditanya setengah putaran, bukan satu putaran penuh.",
+        "Berarti 360° dibagi 2."
+      ]
     },
     {
       "type": "mcq",
@@ -244,7 +286,13 @@
       "answer": 2,
       "explanation": "Satu putaran penuh 360°. Seperempat putaran = 360° ÷ 4 = 90°.",
       "level": "dasar",
-      "materi": "sudut"
+      "materi": "sudut",
+      "petunjuk": "Seperempat itu artinya dibagi berapa?",
+      "langkah": [
+        "Satu putaran penuh 360°.",
+        "Seperempat berarti dibagi 4.",
+        "Hitung: 360° ÷ 4."
+      ]
     },
     {
       "type": "mcq",
@@ -258,7 +306,13 @@
       "answer": 2,
       "explanation": "Jarak antar-angka pada jam bernilai 30° (360° ÷ 12). Pukul 03.00 kedua jarum berjarak 3 angka, jadi 3 × 30° = 90°.",
       "level": "dasar",
-      "materi": "sudut"
+      "materi": "sudut",
+      "petunjuk": "Hitung dulu ada berapa angka jarak antara jarum pendek dan jarum panjang.",
+      "langkah": [
+        "Muka jam punya 12 angka dan satu putaran 360°. Jadi jarak antar-angka = 360° ÷ 12 = 30°.",
+        "Pukul 03.00: jarum pendek di angka 3, jarum panjang di angka 12. Berapa angka jaraknya?",
+        "Kalikan jumlah angka tadi dengan 30°."
+      ]
     },
     {
       "type": "mcq",
@@ -272,7 +326,13 @@
       "answer": 1,
       "explanation": "Jumlah dua sudut berpelurus adalah 180°. Sudut yang lain = 180° − 100° = 80°.",
       "level": "dasar",
-      "materi": "sudut"
+      "materi": "sudut",
+      "petunjuk": "Berpelurus itu artinya jumlah keduanya berapa?",
+      "langkah": [
+        "Berpelurus artinya kedua sudut kalau dijumlah hasilnya 180°.",
+        "Satu sudutnya sudah diketahui: 100°.",
+        "Berarti tinggal dikurangi: 180° − 100°."
+      ]
     },
     {
       "type": "mcq",
