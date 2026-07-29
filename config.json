@@ -1,1 +1,23 @@
-{"version":"1.4.0","updated":"2026-07-29","content":{"materi":{"matematika":21,"indonesia":10},"soalLatihan":{"matematika":{"bilangan":220,"geometri":129,"pengukuran":158,"data":66},"indonesia":{"tekstual":125,"inferensial":135,"evaluasi":70}}}}
+{
+  "version": "1.5.0",
+  "updated": "2026-07-29",
+  "content": {
+    "materi": {
+      "matematika": 21,
+      "indonesia": 10
+    },
+    "soalLatihan": {
+      "matematika": {
+        "bilangan": 220,
+        "geometri": 129,
+        "pengukuran": 158,
+        "data": 66
+      },
+      "indonesia": {
+        "tekstual": 125,
+        "inferensial": 135,
+        "evaluasi": 70
+      }
+    }
+  }
+}
