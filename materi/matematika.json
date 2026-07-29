@@ -306,43 +306,43 @@
     {
       "id": "sudut",
       "title": "Sudut",
-      "desc": "Jenis sudut (lancip, siku-siku, tumpul, lurus), sudut berpelurus & berpenyiku, jumlah sudut segitiga/segi empat, dan sudut pada jam.",
+      "desc": "Kenali sudut dari benda di sekitarmu, lalu hitung sudut berpelurus.",
       "status": "ready",
       "isRemedial": false,
       "practiceTopic": "geometri",
       "video": "",
       "panels": [
-        "Sudut terbentuk dari dua sinar garis yang bertemu di satu titik (<b>titik sudut</b>).",
-        "Besar sudut diukur dalam <b>derajat (°)</b> menggunakan busur derajat.",
-        "Jenis sudut: <b>lancip</b> (&lt;90°), <b>siku-siku</b> (=90°), <b>tumpul</b> (90°–180°), <b>lurus</b> (=180°).",
-        "Sudut berpelurus: dua sudut yang jumlahnya <b>180°</b>. Sudut berpenyiku: jumlahnya <b>90°</b>.",
-        "Jumlah sudut dalam segitiga selalu <b>180°</b>; segi empat selalu <b>360°</b>.",
-        "Sudut pada jam: tiap angka berjarak 30°, jarum menit tiap 1 menit = 6°."
+        "Pernah main jungkat-jungkit? Waktu satu sisi turun, papannya jadi miring.",
+        "Coba lihat celah antara papan dan tiangnya. Di sisi yang turun celahnya sempit, di sisi yang naik lebar. Celah itulah yang namanya <b>sudut</b>.",
+        "Cara cepat mengukur sudut: bandingkan dengan pojok bukumu. Pojok buku besarnya <b>90&#176;</b>.",
+        "Lebih sempit dari pojok buku namanya <b>lancip</b>. Pas 90&#176; namanya <b>siku-siku</b>. Lebih lebar namanya <b>tumpul</b>.",
+        "Kalau dua sudut sudah membentuk garis lurus, besarnya <b>180&#176;</b>. Nah, papan jungkat-jungkit itu satu batang lurus.",
+        "Berarti dua sudut di kiri dan kanan tiang kalau dijumlah selalu 180&#176;. Yuk buktikan lewat satu contoh."
       ],
-      "content": "\n          <h2>Sudut</h2>\n          <p>Sudut terbentuk dari dua sinar garis yang bertemu di satu titik yang disebut titik sudut. Besarnya diukur dalam derajat (°) dengan busur derajat.</p>\n          <h3>Jenis-Jenis Sudut</h3>\n          <div class=\"formula-box\">Lancip: kurang dari 90°<br/>Siku-siku: tepat 90°<br/>Tumpul: antara 90° dan 180°<br/>Lurus: tepat 180°<br/>Refleks: antara 180° dan 360°</div>\n          <h3>Sudut Berpelurus &amp; Berpenyiku</h3>\n          <p>Dua sudut <b>berpelurus</b> jika jumlahnya 180° (membentuk garis lurus). Dua sudut <b>berpenyiku</b> jika jumlahnya 90°.</p>\n          <div class=\"example-box\">Jika sudut A = 125°, maka pelurusnya = 180° − 125° = 55°.<br/>Jika sudut B = 35°, maka penyikunya = 90° − 35° = 55°.</div>\n          <h3>Jumlah Sudut dalam Bangun</h3>\n          <div class=\"formula-box\">Segitiga = 180°<br/>Segi empat = 360°</div>\n          <div class=\"example-box\">Segitiga dengan sudut 60° dan 70°, sudut ketiganya = 180° − 60° − 70° = 50°.</div>\n          <h3>Sudut pada Jam</h3>\n          <p>Satu putaran penuh jam = 360°, terbagi 12 angka, jadi jarak antar angka = 30°.</p>\n          <div class=\"example-box\">Pukul 03.00 → jarum berjarak 3 angka = 3 × 30° = 90° (siku-siku).</div>\n          <h3>Tips</h3>\n          <p>Perhatikan bentuknya dulu sebelum menghitung: sudut yang tampak \"menyiku\" biasanya 90°, dan sudut yang membentuk garis lurus pasti berjumlah 180°.</p>\n        ",
+      "content": "<h2>Jadi, aturannya begini</h2><p>Yang barusan kamu kerjakan itu <b>sudut berpelurus</b>.</p><div class=\"formula-box\">Dua sudut yang berjejer di satu garis lurus<br/>jumlahnya selalu <b>180&#176;</b></div><h3>Nama-nama sudut</h3><div class=\"example-box\"><b>Lancip</b> — lebih sempit dari pojok buku (kurang dari 90&#176;)<br/><b>Siku-siku</b> — pas seperti pojok buku (tepat 90&#176;)<br/><b>Tumpul</b> — lebih lebar dari pojok buku (90&#176;–180&#176;)<br/><b>Lurus</b> — sudah jadi garis lurus (tepat 180&#176;)</div><h3>Ada satu lagi</h3><p>Kalau dua sudut bertemu membentuk pojok siku-siku, jumlahnya <b>90&#176;</b>. Namanya <b>berpenyiku</b>. Caranya sama, cuma angkanya ganti.</p><div class=\"formula-box\">Berpelurus → 180&#176;&nbsp;&nbsp;·&nbsp;&nbsp;Berpenyiku → 90&#176;</div>",
       "petunjukUmum": [
         "Coba bandingkan dengan pojok bukumu. Sudutnya lebih sempit, pas, atau lebih lebar?",
         "Ingat tiga angka penting: pojok buku 90°, garis lurus 180°, satu putaran penuh 360°. Yang mana yang dipakai di soal ini?"
       ],
       "panelGambar": [
         "sudut-jungkat-scene.png",
-        "",
+        "sudut-celah.svg",
         "sudut-vs-buku.svg",
-        "",
+        "sudut-vs-buku.svg",
         "",
         ""
       ],
       "contoh": {
-        "soal": "Sebuah papan jungkat-jungkit membentuk sudut 130° dengan tiang penyangganya di satu sisi. Berapa besar sudut di sisi lainnya?",
+        "soal": "Sebuah papan jungkat-jungkit membentuk sudut 140° dengan tiang penyangganya di satu sisi. Berapa besar sudut di sisi lainnya?",
         "gambar": "sudut-jungkat-diagram.svg",
-        "jawaban": "50°",
+        "jawaban": "40°",
         "pengantar": "Yuk kita kerjakan satu contoh bareng-bareng.",
         "langkah": [
           "Papannya lurus, kan? Dua sudut yang berjejer di garis lurus jumlahnya 180°.",
-          "Satu sudutnya sudah diketahui: 130°. Yang dicari sudut di sebelahnya.",
-          "Berarti tinggal dikurangi: 180° − 130°."
+          "Satu sudutnya sudah diketahui: 140°. Yang dicari sudut di sebelahnya.",
+          "Berarti tinggal dikurangi: 180° − 140°."
         ],
-        "penutup": "Kalau kamu tahu satu sudut di garis lurus, sudut sebelahnya selalu bisa dicari."
+        "penutup": "Kalau kamu tahu satu sudut di garis lurus, sudut sebelahnya selalu bisa dicari. Angkanya boleh ganti, caranya tetap sama."
       }
     },
     {
