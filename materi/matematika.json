@@ -1,7 +1,7 @@
 {
   "mapel": "matematika",
   "count": 20,
-  "updated": "2026-07-24",
+  "updated": "2026-07-29",
   "items": [
     {
       "id": "nilai-tempat",
@@ -319,7 +319,11 @@
         "Jumlah sudut dalam segitiga selalu <b>180°</b>; segi empat selalu <b>360°</b>.",
         "Sudut pada jam: tiap angka berjarak 30°, jarum menit tiap 1 menit = 6°."
       ],
-      "content": "\n          <h2>Sudut</h2>\n          <p>Sudut terbentuk dari dua sinar garis yang bertemu di satu titik yang disebut titik sudut. Besarnya diukur dalam derajat (°) dengan busur derajat.</p>\n          <h3>Jenis-Jenis Sudut</h3>\n          <div class=\"formula-box\">Lancip: kurang dari 90°<br/>Siku-siku: tepat 90°<br/>Tumpul: antara 90° dan 180°<br/>Lurus: tepat 180°<br/>Refleks: antara 180° dan 360°</div>\n          <h3>Sudut Berpelurus &amp; Berpenyiku</h3>\n          <p>Dua sudut <b>berpelurus</b> jika jumlahnya 180° (membentuk garis lurus). Dua sudut <b>berpenyiku</b> jika jumlahnya 90°.</p>\n          <div class=\"example-box\">Jika sudut A = 125°, maka pelurusnya = 180° − 125° = 55°.<br/>Jika sudut B = 35°, maka penyikunya = 90° − 35° = 55°.</div>\n          <h3>Jumlah Sudut dalam Bangun</h3>\n          <div class=\"formula-box\">Segitiga = 180°<br/>Segi empat = 360°</div>\n          <div class=\"example-box\">Segitiga dengan sudut 60° dan 70°, sudut ketiganya = 180° − 60° − 70° = 50°.</div>\n          <h3>Sudut pada Jam</h3>\n          <p>Satu putaran penuh jam = 360°, terbagi 12 angka, jadi jarak antar angka = 30°.</p>\n          <div class=\"example-box\">Pukul 03.00 → jarum berjarak 3 angka = 3 × 30° = 90° (siku-siku).</div>\n          <h3>Tips</h3>\n          <p>Perhatikan bentuknya dulu sebelum menghitung: sudut yang tampak \"menyiku\" biasanya 90°, dan sudut yang membentuk garis lurus pasti berjumlah 180°.</p>\n        "
+      "content": "\n          <h2>Sudut</h2>\n          <p>Sudut terbentuk dari dua sinar garis yang bertemu di satu titik yang disebut titik sudut. Besarnya diukur dalam derajat (°) dengan busur derajat.</p>\n          <h3>Jenis-Jenis Sudut</h3>\n          <div class=\"formula-box\">Lancip: kurang dari 90°<br/>Siku-siku: tepat 90°<br/>Tumpul: antara 90° dan 180°<br/>Lurus: tepat 180°<br/>Refleks: antara 180° dan 360°</div>\n          <h3>Sudut Berpelurus &amp; Berpenyiku</h3>\n          <p>Dua sudut <b>berpelurus</b> jika jumlahnya 180° (membentuk garis lurus). Dua sudut <b>berpenyiku</b> jika jumlahnya 90°.</p>\n          <div class=\"example-box\">Jika sudut A = 125°, maka pelurusnya = 180° − 125° = 55°.<br/>Jika sudut B = 35°, maka penyikunya = 90° − 35° = 55°.</div>\n          <h3>Jumlah Sudut dalam Bangun</h3>\n          <div class=\"formula-box\">Segitiga = 180°<br/>Segi empat = 360°</div>\n          <div class=\"example-box\">Segitiga dengan sudut 60° dan 70°, sudut ketiganya = 180° − 60° − 70° = 50°.</div>\n          <h3>Sudut pada Jam</h3>\n          <p>Satu putaran penuh jam = 360°, terbagi 12 angka, jadi jarak antar angka = 30°.</p>\n          <div class=\"example-box\">Pukul 03.00 → jarum berjarak 3 angka = 3 × 30° = 90° (siku-siku).</div>\n          <h3>Tips</h3>\n          <p>Perhatikan bentuknya dulu sebelum menghitung: sudut yang tampak \"menyiku\" biasanya 90°, dan sudut yang membentuk garis lurus pasti berjumlah 180°.</p>\n        ",
+      "petunjukUmum": [
+        "Coba bandingkan dengan pojok bukumu. Sudutnya lebih sempit, pas, atau lebih lebar?",
+        "Ingat tiga angka penting: pojok buku 90°, garis lurus 180°, satu putaran penuh 360°. Yang mana yang dipakai di soal ini?"
+      ]
     },
     {
       "id": "membaca-diagram",
