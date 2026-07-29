@@ -323,7 +323,27 @@
       "petunjukUmum": [
         "Coba bandingkan dengan pojok bukumu. Sudutnya lebih sempit, pas, atau lebih lebar?",
         "Ingat tiga angka penting: pojok buku 90°, garis lurus 180°, satu putaran penuh 360°. Yang mana yang dipakai di soal ini?"
-      ]
+      ],
+      "panelGambar": [
+        "sudut-jungkat-scene.png",
+        "",
+        "sudut-vs-buku.svg",
+        "",
+        "",
+        ""
+      ],
+      "contoh": {
+        "soal": "Sebuah papan jungkat-jungkit membentuk sudut 130° dengan tiang penyangganya di satu sisi. Berapa besar sudut di sisi lainnya?",
+        "gambar": "sudut-jungkat-diagram.svg",
+        "jawaban": "50°",
+        "pengantar": "Yuk kita kerjakan satu contoh bareng-bareng.",
+        "langkah": [
+          "Papannya lurus, kan? Dua sudut yang berjejer di garis lurus jumlahnya 180°.",
+          "Satu sudutnya sudah diketahui: 130°. Yang dicari sudut di sebelahnya.",
+          "Berarti tinggal dikurangi: 180° − 130°."
+        ],
+        "penutup": "Kalau kamu tahu satu sudut di garis lurus, sudut sebelahnya selalu bisa dicari."
+      }
     },
     {
       "id": "membaca-diagram",
