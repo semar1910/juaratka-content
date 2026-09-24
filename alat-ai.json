@@ -1,0 +1,24 @@
+{
+  "updated": "2026-09-24",
+  "catatan": "Daftar alat AI untuk guru di menu Pengembangan Diri. Tambah entri lalu commit — app membacanya langsung dari GitHub, tidak perlu rilis.",
+  "alat": [
+    {
+      "id": "generator-rpp-ppm",
+      "judul": "Generator RPP 5 Menit",
+      "desc": "Susun RPP lewat percakapan, selesai dalam 5 menit. Kualitas standar kementerian sesuai Permendikdasmen 1/2026. Di dalamnya ada banyak contoh hasil karya guru yang bisa dijadikan rujukan.",
+      "ikon": "📝",
+      "tag": "Perangkat Ajar",
+      "url": "https://s.id/GeneratorPPM-SIGAPKKG02",
+      "status": "siap"
+    },
+    {
+      "id": "generator-mpi",
+      "judul": "Generator MPI",
+      "desc": "Rancang Media Pembelajaran Interaktif dari ide sederhana, lengkap dengan alur dan tampilannya.",
+      "ikon": "🎬",
+      "tag": "Media Ajar",
+      "url": "",
+      "status": "soon"
+    }
+  ]
+}
