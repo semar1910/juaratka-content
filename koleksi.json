@@ -1,0 +1,50 @@
+{
+  "updated": "2026-09-24",
+  "catatan": "Daftar tautan luar untuk Lab Maya, Ruang Baca, dan Mini Game. Ubah berkas ini lalu push — app membacanya langsung dari GitHub, tidak perlu rilis baru.",
+  "lab": [
+    {
+      "id": "lab-juragan-junior",
+      "judul": "Juragan Junior",
+      "desc": "Berdagang keliling Nusantara. Belajar produksi, distribusi, dan konsumsi sambil mengatur untung rugi.",
+      "ikon": "🛶",
+      "url": "https://juragan-junior.rizkimuttaqien.workers.dev/",
+      "status": "siap"
+    },
+    {
+      "id": "lab-pernapasan-ar",
+      "judul": "Detektif Udara",
+      "desc": "Jelajahi organ pernapasan lewat AR. Arahkan kamera ke penanda, organnya muncul.",
+      "ikon": "🫁",
+      "url": "https://app.assemblrworld.com/GANTI-DENGAN-TAUTANMU",
+      "status": "siap"
+    },
+    {
+      "id": "lab-pencernaan",
+      "judul": "Petualangan Pencernaan",
+      "desc": "Ikuti perjalanan makanan dari mulut sampai usus.",
+      "ikon": "🍎",
+      "url": "",
+      "status": "soon"
+    }
+  ],
+  "baca": [
+    {
+      "id": "baca-cerita-nusantara",
+      "judul": "Cerita Rakyat Nusantara",
+      "desc": "Kumpulan cerita rakyat bergambar untuk latihan membaca pemahaman.",
+      "ikon": "📖",
+      "url": "https://GANTI-DENGAN-TAUTANMU",
+      "status": "siap"
+    }
+  ],
+  "game": [
+    {
+      "id": "game-perkalian",
+      "judul": "Kebut Perkalian",
+      "desc": "Lima level perkalian. Semakin cepat, semakin banyak bintangnya.",
+      "ikon": "✖️",
+      "url": "https://GANTI-DENGAN-TAUTANMU",
+      "status": "siap"
+    }
+  ]
+}
