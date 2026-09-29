@@ -4,41 +4,92 @@
   "updated": "2026-07-29",
   "items": [
     {
-      "id": "nilai-tempat",
-      "title": "Nilai Tempat Bilangan",
-      "desc": "Membaca & memahami angka besar: nilai tempat, nilai angka, dan bentuk panjang (sampai ratusan ribu).",
-      "status": "ready",
-      "isRemedial": true,
-      "practiceTopic": "bilangan",
-      "video": "",
-      "panels": [
-        "Setiap angka dalam sebuah bilangan punya nilai berbeda tergantung <b>posisinya</b>. Angka yang sama bisa bernilai kecil atau besar.",
-        "Contoh: angka 3 pada <b>30</b> bernilai 30, tapi pada <b>300</b> bernilai 300. Posisi yang menentukan nilai.",
-        "Nama tempat dihitung dari kanan: <b>satuan, puluhan, ratusan, ribuan, puluh ribuan, ratus ribuan</b>.",
-        "Membaca angka besar: kelompokkan tiga angka dari kanan. Contoh <b>375.482</b> → baca kelompok kiri lalu ucap “ribu”.",
-        "Bentuk panjang: 375.482 = 300.000 + 70.000 + 5.000 + 400 + 80 + 2.",
-        "Tips TKA: baca pelan, kelompokkan tiga-tiga dari kanan. Salah satu tempat, jawaban bisa meleset jauh."
-      ],
-      "content": "\n          <h2>Nilai Tempat Bilangan</h2>\n          <p>Setiap angka punya nilai berbeda tergantung <b>posisinya</b>. Dihitung dari kanan: satuan, puluhan, ratusan, ribuan, puluh ribuan, ratus ribuan.</p>\n          <h3>Contoh: 375.482</h3>\n          <div class=\"example-box\">\n            <b>3</b> ratus ribuan = 300.000<br/>\n            <b>7</b> puluh ribuan = 70.000<br/>\n            <b>5</b> ribuan = 5.000<br/>\n            <b>4</b> ratusan = 400<br/>\n            <b>8</b> puluhan = 80<br/>\n            <b>2</b> satuan = 2\n          </div>\n          <h3>Nilai Tempat vs Nilai Angka</h3>\n          <p>Dua hal yang sering tertukar. Ambil angka <b>7</b> pada 375.482:</p>\n          <div class=\"formula-box\">Nilai tempat 7 = puluh ribuan<br/>Nilai angka 7 = 70.000</div>\n          <h3>Cara Membaca Angka Besar</h3>\n          <p>Kelompokkan tiga angka dari kanan, baca kelompok kiri lalu ucapkan “ribu”, baru lanjut kelompok kanan.</p>\n          <div class=\"example-box\"><b>375.482</b> dibaca:<br/>“tiga ratus tujuh puluh lima ribu empat ratus delapan puluh dua”</div>\n          <h3>Bentuk Panjang</h3>\n          <div class=\"formula-box\">375.482 = 300.000 + 70.000 + 5.000 + 400 + 80 + 2</div>\n          <h3>Tips</h3>\n          <p>Kalau soal TKA memuat angka besar (harga, jarak, jumlah penduduk), baca pelan sambil kelompokkan tiga-tiga dari kanan agar tidak salah tempat.</p>\n        "
-    },
+  "id": "nilai-tempat",
+  "title": "Nilai Tempat Bilangan",
+  "desc": "Kenali nilai tempat lewat uang, lalu baca dan uraikan bilangan besar.",
+  "status": "ready",
+  "isRemedial": true,
+  "practiceTopic": "bilangan",
+  "video": "",
+  "panels": [
+    "Ibu punya 3 lembar uang seratus ribuan. Adik punya 3 koin seratusan. Angkanya sama-sama <b>3</b>, tapi uangnya beda jauh, kan?",
+    "Coba masukkan keduanya ke kotak-kotak. Angka 3 milik Ibu duduk jauh di kiri, angka 3 milik Adik lebih ke kanan. Makin ke kiri, nilainya makin besar.",
+    "Setiap kotak punya nama, dihitung dari <b>kanan</b>: satuan, puluhan, ratusan, ribuan, puluh ribuan, ratus ribuan. Nama kotak itu disebut <b>nilai tempat</b>.",
+    "Angka 3 milik Ibu ada di kotak ratus ribuan. Itu nilai tempatnya. Uangnya 300.000, itu <b>nilai angka</b>-nya.",
+    "Kalau uang Ibu dan Adik digabung jadi 300.300. Cara bacanya: potong tiga-tiga dari kanan, baca kelompok kiri, lalu ucapkan <b>“ribu”</b>.",
+    "Kalau dipecah per kotak, namanya <b>bentuk panjang</b>: 300.300 = 300.000 + 300. Yuk coba satu contoh bareng."
+  ],
+  "panelGambar": [
+    "nilai-tempat-uang.svg",
+    "nilai-tempat-kotak.svg",
+    "nilai-tempat-nama.svg",
+    "nilai-tempat-vs-angka.svg",
+    "nilai-tempat-kelompok.svg",
+    ""
+  ],
+  "petunjukUmum": [
+    "Masukkan bilangannya ke kotak tempat, mulai dari kanan. Angka yang ditanya duduk di kotak mana?",
+    "Ingat bedanya: nilai tempat itu nama kotaknya, nilai angka itu besar nilainya."
+  ],
+  "contoh": {
+    "soal": "Uang kas kelas 6 terkumpul Rp264.700. Berapa nilai angka 6 pada bilangan itu?",
+    "gambar": "nilai-tempat-contoh.svg",
+    "jawaban": "60.000",
+    "pengantar": "Yuk kita kerjakan satu contoh bareng-bareng.",
+    "langkah": [
+      "Masukkan 264.700 ke kotak tempat, mulai dari kanan: 0 satuan, 0 puluhan, 7 ratusan, 4 ribuan, 6 puluh ribuan, 2 ratus ribuan.",
+      "Angka 6 duduk di kotak puluh ribuan. Itu nilai tempatnya.",
+      "Puluh ribuan artinya kelipatan 10.000. Berarti nilai angka 6 = 6 × 10.000."
+    ],
+    "penutup": "Cari dulu kotaknya, baru hitung nilainya. Angkanya boleh ganti, caranya tetap sama."
+  },
+  "content": "<h2>Jadi, aturannya begini</h2><p>Angka yang sama bisa bernilai kecil atau besar. Yang menentukan adalah <b>posisinya</b>.</p><h3>Nama kotak (dihitung dari kanan)</h3><div class=\"example-box\">satuan → puluhan → ratusan → ribuan → puluh ribuan → ratus ribuan</div><h3>Nilai tempat vs nilai angka</h3><div class=\"formula-box\"><b>Nilai tempat</b> = nama kotaknya<br/><b>Nilai angka</b> = besar nilainya</div><p>Pada 300.000, angka 3 bernilai tempat <b>ratus ribuan</b> dan bernilai angka <b>300.000</b>.</p><h3>Membaca bilangan besar</h3><p>Potong tiga-tiga dari kanan. Baca kelompok kiri, ucapkan “ribu”, lalu baca kelompok kanan.</p><div class=\"example-box\"><b>300.300</b> dibaca “tiga ratus ribu tiga ratus”</div><h3>Bentuk panjang</h3><div class=\"formula-box\">300.300 = 300.000 + 300</div>"
+},
     {
-      "id": "penjumlahan-pengurangan",
-      "title": "Penjumlahan & Pengurangan",
-      "desc": "Penjumlahan & pengurangan bilangan cacah: teknik susun ke bawah (menyimpan & meminjam), sifat operasi, operasi campuran, dan soal cerita.",
-      "status": "ready",
-      "isRemedial": true,
-      "practiceTopic": "bilangan",
-      "video": "",
-      "panels": [
-        "Penjumlahan dan pengurangan adalah dua operasi dasar yang saling berkebalikan.",
-        "Susun ke bawah sesuai nilai tempat: satuan di bawah satuan, puluhan di bawah puluhan.",
-        "Penjumlahan: kalau hasil satu tempat 10 atau lebih, <b>simpan</b> 1 ke tempat sebelah kiri.",
-        "Pengurangan: kalau angka atas lebih kecil, <b>pinjam</b> 1 dari tempat sebelah kiri.",
-        "Ingat sifatnya: <b>a + b = b + a</b> boleh dibalik, tapi <b>a − b</b> tidak boleh dibalik.",
-        "Soal cerita: kata “total/ditambah” berarti tambah; “sisa/selisih/diambil” berarti kurang."
-      ],
-      "content": "\n          <h2>Penjumlahan &amp; Pengurangan</h2>\n          <h3>Penjumlahan (Susun ke Bawah)</h3>\n          <p>Susun angka sesuai nilai tempatnya, lalu jumlahkan dari kanan (satuan dulu). Jika hasil satu tempat 10 atau lebih, simpan 1 ke tempat sebelah kiri.</p>\n          <div class=\"example-box\"><b>Contoh:</b> 3.475 + 1.860 = 5.335<br/>(5+0=5; 7+6=13 → tulis 3 simpan 1; 4+8+1=13 → tulis 3 simpan 1; 3+1+1=5)</div>\n          <h3>Pengurangan (Susun ke Bawah)</h3>\n          <p>Kurangkan dari kanan. Jika angka atas lebih kecil dari angka bawah, pinjam 1 dari tempat sebelah kiri.</p>\n          <div class=\"example-box\"><b>Contoh:</b> 5.200 − 1.750 = 3.450</div>\n          <h3>Sifat Penting</h3>\n          <div class=\"formula-box\">Penjumlahan: a + b = b + a  (boleh dibalik)<br/>Pengurangan: a − b ≠ b − a  (tidak boleh dibalik)</div>\n          <h3>Operasi Campuran</h3>\n          <p>Penjumlahan dan pengurangan sama kuat. Kerjakan berurutan dari kiri ke kanan.</p>\n          <div class=\"example-box\"><b>Contoh:</b> 800 − 300 + 150 = 500 + 150 = 650</div>\n          <h3>Tips Soal Cerita</h3>\n          <p>Kata <b>total, jumlah, ditambah, datang</b> menandakan penjumlahan. Kata <b>sisa, selisih, berkurang, diambil, terjual</b> menandakan pengurangan.</p>\n        "
-    },
+  "id": "penjumlahan-pengurangan",
+  "title": "Penjumlahan & Pengurangan",
+  "desc": "Menyimpan dan meminjam lewat tukar uang, lalu pakai di susun ke bawah dan soal cerita.",
+  "status": "ready",
+  "isRemedial": true,
+  "practiceTopic": "bilangan",
+  "video": "",
+  "panels": [
+    "Kamu jaga kas kelas. Di laci ada 4 koin seratusan, lalu teman setor 8 koin lagi. Jadinya 12 koin. Wah, kebanyakan koin!",
+    "Biar ringkas, 10 koin ditukar jadi 1 lembar seribuan. Sisa 2 koin. Tukar ke atas seperti ini namanya <b>menyimpan</b>.",
+    "Di susun ke bawah juga sama: 4 + 8 = 12 di kotak ratusan. Tulis 2, lalu 1-nya <b>disimpan</b> ke kotak sebelah kiri.",
+    "Sekarang kebalikannya. Uangmu 1 lembar seribuan dan 2 koin. Kamu harus bayar 7 koin. Koinnya kurang!",
+    "Caranya, lembar seribuan dipecah jadi 10 koin. Sekarang ada 12 koin, bayar 7, sisa 5. Pecah ke bawah ini namanya <b>meminjam</b>.",
+    "Di susun ke bawah: 2 − 7 tidak cukup, jadi <b>pinjam</b> 1 dari kotak kiri. Angka 1 jadi 0, angka 2 jadi 12. Baru 12 − 7 = 5.",
+    "Di soal cerita, cari kata kuncinya. <b>Total, jumlah, datang</b> berarti tambah. <b>Sisa, selisih, terjual</b> berarti kurang. Yuk coba satu contoh!"
+  ],
+  "panelGambar": [
+    "pp-kumpul.svg",
+    "pp-tukar.svg",
+    "pp-simpan.svg",
+    "pp-kurang.svg",
+    "pp-pecah.svg",
+    "pp-pinjam.svg",
+    "pp-katakunci.svg"
+  ],
+  "petunjukUmum": [
+    "Susun ke bawah sesuai kotak tempat, lalu kerjakan mulai dari satuan.",
+    "Kalau angka atas kurang, pinjam 1 dari kotak kiri. Kalau hasil satu kotak 10 atau lebih, simpan 1 ke kotak kiri."
+  ],
+  "contoh": {
+    "soal": "Kas kelas ada Rp6.300. Uang itu dipakai membeli spidol seharga Rp2.680. Berapa sisa uang kas?",
+    "gambar": "pp-contoh.svg",
+    "jawaban": "Rp3.620",
+    "pengantar": "Yuk kita kerjakan satu contoh bareng-bareng.",
+    "langkah": [
+      "Kata <b>sisa</b> berarti kurang. Susun ke bawah: 6.300 di atas, 2.680 di bawah. Mulai dari satuan: 0 − 0 = 0.",
+      "Puluhan: 0 − 8 tidak cukup. Pinjam 1 dari ratusan, jadi ratusan tinggal 2 dan puluhan jadi 10. 10 − 8 = 2.",
+      "Ratusan: 2 − 6 tidak cukup. Pinjam 1 dari ribuan, jadi ribuan tinggal 5 dan ratusan jadi 12. 12 − 6 = 6.",
+      "Ribuan tinggal 5 − 2. Hitung, lalu gabungkan dengan hasil kotak-kotak lainnya."
+    ],
+    "penutup": "Kalau angka atas kurang, pecah dulu dari kotak kiri. Angkanya boleh ganti, caranya tetap sama."
+  },
+  "content": "<h2>Jadi, aturannya begini</h2><p>Menyimpan dan meminjam sebenarnya cuma <b>tukar uang</b>.</p><div class=\"formula-box\"><b>Menyimpan</b>: hasil satu kotak 10 atau lebih → simpan 1 ke kotak kiri<br/><b>Meminjam</b>: angka atas kurang → pinjam 1 dari kotak kiri, kotak ini dapat 10</div><h3>Selalu mulai dari satuan</h3><p>Susun ke bawah sesuai kotak tempat: satuan di bawah satuan, puluhan di bawah puluhan. Kerjakan dari kanan ke kiri.</p><h3>Boleh dibalik atau tidak?</h3><div class=\"formula-box\">Penjumlahan boleh dibalik: 260 + 140 = 140 + 260<br/>Pengurangan tidak boleh dibalik: 260 − 140 ≠ 140 − 260</div><h3>Tambah dan kurang sekaligus</h3><p>Kerjakan berurutan dari kiri ke kanan.</p><div class=\"example-box\">700 − 200 + 350 = 500 + 350 = 850</div><h3>Kata kunci soal cerita</h3><div class=\"example-box\"><b>Tambah:</b> total, jumlah, datang, ditambah, menerima<br/><b>Kurang:</b> sisa, selisih, terjual, diambil, dipakai</div>"
+},
     {
       "id": "perkalian-pembagian",
       "title": "Perkalian & Pembagian",
