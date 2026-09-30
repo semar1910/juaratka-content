@@ -127,23 +127,54 @@
       "content": "\n          <h2>Konversi Satuan</h2>\n          <p>Konversi satuan berarti mengubah suatu ukuran dari satu satuan ke satuan lain.</p>\n          <h3>Tangga Satuan Panjang</h3>\n          <div class=\"formula-box\">km – hm – dam – m – dm – cm – mm<br/>Turun 1 anak tangga: × 10<br/>Naik 1 anak tangga: ÷ 10</div>\n          <div class=\"example-box\">1 km = 1.000 m (turun 3 tangga)<br/>500 cm = 5 m (naik 2 tangga)</div>\n          <h3>Tangga Satuan Berat</h3>\n          <div class=\"formula-box\">kg – hg – dag – g – dg – cg – mg<br/>(aturan sama: turun × 10, naik ÷ 10)</div>\n          <div class=\"example-box\">1 kg = 1.000 g &nbsp;|&nbsp; 4.000 g = 4 kg</div>\n          <h3>Satuan Berat Besar</h3>\n          <div class=\"formula-box\">1 ton = 1.000 kg &nbsp;|&nbsp; 1 kuintal = 100 kg</div>\n          <h3>Satuan Waktu</h3>\n          <div class=\"formula-box\">1 jam = 60 menit<br/>1 menit = 60 detik<br/>1 hari = 24 jam<br/>1 minggu = 7 hari<br/>1 tahun = 12 bulan = 365 hari</div>\n          <h3>Satuan Volume</h3>\n          <div class=\"example-box\">1 liter = 1.000 mL &nbsp;|&nbsp; 1 liter = 1 dm³</div>\n          <h3>Satuan Kuantitas</h3>\n          <div class=\"formula-box\">1 lusin = 12 &nbsp;|&nbsp; 1 kodi = 20<br/>1 gross = 144 &nbsp;|&nbsp; 1 rim = 500 lembar</div>\n        "
     },
     {
-      "id": "operasi-pecahan",
-      "title": "Operasi Pecahan",
-      "desc": "Operasi pecahan: penjumlahan & pengurangan (penyebut sama/beda), perkalian & pembagian pecahan dengan bilangan asli, pecahan campuran, dan menyederhanakan.",
-      "status": "ready",
-      "isRemedial": true,
-      "practiceTopic": "bilangan",
-      "video": "",
-      "panels": [
-        "Pecahan punya <b>pembilang</b> (atas) dan <b>penyebut</b> (bawah).",
-        "Menjumlah/mengurang pecahan: kalau penyebut <b>sama</b>, langsung operasikan pembilangnya.",
-        "Kalau penyebut <b>beda</b>, samakan dulu penyebutnya (cari KPK), baru operasikan.",
-        "Pecahan <b>dikali bilangan asli</b>: kalikan pembilangnya saja. 3/4 × 2 = 6/4.",
-        "Pecahan <b>dibagi bilangan asli</b>: kalikan penyebutnya. 2/3 ÷ 2 = 2/6 = 1/3.",
-        "Sederhanakan hasil akhir dengan membagi pembilang & penyebut dengan angka yang sama."
-      ],
-      "content": "\n          <h2>Operasi Pecahan</h2>\n          <h3>Penjumlahan &amp; Pengurangan (penyebut sama)</h3>\n          <p>Kalau penyebutnya sudah sama, operasikan pembilangnya saja, penyebut tetap.</p>\n          <div class=\"example-box\">1/5 + 2/5 = 3/5 &nbsp;&nbsp;|&nbsp;&nbsp; 4/7 − 1/7 = 3/7</div>\n          <h3>Penjumlahan &amp; Pengurangan (penyebut beda)</h3>\n          <p>Samakan penyebut dulu (cari KPK), ubah tiap pecahan, baru operasikan.</p>\n          <div class=\"example-box\">1/2 + 1/4 → 2/4 + 1/4 = 3/4<br/>2/3 − 1/4 → 8/12 − 3/12 = 5/12</div>\n          <h3>Pecahan Dikali Bilangan Asli</h3>\n          <p>Kalikan pembilangnya dengan bilangan asli itu, penyebut tetap.</p>\n          <div class=\"formula-box\">a/b × n = (a × n)/b</div>\n          <div class=\"example-box\">3/4 × 2 = 6/4 = 1 1/2 &nbsp;&nbsp;|&nbsp;&nbsp; 2/5 × 4 = 8/5 = 1 3/5</div>\n          <h3>Pecahan Dibagi Bilangan Asli</h3>\n          <p>Kalikan penyebutnya dengan bilangan asli itu, pembilang tetap.</p>\n          <div class=\"formula-box\">a/b ÷ n = a/(b × n)</div>\n          <div class=\"example-box\">2/3 ÷ 2 = 2/6 = 1/3 &nbsp;&nbsp;|&nbsp;&nbsp; 4/5 ÷ 2 = 4/10 = 2/5</div>\n          <h3>Pecahan Campuran</h3>\n          <p>Ubah dulu ke pecahan biasa sebelum dioperasikan.</p>\n          <div class=\"example-box\">1 1/2 = 3/2 &nbsp;&nbsp;|&nbsp;&nbsp; 7/4 = 1 3/4</div>\n          <h3>Menyederhanakan</h3>\n          <p>Bagi pembilang dan penyebut dengan angka yang sama sampai tidak bisa dibagi lagi.</p>\n          <div class=\"example-box\">4/8 = 1/2 &nbsp;&nbsp;|&nbsp;&nbsp; 6/15 = 2/5</div>\n        "
-    },
+ "id": "operasi-pecahan",
+ "title": "Operasi Pecahan",
+ "desc": "Belajar menjumlah, mengurang, mengali, membagi, dan menyederhanakan pecahan lewat cerita pita untuk pentas kelas.",
+ "status": "ready",
+ "isRemedial": true,
+ "practiceTopic": "bilangan",
+ "video": "",
+ "panels": [
+  "Bu Guru memotong pita untuk menghias pentas kelas jadi <b>9 potong sama besar</b>. Papan tulis dihias 2 potong, pintu 4 potong. Karena potongannya sama besar, tinggal hitung: 2 + 4 = 6 potong!",
+  "2 potong dari 9 ditulis 2/9, dan 4 potong ditulis 4/9. <b>Penyebut</b> (9) = ukuran potongan, <b>pembilang</b> (2 dan 4) = banyak potongan. Penyebut sama, jadi pembilang dijumlah dan penyebut tetap: 2/9 + 4/9 = 6/9.",
+  "Sekarang ada dua pita: oranye dipotong jadi 3 bagian, biru dipotong jadi 4 bagian. Bu Guru ambil 1 potong dari masing-masing, yaitu 1/3 dan 1/4. Tapi <b>potongannya tidak sama besar</b>, jadi belum bisa langsung dijumlah!",
+  "Solusinya: <b>potong ulang</b> kedua pita sampai potongannya sama besar. Keduanya jadi 12 potong, karena 12 adalah <b>KPK</b> dari 3 dan 4. Sekarang 1/3 = 4/12 dan 1/4 = 3/12, jadi 4/12 + 3/12 = 7/12.",
+  "Pengurangan caranya sama. Pita 5/6 meter dipakai 1/4 meter, jadi samakan penyebutnya dulu menjadi 12: 5/6 = 10/12 dan 1/4 = 3/12. Kurangi potongannya: 10/12 − 3/12 = 7/12.",
+  "Pita utuh juga bisa ditulis sebagai potongan. <b>Bilangan campuran</b> 2 1/3 artinya 2 pita utuh ditambah 1/3. Tiap pita utuh dipotong jadi 3: 2 × 3 = 6 potong, ditambah 1 potong, jadi 7/3 (<b>pecahan biasa</b>).",
+  "Bu Guru butuh 3 hiasan, tiap hiasan 2/7 meter. Pecahan dikali bilangan asli itu <b>penjumlahan berulang</b>. Jadi 2/7 + 2/7 + 2/7, atau 2/7 × 3 = 6/7.",
+  "Sekarang pita 1/3 meter dibagi rata untuk 2 hiasan. Tiap potongan dipotong lagi jadi 2, sehingga potongannya makin kecil dan penyebutnya <b>dikali</b>: 3 × 2 = 6. Jadi 1/3 ÷ 2 = 1/6.",
+  "Hasil 6/9 tadi bisa dibuat lebih sederhana: garis potongnya dihapus, tiap 3 potong kecil digabung jadi 1 potong besar. Hasilnya 2/3 dengan nilai yang sama, inilah <b>menyederhanakan</b>. Yuk coba satu contoh!"
+ ],
+ "panelGambar": [
+  "op-p1-situasi.svg",
+  "op-p2-nama.svg",
+  "op-p3-beda.svg",
+  "op-p4-samakan.svg",
+  "op-p5-kurang.svg",
+  "op-p6-campuran.svg",
+  "op-p7-kali.svg",
+  "op-p8-bagi.svg",
+  "op-p9-sederhana.svg"
+ ],
+ "petunjukUmum": [
+  "Bayangkan pita yang dipotong sama besar: penyebut = jumlah potongan dalam satu utuh, pembilang = banyak potongan yang diambil.",
+  "Sebelum menjumlah atau mengurang, pastikan penyebutnya sudah sama. Kalau belum, samakan dulu dengan KPK.",
+  "Di akhir, cek apakah hasilnya bisa disederhanakan."
+ ],
+ "contoh": {
+  "soal": "Bu Guru punya pita 6/7 meter. Sebanyak 3/14 meter dipakai untuk hiasan pintu. Berapa meter pita yang tersisa?",
+  "gambar": "op-contoh.svg",
+  "jawaban": "9/14 meter",
+  "pengantar": "Yuk kita kerjakan satu contoh bareng-bareng.",
+  "langkah": [
+   "Penyebutnya beda (7 dan 14), jadi potongannya tidak sama besar. Kita potong ulang supaya sama besar. KPK dari 7 dan 14 adalah 14.",
+   "Tiap potongan 1/7 dibelah dua. Maka 6/7 sama dengan 12/14, sedangkan 3/14 tetap.",
+   "Sekarang 12/14 dan 3/14 sama-sama berpenyebut 14. Penyebut tetap, tinggal kurangi pembilangnya: 12 − 3."
+  ],
+  "penutup": "Jadi pita yang tersisa 9/14 meter. Angkanya boleh ganti, caranya tetap sama."
+ },
+ "content": "<h2>Jadi, aturannya begini</h2><h3>Menjumlah dan mengurang</h3><p>Potongan harus sama besar. Kalau penyebut sudah sama, jumlahkan atau kurangkan pembilangnya, penyebut tetap.</p><div class='formula-box'>2/9 + 4/9 = 6/9</div><p>Kalau penyebut beda, samakan dulu dengan KPK.</p><div class='example-box'>1/3 + 1/4 = 4/12 + 3/12 = 7/12<br>5/6 − 1/4 = 10/12 − 3/12 = 7/12</div><h3>Campuran dan biasa</h3><p>Bilangan campuran diubah jadi pecahan biasa: bilangan utuh dikali penyebut, lalu ditambah pembilang.</p><div class='example-box'>2 × 3 + 1 = 7, jadi 2 1/3 = 7/3</div><h3>Kali dan bagi dengan bilangan asli</h3><p>Dikali: pembilang dikali bilangan itu. Dibagi: penyebut dikali bilangan itu.</p><div class='formula-box'>2/7 × 3 = 6/7</div><div class='formula-box'>1/3 ÷ 2 = 1/6</div><h3>Menyederhanakan</h3><p>Bagi pembilang dan penyebut dengan bilangan yang sama, sampai tidak bisa dibagi lagi.</p><div class='example-box'>6/9 = 2/3</div>"
+},
     {
       "id": "pecahan-desimal-persen",
       "title": "Pecahan ↔ Desimal ↔ Persen",
