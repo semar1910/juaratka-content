@@ -176,23 +176,51 @@
  "content": "<h2>Jadi, aturannya begini</h2><h3>Menjumlah dan mengurang</h3><p>Potongan harus sama besar. Kalau penyebut sudah sama, jumlahkan atau kurangkan pembilangnya, penyebut tetap.</p><div class='formula-box'>2/9 + 4/9 = 6/9</div><p>Kalau penyebut beda, samakan dulu dengan KPK.</p><div class='example-box'>1/3 + 1/4 = 4/12 + 3/12 = 7/12<br>5/6 − 1/4 = 10/12 − 3/12 = 7/12</div><h3>Campuran dan biasa</h3><p>Bilangan campuran diubah jadi pecahan biasa: bilangan utuh dikali penyebut, lalu ditambah pembilang.</p><div class='example-box'>2 × 3 + 1 = 7, jadi 2 1/3 = 7/3</div><h3>Kali dan bagi dengan bilangan asli</h3><p>Dikali: pembilang dikali bilangan itu. Dibagi: penyebut dikali bilangan itu.</p><div class='formula-box'>2/7 × 3 = 6/7</div><div class='formula-box'>1/3 ÷ 2 = 1/6</div><h3>Menyederhanakan</h3><p>Bagi pembilang dan penyebut dengan bilangan yang sama, sampai tidak bisa dibagi lagi.</p><div class='example-box'>6/9 = 2/3</div>"
 },
     {
-      "id": "pecahan-desimal-persen",
-      "title": "Pecahan ↔ Desimal ↔ Persen",
-      "desc": "Hubungan pecahan, desimal, dan persen: cara mengubah antarbentuk dan membandingkan nilainya.",
-      "status": "ready",
-      "isRemedial": true,
-      "practiceTopic": "bilangan",
-      "video": "",
-      "panels": [
-        "Pecahan, desimal, dan persen adalah <b>tiga cara berbeda</b> menuliskan bilangan yang sama.",
-        "Pecahan → desimal: bagi pembilang dengan penyebut (1/2 = 1 ÷ 2 = 0,5).",
-        "Desimal → persen: kalikan 100 (0,5 → 50%). Persen → desimal: bagi 100 (50% → 0,5).",
-        "Pecahan → persen: ubah penyebut jadi 100, atau kali 100 (3/4 = 75%).",
-        "Persen → pecahan: tulis per 100 lalu sederhanakan (25% = 25/100 = 1/4).",
-        "Untuk membandingkan, ubah semuanya ke bentuk yang sama dulu (biasanya persen)."
-      ],
-      "content": "\n          <h2>Pecahan, Desimal, dan Persen</h2>\n          <p>Ketiganya adalah cara berbeda menuliskan bilangan yang sama. Contoh: 1/2 = 0,5 = 50%.</p>\n          <h3>Pecahan → Desimal</h3>\n          <p>Bagi pembilang dengan penyebut.</p>\n          <div class=\"example-box\">1/2 = 1 ÷ 2 = 0,5 &nbsp;|&nbsp; 3/4 = 0,75 &nbsp;|&nbsp; 1/5 = 0,2</div>\n          <h3>Desimal ↔ Persen</h3>\n          <div class=\"formula-box\">Desimal → Persen: × 100<br/>Persen → Desimal: ÷ 100</div>\n          <div class=\"example-box\">0,5 → 50% &nbsp;|&nbsp; 0,75 → 75% &nbsp;|&nbsp; 20% → 0,2</div>\n          <h3>Pecahan ↔ Persen</h3>\n          <p>Pecahan ke persen: samakan penyebut jadi 100 (atau kali 100). Persen ke pecahan: tulis per 100 lalu sederhanakan.</p>\n          <div class=\"example-box\">3/4 = 75/100 = 75% &nbsp;|&nbsp; 25% = 25/100 = 1/4</div>\n          <h3>Nilai yang Sering Dipakai</h3>\n          <div class=\"formula-box\">1/2 = 0,5 = 50%<br/>1/4 = 0,25 = 25%<br/>3/4 = 0,75 = 75%<br/>1/5 = 0,2 = 20%<br/>1/10 = 0,1 = 10%</div>\n          <h3>Membandingkan</h3>\n          <p>Untuk membandingkan atau mengurutkan, ubah semuanya ke bentuk yang sama dulu — paling mudah ke persen.</p>\n          <div class=\"example-box\">Bandingkan 1/2, 0,4, 45% → 50%, 40%, 45% → yang terbesar 1/2.</div>\n        "
-    },
+ "id": "pecahan-desimal-persen",
+ "title": "Pecahan, Desimal, dan Persen",
+ "desc": "Belajar mengubah dan membandingkan pecahan, desimal, dan persen lewat kertas petak 100 kotak dan cerita diskon dua toko.",
+ "status": "ready", "isRemedial": true, "practiceTopic": "bilangan", "video": "",
+ "panels": [
+  "Dua toko lagi bersaing! Toko A menulis <b>diskon 9/25</b>, Toko B menulis <b>diskon 16%</b>. Bentuknya beda, jadi mana yang lebih besar?",
+  "Kita pakai kertas petak berisi <b>100 kotak</b> sebagai satu utuh. <b>Persen</b> artinya <b>per seratus</b>: 16% berarti 16 kotak dari 100 kotak diwarnai.",
+  "Sekarang diskon Toko A, yaitu 9/25. Ubah penyebutnya jadi 100: 25 × 4 = 100, jadi 9 juga × 4 = 36. Maka 9/25 = 36/100, artinya 36 kotak diwarnai.",
+  "Petak juga bisa dibaca sebagai <b>desimal</b>. Satu baris penuh = 1/10 = 0,1, dan satu kotak lepas = 1/100 = 0,01. Jadi 36 kotak = 3 baris + 6 kotak = <b>0,36</b>: angka 3 di persepuluhan, angka 6 di perseratusan.",
+  "Lihat, satu petak punya tiga nama! <b>36/100</b> (pecahan), <b>0,36</b> (desimal), dan <b>36%</b> (persen) semuanya menunjuk 36 kotak yang sama.",
+  "Ada jalan pintas! Desimal × 100 = persen, artinya <b>koma geser 2 kotak ke kanan</b>: 0,16 menjadi 16%. Kebalikannya, persen ÷ 100 = desimal: 36% menjadi 0,36.",
+  "Persen ke pecahan: tulis dulu <b>per 100</b>, lalu sederhanakan. 55% = 55/100. Bagi atas dan bawah dengan 5, hasilnya 11/20.",
+  "Saatnya menjawab misi dua toko! Ubah semuanya ke persen: Toko A = 9/25 = 36%, Toko B = 16%. Petak Toko A lebih banyak terwarnai, jadi <b>diskon Toko A lebih besar</b>.",
+  "Diskon 30% dari Rp120.000? Cari 10% dulu: Rp120.000 ÷ 10 = Rp12.000, lalu × 3 karena 30% = 3 × 10%, hasilnya Rp36.000. Yuk coba satu contoh!"
+ ],
+ "panelGambar": [
+  "pdp-situasi.svg",
+  "pdp-petak100.svg",
+  "pdp-pecahan-petak.svg",
+  "pdp-desimal-petak.svg",
+  "pdp-tiga-nama.svg",
+  "pdp-geser-koma.svg",
+  "pdp-persen-pecahan.svg",
+  "pdp-bandingkan.svg",
+  "pdp-diskon.svg"
+ ],
+ "petunjukUmum": [
+  "Bayangkan selalu kertas petak berisi 100 kotak. Satu petak penuh = satu utuh.",
+  "Persen artinya per seratus, yaitu banyak kotak yang diwarnai dari 100 kotak.",
+  "Kalau tiga bilangan bentuknya beda-beda, ubah semuanya ke persen, lalu bandingkan petaknya."
+ ],
+ "contoh": {
+  "soal": "Urutkan dari yang terkecil: 22/25, 0,85, dan 90%.",
+  "gambar": "pdp-contoh.svg",
+  "jawaban": "0,85 < 22/25 < 90%",
+  "pengantar": "Yuk kita kerjakan satu contoh bareng-bareng.",
+  "langkah": [
+   "Mulai dari 22/25. Ubah penyebutnya jadi 100: 25 × 4 = 100, jadi 22 × 4 = 88. Maka 22/25 = 88/100, artinya 88 kotak diwarnai (88%).",
+   "Sekarang 0,85. Desimal × 100 = persen, jadi koma geser 2 kotak ke kanan: 0,85 menjadi 85%.",
+   "Ketiganya sudah dalam persen: 88%, 85%, dan 90%. Bandingkan banyak kotak yang diwarnai di tiap petak, lalu urutkan dari yang paling sedikit."
+  ],
+  "penutup": "Kalau tiga bilangan berbeda bentuk, ubah semuanya ke persen lalu bandingkan petaknya. Angkanya boleh ganti, caranya tetap sama."
+ },
+ "content": "<h2>Jadi, aturannya begini</h2><h3>Persen itu per seratus</h3><p>Satu utuh digambarkan sebagai petak 10 × 10 berisi 100 kotak. Persen adalah banyak kotak yang diwarnai dari 100 kotak.</p><div class='formula-box'>36% = 36/100</div><h3>Desimal dan nilai tempat</h3><p>Satu baris penuh = 1/10 (persepuluhan). Satu kotak lepas = 1/100 (perseratusan).</p><div class='example-box'><p>0,36 = 3 baris + 6 kotak = 36/100</p></div><h3>Pecahan menjadi persen</h3><p>Ubah penyebut jadi 100 dengan mengalikan atas dan bawah dengan bilangan yang sama.</p><div class='example-box'><p>9/25 = 36/100 = 36%</p><p>4/25 = 16/100 = 16%</p></div><h3>Desimal dan persen: koma geser 2 kotak</h3><div class='formula-box'>desimal × 100 = persen (koma geser 2 kotak ke kanan)<br>persen ÷ 100 = desimal (koma geser 2 kotak ke kiri)</div><div class='example-box'><p>0,88 = 88%</p><p>16% = 0,16</p><p>3/8 = 0,375 = 37,5%</p></div><h3>Persen menjadi pecahan</h3><p>Tulis per 100, lalu sederhanakan.</p><div class='example-box'><p>55% = 55/100 = 11/20</p><p>85% = 85/100 = 17/20</p></div><h3>Membandingkan</h3><p>Ubah semua bilangan ke persen, lalu bandingkan banyak kotak yang diwarnai.</p><div class='example-box'><p>11/20 = 55%, 0,88 = 88%, 85%</p><p>Urutan dari terkecil: 11/20 &lt; 85% &lt; 0,88</p></div><h3>Persen dari suatu jumlah</h3><div class='formula-box'>10% dari suatu jumlah = jumlah ÷ 10<br>Kelipatan 10% = hasil ÷ 10 lalu dikali kelipatannya</div>"
+},
     {
       "id": "membaca-soal-cerita",
       "title": "Membaca Soal Cerita",
