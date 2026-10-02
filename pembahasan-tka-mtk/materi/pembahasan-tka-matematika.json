@@ -1,0 +1,1128 @@
+{
+  "seri": "pembahasan",
+  "mapel": "matematika",
+  "judulSeri": "Bahas Soal TKA 2026",
+  "sumber": "Latihan soal setara TKA SD",
+  "items": [
+    {
+      "id": "tka26-mtk-01",
+      "no": 1,
+      "title": "Perjalanan Kereta Api",
+      "tipe": "bs",
+      "soal": "Kereta api berangkat pukul 18.30 dari stasiun P dan menempuh jarak 400 km sampai stasiun R. Awalnya kereta melaju dengan kecepatan rata-rata 120 km/jam sejauh 240 km sampai stasiun Q. Setelah singgah, kereta melanjutkan sisa perjalanan dengan kecepatan rata-rata 80 km/jam. Tentukan Benar atau Salah!",
+      "opsi": [
+        "Kereta api tiba di stasiun R pada pukul 22.30.",
+        "Kereta api tiba di stasiun Q pada pukul 20.30.",
+        "Kereta api membutuhkan waktu 4 jam dari stasiun P ke stasiun R."
+      ],
+      "jawaban": [
+        "B",
+        "B",
+        "B"
+      ],
+      "gambar": "",
+      "ringkasan": {
+        "diketahui": [
+          {
+            "teks": "Berangkat pukul <b>18.30</b>, jarak total <b>400 km</b>",
+            "warna": "#1E88E5"
+          },
+          {
+            "teks": "Tahap 1: <b>240 km</b> dengan <b>120 km/jam</b>",
+            "warna": "#EF6C00"
+          },
+          {
+            "teks": "Tahap 2: sisa jarak dengan <b>80 km/jam</b>",
+            "warna": "#8D6E63"
+          }
+        ],
+        "ditanya": "Waktu tiba di <b>Q</b> dan <b>R</b>, serta lama perjalanan"
+      },
+      "visual": "tka26-mtk-01-bahas.svg",
+      "langkah": [
+        {
+          "tanya": "Kereta jalan berapa jam di tiap bagian? Bayangkan tiap 1 jam kereta maju sejauh kecepatannya.",
+          "ingat": "120 km/jam artinya 1 jam kereta maju 120 km",
+          "teks": "Bagian 1: 1 jam maju 120 km, 2 jam maju 240 km. Jadi butuh <b>2 jam</b>. Sisa jalan = 400 − 240 = <b data-k=\"2\">160 km</b>. Bagian 2: 1 jam maju 80 km, 2 jam maju 160 km. Butuh <b>2 jam</b> juga. Total jalan 2 + 2 = 4 jam. Berangkat 18.30, lalu tambah 4 jam: 19.30, 20.30, 21.30, <b>22.30</b>. Pernyataan 1 benar.",
+          "cara": "18.30 + 4 jam",
+          "hasil": "22.30 (Benar)",
+          "pernyataan": 1,
+          "sorot": [
+            "sisa perjalanan dengan kecepatan rata-rata 80 km/jam"
+          ]
+        },
+        {
+          "tanya": "Stasiun Q ada di mana? Kereta sudah jalan berapa jam saat sampai di sana?",
+          "teks": "Q ada di ujung bagian 1, yaitu setelah <b data-k=\"1\">240 km</b>. Tadi kita tahu itu 2 jam. Hitung maju dari 18.30: 19.30 (1 jam), <b>20.30</b> (2 jam). Lama berhenti tidak disebut, jadi tidak dihitung. Pernyataan 2 benar.",
+          "cara": "18.30 + 2 jam",
+          "hasil": "20.30 (Benar)",
+          "pernyataan": 2,
+          "sorot": [
+            "120 km/jam sejauh 240 km"
+          ]
+        },
+        {
+          "tanya": "Dari P sampai R, kereta jalan berapa jam kalau bagian 1 dan bagian 2 digabung?",
+          "teks": "Bagian 1 jalan 2 jam, bagian 2 jalan 2 jam. Digabung: 2 + 2 = <b>4 jam</b>. Pernyataan 3 benar.",
+          "cara": "2 jam + 2 jam",
+          "hasil": "4 jam (Benar)",
+          "pernyataan": 3,
+          "sorot": [
+            "menempuh jarak 400 km sampai stasiun R"
+          ]
+        }
+      ],
+      "kunci": "Ingat: tiap <b>1 jam</b> kereta maju sejauh kecepatannya. Hitung <b>satu bagian jalan</b> dulu, baru jumlahkan jamnya.",
+      "rencana": [
+        "Hitung jam tiap bagian",
+        "Cari jam tiba di Q",
+        "Jumlahkan jam jalan"
+      ],
+      "rangkuman": "Bagian 1: kereta maju 120 km tiap jam, jadi 240 km butuh 2 jam dan tiba di Q pukul 20.30. Bagian 2: maju 80 km tiap jam, jadi 160 km butuh 2 jam. Total 4 jam, tiba di R pukul 22.30. Jadi Benar, Benar, Benar.",
+      "ilustrasi": "tka26-mtk-01-ilustrasi.png"
+    },
+    {
+      "id": "tka26-mtk-02",
+      "no": 2,
+      "title": "Tumpukan Kubus",
+      "tipe": "pg",
+      "soal": "Gambar berikut menunjukkan tumpukan beberapa kubus berukuran sama. Berapakah jumlah seluruh kubus dalam tumpukan tersebut?",
+      "opsi": [
+        "9 buah",
+        "12 buah",
+        "14 buah",
+        "16 buah"
+      ],
+      "jawaban": "B",
+      "gambar": "tka26-mtk-02.png",
+      "ringkasan": {
+        "diketahui": [
+          {
+            "teks": "Dari depan tersusun <b>3, 2, 1</b> kubus",
+            "warna": "#8D6E63"
+          },
+          {
+            "teks": "Ke belakang ada <b>2</b> kubus",
+            "warna": "#E53935"
+          }
+        ],
+        "ditanya": "Berapa <b>jumlah seluruh kubus</b> dalam tumpukan?"
+      },
+      "visual": "tka26-mtk-02-bahas.svg",
+      "langkah": [
+        {
+          "teks": "Tumpukan ini seperti tangga. Dari depan, kolom kiri ada <b data-k=\"0\">3</b> kubus, tengah <b data-k=\"0\">2</b>, dan kanan <b data-k=\"0\">1</b>. Jadi yang terlihat di depan 3 + 2 + 1 = <b>6 kubus</b>.",
+          "cara": "3 + 2 + 1",
+          "hasil": "6 kubus",
+          "sorot": [
+            "tumpukan beberapa kubus"
+          ]
+        },
+        {
+          "tanya": "Dari depan terlihat 6 kubus. Apakah itu sudah semua kubus dalam tumpukan?",
+          "teks": "Belum! Lihat sisi kanan gambar. Setiap tingkat memanjang <b data-k=\"1\">2 kubus</b> ke belakang. Berarti ada <b>2 baris</b>, dan satu baris lagi tersembunyi di belakang.",
+          "cara": "depan + belakang",
+          "hasil": "2 baris",
+          "sorot": [
+            "jumlah seluruh kubus"
+          ]
+        },
+        {
+          "ingat": "Kubus satu tingkat = kubus selebar × banyak baris",
+          "teks": "Tadi kita tahu ada 2 baris. Hitung tiap tingkat. Bawah: <b data-k=\"0\">3</b> × <b data-k=\"1\">2</b> = <b>6</b>. Tengah: 2 × 2 = <b>4</b>. Atas: 1 × 2 = <b>2</b>.",
+          "cara": "3×2 · 2×2 · 1×2",
+          "hasil": "6 · 4 · 2",
+          "sorot": [
+            "kubus berukuran sama"
+          ]
+        },
+        {
+          "teks": "Tadi tiap tingkat sudah kita hitung. Sekarang jumlahkan semuanya: 6 + 4 + 2 = <b>12 kubus</b>.",
+          "cara": "6 + 4 + 2",
+          "hasil": "12 kubus",
+          "sorot": [
+            "seluruh kubus dalam tumpukan"
+          ]
+        }
+      ],
+      "kunci": "Hitung juga kubus yang <b>tersembunyi</b> di belakang, bukan hanya yang terlihat. Cek cepat: 6 kubus di depan × 2 baris = 12.",
+      "rencana": [
+        "Baca tangga",
+        "Cari baris belakang",
+        "Hitung per tingkat",
+        "Jumlahkan tingkat"
+      ],
+      "rangkuman": "Dari depan, tumpukan seperti tangga: 3, 2, dan 1 kubus. Ke belakang ada 2 baris. Tingkat bawah ada 6 kubus, tengah 4, atas 2. Jumlahnya 6 + 4 + 2 = 12 kubus, jawabannya B.",
+      "ilustrasi": "tka26-mtk-02-ilustrasi.png"
+    },
+    {
+      "id": "tka26-mtk-05",
+      "no": 5,
+      "title": "Penumpang Transportasi Umum",
+      "tipe": "pg",
+      "wacana": "Kota A memiliki tiga jenis transportasi umum yaitu Mass Rapid Transit (MRT), Light Rail Transit (LRT), dan Trans Kota. Berikut data jumlah penumpang ketiga jenis transportasi umum tersebut dalam satu pekan.",
+      "soal": "Berdasarkan data jumlah penumpang tiga jenis transportasi umum tersebut, berapakah banyak penumpang Trans Kota pada hari Jumat?",
+      "opsi": [
+        "14.000 orang",
+        "35.000 orang",
+        "40.000 orang",
+        "45.000 orang"
+      ],
+      "jawaban": "D",
+      "gambar": "tka26-mtk-05.png",
+      "ringkasan": {
+        "diketahui": [
+          {
+            "teks": "Tabel penumpang <b>3 transportasi</b> selama <b>7 hari</b>",
+            "warna": "#8D6E63"
+          },
+          {
+            "teks": "Yang ditanya: <b>Trans Kota</b>",
+            "warna": "#E53935"
+          },
+          {
+            "teks": "Hari yang ditanya: <b>Jumat</b>",
+            "warna": "#1E88E5"
+          }
+        ],
+        "ditanya": "Berapa <b>penumpang Trans Kota</b> pada hari <b>Jumat</b>?"
+      },
+      "visual": "tka26-mtk-05-bahas.svg",
+      "langkah": [
+        {
+          "ingat": "Baris itu mendatar ke samping, kolom itu tegak ke bawah",
+          "teks": "Pertama, kita baca tabelnya. Tiap <b data-k=\"0\">baris</b> adalah satu jenis transportasi: MRT, LRT, dan Trans Kota. Tiap <b data-k=\"0\">kolom</b> adalah satu hari, dari Senin sampai Minggu. Angka di dalam kotak adalah jumlah penumpang, dalam orang.",
+          "cara": "3 baris × 7 kolom",
+          "hasil": "3 jenis, 7 hari",
+          "sorot": [
+            "tiga jenis transportasi umum"
+          ]
+        },
+        {
+          "tanya": "Ada tiga baris di tabel. Angka di baris MRT atau LRT juga boleh kita pakai?",
+          "teks": "Tadi kita tahu tiap baris adalah satu jenis transportasi. Yang ditanya adalah <b data-k=\"1\">Trans Kota</b>, jadi kita hanya melihat baris Trans Kota. Baris MRT dan LRT tidak dipakai.",
+          "cara": "Baris Trans Kota",
+          "hasil": "Baris ke-3",
+          "sorot": [
+            "penumpang Trans Kota"
+          ]
+        },
+        {
+          "tanya": "Di baris Trans Kota ada tujuh angka. Angka yang mana yang kita ambil?",
+          "teks": "Tadi kita sudah berada di baris Trans Kota. Sekarang cari kolom hari <b data-k=\"2\">Jumat</b>, lalu lihat angka yang ada di pertemuan baris dan kolom itu. Angkanya <b>45.000</b>. Jadi jawabannya D.",
+          "cara": "Trans Kota, Jumat",
+          "hasil": "45.000 orang",
+          "sorot": [
+            "pada hari Jumat"
+          ]
+        }
+      ],
+      "kunci": "Angka di tabel dicari dari <b>baris</b> dan <b>kolom</b> yang tepat. Pastikan baris <b>Trans Kota</b> dan kolom <b>Jumat</b>, jangan sampai salah ambil MRT (90.000) atau LRT (65.000).",
+      "rencana": [
+        "Baca tabel",
+        "Cari baris",
+        "Cari kolom"
+      ],
+      "rangkuman": "Tabel punya tiga baris transportasi dan tujuh kolom hari. Kita ambil baris Trans Kota dan kolom Jumat. Pertemuannya 45.000 orang, jadi jawabannya D.",
+      "ilustrasi": "tka26-mtk-05-ilustrasi.png"
+    },
+    {
+      "id": "tka26-mtk-06",
+      "no": 6,
+      "title": "Kotak Beras Ibu",
+      "tipe": "pg",
+      "soal": "Ibu memiliki sebuah kotak penyimpanan beras berbentuk balok dengan panjang 50 cm dan tinggi 20 cm. Kotak tersebut telah terisi beras sebanyak 4/5 dari volume keseluruhan kotak. Jika beras yang ada dalam kotak tersebut sebanyak 28.000 cm³, lebar kotak tersebut adalah ….",
+      "opsi": [
+        "28 cm",
+        "30 cm",
+        "35 cm",
+        "40 cm"
+      ],
+      "jawaban": "C",
+      "gambar": "",
+      "ringkasan": {
+        "diketahui": [
+          {
+            "teks": "Balok: panjang <b>50 cm</b>, tinggi <b>20 cm</b>",
+            "warna": "#1E88E5"
+          },
+          {
+            "teks": "Beras mengisi <b>4/5</b> kotak",
+            "warna": "#EF6C00"
+          },
+          {
+            "teks": "Volume beras <b>28.000 cm³</b>",
+            "warna": "#8D6E63"
+          }
+        ],
+        "ditanya": "Berapa <b>lebar</b> kotak?"
+      },
+      "visual": "tka26-mtk-06-bahas.svg",
+      "langkah": [
+        {
+          "tahap": 2,
+          "tanya": "Beras 28.000 cm³ itu isi kotak penuh, atau belum?",
+          "ingat": "4/5 artinya kotak dibagi 5 bagian sama besar",
+          "teks": "Belum penuh! 28.000 cm³ itu baru <b data-k=\"1\">4 bagian</b> dari 5. Jadi 1 bagian = 28.000 ÷ 4 = <b>7.000 cm³</b>.",
+          "cara": "28.000 ÷ 4",
+          "hasil": "7.000 cm³",
+          "sorot": [
+            "terisi beras sebanyak 4/5 dari volume keseluruhan kotak",
+            "sebanyak 28.000 cm³"
+          ]
+        },
+        {
+          "tahap": 3,
+          "teks": "Tadi 1 bagian 7.000 cm³. Kotak penuh ada 5 bagian, jadi 7.000 × 5 = <b>35.000 cm³</b>.",
+          "cara": "7.000 × 5",
+          "hasil": "35.000 cm³",
+          "sorot": [
+            "volume keseluruhan kotak"
+          ]
+        },
+        {
+          "tahap": 5,
+          "teks": "Volume = panjang × lebar × tinggi. <b data-k=\"0\">50 × 20</b> = 1.000, jadi lebar = 35.000 ÷ 1.000 = <b>35 cm</b>.",
+          "cara": "35.000 ÷ (50 × 20)",
+          "hasil": "35 cm",
+          "sorot": [
+            "panjang 50 cm dan tinggi 20 cm"
+          ]
+        }
+      ],
+      "kunci": "28.000 cm³ itu baru <b>4 dari 5 bagian</b> kotak, bukan kotak penuh. Cari isi 1 bagian, lalu kalikan 5. Kalau tidak, kamu terjebak di jawaban 28.",
+      "rencana": [
+        "Cari isi 1 bagian",
+        "Volume kotak penuh",
+        "Hitung lebar"
+      ],
+      "rangkuman": "28.000 cm³ itu baru 4 dari 5 bagian, jadi 1 bagian 7.000 cm³. Kotak penuh 5 bagian, 35.000 cm³. Lalu 35.000 dibagi 50 × 20, lebarnya 35 cm.",
+      "ilustrasi": "tka26-mtk-06-ilustrasi.png"
+    },
+    {
+      "id": "tka26-mtk-07",
+      "no": 7,
+      "title": "Tepung dan Toples",
+      "tipe": "pg",
+      "soal": "Ibu baru saja membeli sekantong besar tepung terigu seberat 3 kg dari pasar. Sesampainya di rumah, Ibu mengambil 800 gram tepung tersebut untuk membuat adonan kue bolu. Sisa tepung akan dimasukkan ke dalam beberapa toples kecil. Setiap toples kecil mampu menampung tepung seberat 200 gram. Berapa banyak toples kecil yang dibutuhkan Ibu untuk menyimpan tepat seluruh sisa tepung?",
+      "opsi": [
+        "11 toples",
+        "15 toples",
+        "19 toples",
+        "22 toples"
+      ],
+      "jawaban": "A",
+      "gambar": "",
+      "ringkasan": {
+        "diketahui": [
+          {
+            "teks": "Tepung <b>3 kg</b>",
+            "warna": "#8D6E63"
+          },
+          {
+            "teks": "Dipakai untuk bolu <b>800 gram</b>",
+            "warna": "#E53935"
+          },
+          {
+            "teks": "1 toples muat <b>200 gram</b>",
+            "warna": "#1E88E5"
+          }
+        ],
+        "ditanya": "Berapa toples untuk <b>sisa</b> tepung?"
+      },
+      "visual": "tka26-mtk-07-bahas.svg",
+      "langkah": [
+        {
+          "teks": "Satuannya beda, kg dan gram. Samakan dulu: <b data-k=\"0\">3 kg</b> = <b data-k=\"0\">3.000 gram</b>.",
+          "cara": "3 × 1.000",
+          "hasil": "3.000 g",
+          "sorot": [
+            "seberat 3 kg"
+          ]
+        },
+        {
+          "tanya": "Ibu mengambil 800 gram. Tepungnya ditambah atau dikurangi?",
+          "teks": "Dikurangi! Tadi 3.000 gram, diambil <b data-k=\"1\">800 gram</b>. Sisanya 3.000 − 800 = <b>2.200 gram</b>.",
+          "cara": "3.000 − 800",
+          "hasil": "2.200 g",
+          "sorot": [
+            "mengambil 800 gram tepung tersebut"
+          ]
+        },
+        {
+          "teks": "Sisa 2.200 gram dibagi ke toples yang muat <b data-k=\"2\">200 gram</b>. 2.200 ÷ 200 = <b>11 toples</b>.",
+          "cara": "2.200 ÷ 200",
+          "hasil": "11 toples",
+          "sorot": [
+            "mampu menampung tepung seberat 200 gram"
+          ]
+        }
+      ],
+      "kunci": "Samakan satuan dulu, lalu hitung <b>sisa</b> sebelum membagi. Kalau lupa mengurangi 800 gram, kamu terjebak di jawaban 15.",
+      "rencana": [
+        "Samakan satuan",
+        "Hitung sisa",
+        "Bagi ke toples"
+      ],
+      "rangkuman": "Tepung 3 kg kita ubah jadi 3.000 gram. Diambil 800, tinggal 2.200 gram. Dibagi 200 gram per toples, jadi 11 toples.",
+      "ilustrasi": "tka26-mtk-07-ilustrasi.png"
+    },
+    {
+      "id": "tka26-mtk-08",
+      "no": 8,
+      "title": "Jarak Anita ke Sekolah",
+      "tipe": "pg",
+      "soal": "Perhatikan denah berikut ini! Berapakah jarak yang ditempuh Anita dari rumah ke sekolah?",
+      "opsi": [
+        "2,7 km",
+        "2,8 km",
+        "3,7 km",
+        "4,6 km"
+      ],
+      "jawaban": "C",
+      "gambar": "tka26-mtk-08.png",
+      "ringkasan": {
+        "diketahui": [
+          {
+            "teks": "Jalan menuju sekolah <b>800 m</b>",
+            "warna": "#8D6E63"
+          },
+          {
+            "teks": "Jalan mendatar <b>2 km</b>",
+            "warna": "#E53935"
+          },
+          {
+            "teks": "Rumah Anita ke belokan <b>900 m</b>",
+            "warna": "#1E88E5"
+          }
+        ],
+        "ditanya": "Berapa <b>jarak</b> Anita dari <b>rumah ke sekolah</b>?"
+      },
+      "visual": "tka26-mtk-08-bahas.svg",
+      "langkah": [
+        {
+          "tanya": "Di denah ada angka 1,7 km dan 1 km. Apakah Anita melewati jalan itu?",
+          "ingat": "Jarak rute = jumlah panjang jalan yang benar-benar dilewati",
+          "teks": "Tidak! Dari rumah Anita, jalan ke atas sejauh <b data-k=\"2\">900 m</b>. Lalu belok kiri sejauh <b data-k=\"1\">2 km</b>. Lalu belok ke atas sejauh <b data-k=\"0\">800 m</b> sampai sekolah. Jalan 1,7 km, jalan 1 km, dan jalan 900 m milik Ani tidak dilewati.",
+          "cara": "Rute Anita",
+          "hasil": "3 ruas jalan",
+          "sorot": [
+            "jarak yang ditempuh Anita",
+            "Perhatikan denah berikut ini"
+          ]
+        },
+        {
+          "tanya": "Ada angka dalam km dan ada yang dalam m. Boleh langsung dijumlahkan?",
+          "ingat": "1 km sama dengan 1.000 m",
+          "teks": "Tadi kita dapat tiga ruas jalan: 900 m, 2 km, dan 800 m. Satuannya belum sama, jadi belum boleh dijumlah. Kita ubah km ke m dulu: <b data-k=\"1\">2 km</b> × 1.000 = <b>2.000 m</b>.",
+          "cara": "2 × 1.000",
+          "hasil": "2.000 m",
+          "sorot": [
+            "Berapakah jarak"
+          ]
+        },
+        {
+          "teks": "Sekarang semua satuannya meter. Jumlahkan jalan yang dilewati: <b data-k=\"2\">900</b> + <b data-k=\"1\">2.000</b> + <b data-k=\"0\">800</b> = <b>3.700 m</b>. Pilihan jawaban memakai km, jadi ubah lagi: 3.700 ÷ 1.000 = <b>3,7 km</b>. Jawabannya C.",
+          "cara": "900 + 2.000 + 800",
+          "hasil": "3.700 m = 3,7 km",
+          "sorot": [
+            "dari rumah ke sekolah"
+          ]
+        }
+      ],
+      "kunci": "Jumlahkan hanya jalan yang <b>dilewati</b>, dan samakan <b>satuannya</b> dulu. Angka 1,7 km dan 1 km di denah adalah pengecoh.",
+      "rencana": [
+        "Baca rute Anita",
+        "Samakan satuan",
+        "Jumlahkan jarak"
+      ],
+      "rangkuman": "Anita melewati tiga jalan: 900 m, 2 km, dan 800 m. 2 km sama dengan 2.000 m. Jumlahnya 900 + 2.000 + 800 = 3.700 m, yaitu 3,7 km. Jawabannya C.",
+      "ilustrasi": "tka26-mtk-08-ilustrasi.png"
+    },
+    {
+      "id": "tka26-mtk-12",
+      "no": 12,
+      "title": "Kurir Paket dan Desa",
+      "tipe": "pg",
+      "soal": "Pagi ini ada tiga kurir yang bertugas. Kurir A membawa 126 paket, kurir B membawa 144 paket, dan kurir C membawa 138 paket. Sebelum jam istirahat, kurir B sudah mengirimkan 64 paket ke salah satu desa. Dia akan melanjutkan pengiriman masing-masing 40 paket ke beberapa desa. Setelah beristirahat, kurir B melanjutkan pengantaran paket. Berapa desa yang didatangi kurir B setelah itu?",
+      "opsi": [
+        "1 desa",
+        "2 desa",
+        "3 desa",
+        "4 desa"
+      ],
+      "jawaban": "B",
+      "gambar": "",
+      "ringkasan": {
+        "diketahui": [
+          {
+            "teks": "Kurir B membawa <b>144 paket</b>",
+            "warna": "#8D6E63"
+          },
+          {
+            "teks": "Sudah dikirim ke satu desa <b>64 paket</b>",
+            "warna": "#E53935"
+          },
+          {
+            "teks": "Tiap desa berikutnya <b>40 paket</b>",
+            "warna": "#1E88E5"
+          }
+        ],
+        "ditanya": "Berapa <b>desa</b> yang didatangi <b>setelah istirahat</b>?"
+      },
+      "visual": "tka26-mtk-12-bahas.svg",
+      "langkah": [
+        {
+          "tanya": "Desa pertama sudah menerima 64 paket. Apakah 144 paket langsung dibagi 40?",
+          "teks": "Tidak! Dari <b data-k=\"0\">144 paket</b>, ada <b data-k=\"1\">64 paket</b> yang sudah diantar. Yang belum diantar: 144 − 64 = <b>80 paket</b>.",
+          "cara": "144 − 64",
+          "hasil": "80 paket",
+          "sorot": [
+            "kurir B sudah mengirimkan 64 paket"
+          ]
+        },
+        {
+          "teks": "Tadi sisa 80 paket. Tiap desa menerima <b data-k=\"2\">40 paket</b>. 80 ÷ 40 = <b>2 desa</b>. Desa pertama tidak dihitung lagi, karena sudah selesai.",
+          "cara": "80 ÷ 40",
+          "hasil": "2 desa",
+          "sorot": [
+            "masing-masing 40 paket ke beberapa desa"
+          ]
+        }
+      ],
+      "kunci": "Kurangi dulu paket yang <b>sudah dikirim</b>, baru bagi <b>sisanya</b> per desa. Kalau 144 langsung dibagi 40, kamu terjebak.",
+      "rencana": [
+        "Hitung sisa paket",
+        "Bagi per desa"
+      ],
+      "rangkuman": "Kurir B membawa 144 paket, 64 sudah terkirim. Sisanya 80 paket. Dibagi 40 per desa, jadi 2 desa.",
+      "ilustrasi": "tka26-mtk-12-ilustrasi.png"
+    },
+    {
+      "id": "tka26-mtk-13",
+      "no": 13,
+      "title": "Kurir A dan Desa",
+      "tipe": "pg",
+      "soal": "Ada tiga kurir yang bertugas. Kurir A membawa 126 paket, kurir B membawa 144 paket, dan kurir C membawa 138 paket. Hari ini kurir A akan mengantar paket ke beberapa desa. Setiap desa tersebut menerima jumlah paket yang sama. Banyak paket yang diantar ke setiap desa adalah 21 paket. Ada berapa desa yang didatangi oleh kurir A?",
+      "opsi": [
+        "4 desa",
+        "5 desa",
+        "6 desa",
+        "7 desa"
+      ],
+      "jawaban": "C",
+      "gambar": "",
+      "ringkasan": {
+        "diketahui": [
+          {
+            "teks": "Kurir A membawa <b>126 paket</b>",
+            "warna": "#8D6E63"
+          },
+          {
+            "teks": "Tiap desa menerima <b>21 paket</b>",
+            "warna": "#E53935"
+          }
+        ],
+        "ditanya": "Berapa <b>desa</b> yang didatangi <b>kurir A</b>?"
+      },
+      "visual": "tka26-mtk-13-bahas.svg",
+      "langkah": [
+        {
+          "tanya": "Soal menyebut tiga kurir. Paket milik kurir yang mana yang kita hitung?",
+          "teks": "Kurir A! Yang ditanya hanya kurir A, jadi kita pakai <b data-k=\"0\">126 paket</b>. Paket kurir B dan C tidak dipakai.",
+          "cara": "Pilih kurir A",
+          "hasil": "126 paket",
+          "sorot": [
+            "Hari ini kurir A akan mengantar paket ke beberapa desa"
+          ]
+        },
+        {
+          "ingat": "Banyak kelompok = jumlah semua ÷ isi tiap kelompok",
+          "teks": "Tadi kita pakai 126 paket. Tiap desa menerima sama banyak, yaitu <b data-k=\"1\">21 paket</b>. Berapa kali 21 muat di 126? Karena 21 × 6 = 126, maka 126 ÷ 21 = <b>6 desa</b>.",
+          "cara": "126 ÷ 21",
+          "hasil": "6 desa",
+          "sorot": [
+            "menerima jumlah paket yang sama",
+            "setiap desa adalah 21 paket"
+          ]
+        }
+      ],
+      "kunci": "Pakai paket <b>kurir yang ditanya</b>, bukan semua kurir. Lalu bagi paket itu dengan isi <b>tiap desa</b>.",
+      "rencana": [
+        "Pilih paket kurir",
+        "Bagi per desa"
+      ],
+      "rangkuman": "Yang ditanya kurir A, jadi kita pakai 126 paket. Tiap desa menerima 21 paket. 126 dibagi 21 sama dengan 6, jadi 6 desa.",
+      "ilustrasi": "tka26-mtk-13-ilustrasi.png"
+    },
+    {
+      "id": "tka26-mtk-14",
+      "no": 14,
+      "title": "Diagram Proses Berpikir",
+      "tipe": "bs",
+      "soal": "Suatu program memiliki diagram proses berpikir: masukkan bilangan a, lalu periksa apakah (a + 1) bilangan ganjil. Jika ya, hasilnya 10 − (a × 2). Jika tidak, hasilnya 10 + (a × 3). Setelah itu hasil ditampilkan. Tentukan Benar atau Salah!",
+      "opsi": [
+        "Jika nilai a ganjil, maka hasilnya juga ganjil.",
+        "Jika diberikan masukan bilangan a = 3, maka hasil yang ditampilkan adalah 19.",
+        "Jika diberikan masukan bilangan a = 2, maka hasil yang ditampilkan adalah 4."
+      ],
+      "jawaban": [
+        "B",
+        "B",
+        "S"
+      ],
+      "gambar": "",
+      "ringkasan": {
+        "diketahui": [
+          {
+            "teks": "Jika (a+1) <b>ganjil</b> (ya): <b>10 − (a × 2)</b>",
+            "warna": "#E53935"
+          },
+          {
+            "teks": "Jika (a+1) <b>bukan ganjil</b> (tidak): <b>10 + (a × 3)</b>",
+            "warna": "#1E88E5"
+          }
+        ],
+        "ditanya": "Hasil program untuk tiap nilai <b>a</b>"
+      },
+      "visual": "tka26-mtk-14-bahas.svg",
+      "langkah": [
+        {
+          "tanya": "Kalau a ganjil, a + 1 itu ganjil atau genap?",
+          "ingat": "Coba pakai contoh, misalnya a = 1",
+          "teks": "Genap, jadi lewat jalur <b data-k=\"1\">tidak</b>: 10 + (a × 3). Ganjil × 3 tetap ganjil, dan 10 + ganjil = <b>ganjil</b>. Pernyataan 1 benar.",
+          "cara": "a + 1 genap, jalur tidak, hasil ganjil",
+          "hasil": "Benar",
+          "pernyataan": 1,
+          "sorot": [
+            "periksa apakah (a + 1) bilangan ganjil"
+          ]
+        },
+        {
+          "teks": "a = 3, maka a + 1 = 4, genap. Jalur <b data-k=\"1\">tidak</b>: 10 + (3 × 3) = <b>19</b>. Pernyataan 2 benar.",
+          "cara": "10 + (3 × 3) = 19",
+          "hasil": "Benar",
+          "pernyataan": 2,
+          "sorot": [
+            "Jika tidak, hasilnya 10 + (a × 3)"
+          ]
+        },
+        {
+          "tanya": "Sekarang a = 2, maka a + 1 = 3, ganjil. Lewat jalur mana?",
+          "teks": "Jalur <b data-k=\"0\">ya</b>: 10 − (2 × 2) = 10 − 4 = <b>6</b>, bukan 4. Pernyataan 3 salah.",
+          "cara": "10 − (2 × 2) = 6, bukan 4",
+          "hasil": "Salah",
+          "pernyataan": 3,
+          "sorot": [
+            "Jika ya, hasilnya 10 − (a × 2)"
+          ]
+        }
+      ],
+      "kunci": "Periksa dulu <b>(a + 1)</b> untuk memilih jalur, baru hitung. Jangan langsung memakai rumus tanpa cek pertanyaannya.",
+      "rencana": [
+        "Cek a ganjil",
+        "Cek a = 3",
+        "Cek a = 2"
+      ],
+      "rangkuman": "Kuncinya, cek a + 1 dulu. a ganjil lewat jalur tidak, hasilnya ganjil. a = 3 hasilnya 19. a = 2 lewat jalur ya, hasilnya 6, bukan 4. Jadi Benar, Benar, Salah.",
+      "ilustrasi": "tka26-mtk-14-ilustrasi.png"
+    },
+    {
+      "id": "tka26-mtk-15",
+      "no": 15,
+      "title": "Kali Dulu Baru Tambah",
+      "tipe": "pg",
+      "soal": "Hasil perhitungan dari 2½ + 3 × ¾ adalah ….",
+      "opsi": [
+        "4¾",
+        "4¼",
+        "3¼",
+        "2¼"
+      ],
+      "jawaban": "A",
+      "gambar": "",
+      "ringkasan": {
+        "diketahui": [
+          {
+            "teks": "Ada bilangan <b>2½</b>",
+            "warna": "#8D6E63"
+          },
+          {
+            "teks": "Ada perkalian <b>3 × ¾</b>",
+            "warna": "#E53935"
+          }
+        ],
+        "ditanya": "Hasil dari <b>2½ + 3 × ¾</b>"
+      },
+      "visual": "tka26-mtk-15-bahas.svg",
+      "langkah": [
+        {
+          "tanya": "Ada tambah dan kali. Dijumlah dulu atau dikali dulu?",
+          "teks": "Dikali dulu! Dalam hitungan campuran, perkalian dikerjakan sebelum penjumlahan. Jadi yang pertama dihitung adalah <b data-k=\"1\">3 × ¾</b>, bukan 2½ + 3.",
+          "cara": "× dulu, baru +",
+          "hasil": "Kali dulu",
+          "sorot": [
+            "2½ + 3 × ¾"
+          ]
+        },
+        {
+          "ingat": "4/4 sama dengan 1 utuh",
+          "teks": "Tadi kita pilih <b data-k=\"1\">3 × ¾</b> lebih dulu. Artinya ¾ ditambah tiga kali: ¾ + ¾ + ¾ = 9/4. Ubah ke pecahan campuran: 9/4 = <b>2¼</b>.",
+          "cara": "3 × ¾",
+          "hasil": "2¼",
+          "sorot": [
+            "3 × ¾"
+          ]
+        },
+        {
+          "teks": "Tadi hasil kalinya 2¼. Sekarang jumlahkan dengan <b data-k=\"0\">2½</b>. Bagian utuh: 2 + 2 = 4. Bagian pecahan: ½ + ¼ = 2/4 + 1/4 = ¾. Jadi hasilnya <b>4¾</b>.",
+          "cara": "2½ + 2¼",
+          "hasil": "4¾",
+          "sorot": [
+            "perhitungan dari 2½"
+          ]
+        }
+      ],
+      "kunci": "Perkalian dikerjakan <b>lebih dulu</b> daripada penjumlahan. Jangan berhenti di hasil kali, karena itu belum jawaban akhir.",
+      "rencana": [
+        "Tentukan urutan",
+        "Kalikan pecahan",
+        "Jumlahkan"
+      ],
+      "rangkuman": "Perkalian dikerjakan lebih dulu. 3 × ¾ sama dengan 2¼. Lalu 2½ + 2¼ = 4¾.",
+      "ilustrasi": "tka26-mtk-15-ilustrasi.png"
+    },
+    {
+      "id": "tka26-mtk-16",
+      "no": 16,
+      "title": "Karung Beras Jadi Paket",
+      "tipe": "pg",
+      "soal": "Seorang pedagang membeli 4 karung beras. Setiap karung berisi 25 kg beras. Beras itu akan dikemas menjadi paket-paket kecil berisi 5 kg untuk dijual. Jika setiap paket dijual seharga Rp65.000,00 maka hasil penjualan seluruh paket beras adalah ….",
+      "opsi": [
+        "Rp975.000,00",
+        "Rp1.300.000,00",
+        "Rp1.425.000,00",
+        "Rp1.500.000,00"
+      ],
+      "jawaban": "B",
+      "gambar": "",
+      "ringkasan": {
+        "diketahui": [
+          {
+            "teks": "<b>4 karung</b>, tiap karung <b>25 kg</b>",
+            "warna": "#8D6E63"
+          },
+          {
+            "teks": "1 paket berisi <b>5 kg</b>",
+            "warna": "#EF6C00"
+          },
+          {
+            "teks": "1 paket dijual <b>Rp65.000</b>",
+            "warna": "#2E7D32"
+          }
+        ],
+        "ditanya": "Uang hasil menjual <b>semua paket</b>"
+      },
+      "visual": "tka26-mtk-16-bahas.svg",
+      "langkah": [
+        {
+          "teks": "Ada <b data-k=\"0\">4 karung</b>, tiap karung <b data-k=\"0\">25 kg</b>. 4 × 25 = <b>100 kg</b>.",
+          "cara": "4 × 25",
+          "hasil": "100 kg",
+          "sorot": [
+            "4 karung beras",
+            "Setiap karung berisi 25 kg beras"
+          ]
+        },
+        {
+          "teks": "Tadi 100 kg, dikemas per <b data-k=\"1\">5 kg</b>. 100 ÷ 5 = <b>20 paket</b>.",
+          "cara": "100 ÷ 5",
+          "hasil": "20 paket",
+          "sorot": [
+            "paket-paket kecil berisi 5 kg"
+          ]
+        },
+        {
+          "tanya": "Yang dijual itu per paket. Uangnya dihitung dari 100 kg, atau dari 20 paket?",
+          "teks": "Dari 20 paket! 20 × <b data-k=\"2\">Rp65.000</b> = <b>Rp1.300.000</b>.",
+          "cara": "20 × Rp65.000",
+          "hasil": "Rp1.300.000",
+          "sorot": [
+            "seharga Rp65.000,00"
+          ]
+        }
+      ],
+      "kunci": "Ubah dulu beras jadi <b>jumlah paket</b>, baru kalikan dengan harga satu paket.",
+      "rencana": [
+        "Total beras",
+        "Jumlah paket",
+        "Uang penjualan"
+      ],
+      "rangkuman": "4 karung kali 25 kg jadi 100 kg. Dikemas 5 kg, jadi 20 paket. 20 paket kali Rp65.000, hasilnya Rp1.300.000.",
+      "ilustrasi": "tka26-mtk-16-ilustrasi.png"
+    },
+    {
+      "id": "tka26-mtk-17",
+      "no": 17,
+      "title": "Pisang Bu Rini",
+      "tipe": "pg",
+      "soal": "Hari ini Bu Rini membeli dua sisir pisang yang berisi 20 buah pisang. Ternyata setelah beberapa hari Bu Rini lupa bahwa ia telah membeli pisang. Akhirnya beberapa pisang tersebut menjadi busuk. Bu Rini menghitung ada sisa 14 buah pisang yang masih baik kondisinya. Berapakah banyak buah pisang yang busuk?",
+      "opsi": [
+        "16 buah",
+        "14 buah",
+        "6 buah",
+        "4 buah"
+      ],
+      "jawaban": "C",
+      "gambar": "",
+      "ringkasan": {
+        "diketahui": [
+          {
+            "teks": "Dua sisir berisi <b>20 buah</b>",
+            "warna": "#8D6E63"
+          },
+          {
+            "teks": "Yang masih baik <b>14 buah</b>",
+            "warna": "#E53935"
+          }
+        ],
+        "ditanya": "Berapa pisang yang <b>busuk</b>?"
+      },
+      "visual": "tka26-mtk-17-bahas.svg",
+      "langkah": [
+        {
+          "teks": "Bu Rini membeli dua sisir pisang. Isi kedua sisir itu ada <b data-k=\"0\">20 buah</b>. Angka 20 adalah jumlah semuanya, bukan isi tiap sisir.",
+          "cara": "Total = 20",
+          "hasil": "20 buah",
+          "sorot": [
+            "dua sisir pisang yang berisi 20 buah pisang"
+          ]
+        },
+        {
+          "tanya": "Sisa 14 buah itu pisang yang busuk atau yang masih baik?",
+          "ingat": "Total = yang baik + yang busuk",
+          "teks": "Tadi total pisang 20 buah. Dari situ, yang masih baik <b data-k=\"1\">14 buah</b>. Sisanya yang busuk, jadi dikurangi: 20 − 14 = <b>6 buah</b>.",
+          "cara": "20 − 14",
+          "hasil": "6 buah",
+          "sorot": [
+            "sisa 14 buah pisang yang masih baik kondisinya"
+          ]
+        }
+      ],
+      "kunci": "Pisang busuk adalah yang <b>tidak baik</b>, jadi hitung <b>total dikurangi yang baik</b>. Angka 14 itu pisang yang masih baik, bukan yang busuk.",
+      "rencana": [
+        "Cari total pisang",
+        "Kurangi yang baik"
+      ],
+      "rangkuman": "Total pisang ada 20 buah. Yang masih baik 14 buah. Jadi yang busuk 20 dikurangi 14, yaitu 6 buah.",
+      "ilustrasi": "tka26-mtk-17-ilustrasi.png"
+    },
+    {
+      "id": "tka26-mtk-18",
+      "no": 18,
+      "title": "Buku Siska dalam Kotak",
+      "tipe": "pgk",
+      "soal": "Siska sedang merapikan koleksi buku ceritanya ke dalam rak. Siska ingin membagi buku-buku tersebut ke dalam beberapa kotak kecil terlebih dahulu. Setiap kotak harus diisi tepat 8 buku agar rapi dan tidak ada buku yang tersisa. Mana sajakah yang menunjukkan jumlah total buku yang mungkin dimiliki oleh Siska? Pilih semua jawaban yang benar!",
+      "opsi": [
+        "24 buku",
+        "44 buku",
+        "56 buku"
+      ],
+      "jawaban": [
+        "A",
+        "C"
+      ],
+      "gambar": "",
+      "ringkasan": {
+        "diketahui": [
+          {
+            "teks": "Tiap kotak diisi tepat <b>8 buku</b>",
+            "warna": "#8D6E63"
+          },
+          {
+            "teks": "Tidak ada buku yang <b>tersisa</b>",
+            "warna": "#E53935"
+          },
+          {
+            "teks": "Pilihan jumlah buku: <b>24, 44, 56</b>",
+            "warna": "#1E88E5"
+          }
+        ],
+        "ditanya": "Jumlah buku mana yang <b>mungkin</b> dimiliki Siska?"
+      },
+      "visual": "tka26-mtk-18-bahas.svg",
+      "langkah": [
+        {
+          "tanya": "Tiap kotak diisi tepat 8 buku dan tidak ada sisa. Apakah jumlah buku Siska boleh sembarang angka?",
+          "ingat": "Habis dibagi artinya pembagian tanpa sisa",
+          "teks": "Tidak boleh! Semua buku harus masuk ke kotak yang <b data-k=\"0\">berisi 8</b>, dan <b data-k=\"1\">tidak ada yang tersisa</b>. Jadi jumlah bukunya harus <b>habis dibagi 8</b>. Caranya: bagi tiap pilihan dengan 8, lalu lihat ada sisa atau tidak.",
+          "cara": "Jumlah ÷ 8",
+          "hasil": "Kelipatan 8",
+          "sorot": [
+            "tepat 8 buku",
+            "tidak ada buku yang tersisa"
+          ]
+        },
+        {
+          "teks": "Tadi syaratnya: habis dibagi 8. Kita coba <b data-k=\"2\">24 buku</b> dulu. 8, 16, 24. Ada <b>3 kotak</b> penuh dan tidak ada sisa. Jadi 24 mungkin.",
+          "cara": "24 ÷ 8",
+          "hasil": "24 ✓",
+          "sorot": [
+            "jumlah total buku yang mungkin"
+          ]
+        },
+        {
+          "tanya": "Kalau ada 44 buku, apakah semuanya bisa masuk kotak berisi 8?",
+          "teks": "Kita bagi <b data-k=\"2\">44</b> dengan 8. Ada 5 kotak penuh: 5 × 8 = 40 buku. Masih ada 44 − 40 = <b>4 buku</b> yang belum masuk kotak penuh. Jadi 44 tidak mungkin.",
+          "cara": "44 ÷ 8",
+          "hasil": "44 ✗",
+          "sorot": [
+            "tidak ada buku yang tersisa"
+          ]
+        },
+        {
+          "teks": "Tadi 44 gagal karena bersisa 4. Sekarang coba <b data-k=\"2\">56 buku</b>. 7 kotak berisi 7 × 8 = 56 buku, pas tanpa sisa. Jadi 56 mungkin.",
+          "cara": "56 ÷ 8",
+          "hasil": "56 ✓",
+          "sorot": [
+            "tepat 8 buku"
+          ]
+        }
+      ],
+      "kunci": "Kalau tiap kotak harus diisi <b>tepat 8</b> dan <b>tanpa sisa</b>, jumlah bukunya harus <b>habis dibagi 8</b>. Bagi tiap pilihan dengan 8, lalu lihat ada sisa atau tidak.",
+      "rencana": [
+        "Pahami syaratnya",
+        "Cek 24 buku",
+        "Cek 44 buku",
+        "Cek 56 buku"
+      ],
+      "rangkuman": "Jumlah buku harus habis dibagi 8. 24 ÷ 8 = 3 dan 56 ÷ 8 = 7, tanpa sisa. 44 ÷ 8 = 5 sisa 4, jadi tidak bisa. Jawabannya 24 dan 56.",
+      "ilustrasi": "tka26-mtk-18-ilustrasi.png"
+    },
+    {
+      "id": "tka26-mtk-19",
+      "no": 19,
+      "title": "Mengemas Sayur ke Wadah",
+      "tipe": "bs",
+      "soal": "Seorang petani memanen bayam 36 ikat, kangkung 27 ikat, dan kacang panjang 45 ikat. Semua sayur akan dikemas ke wadah sebanyak-banyaknya. Setiap wadah berisi ketiga jenis sayur, dan jumlah tiap jenis sayur di setiap wadah sama. Tentukan Benar atau Salah!",
+      "opsi": [
+        "Petani sayur dapat membuat 10 wadah.",
+        "Setiap wadah berisi 4 ikat bayam.",
+        "Setiap wadah berisi 3 ikat kacang panjang."
+      ],
+      "jawaban": [
+        "S",
+        "B",
+        "S"
+      ],
+      "gambar": "",
+      "ringkasan": {
+        "diketahui": [
+          {
+            "teks": "Bayam <b>36 ikat</b>",
+            "warna": "#2E7D32"
+          },
+          {
+            "teks": "Kangkung <b>27 ikat</b>",
+            "warna": "#00897B"
+          },
+          {
+            "teks": "Kacang panjang <b>45 ikat</b>",
+            "warna": "#EF6C00"
+          }
+        ],
+        "ditanya": "Berapa wadah, dan isi tiap wadah?"
+      },
+      "visual": "tka26-mtk-19-bahas.svg",
+      "langkah": [
+        {
+          "tanya": "Dibagi rata ke wadah sebanyak-banyaknya, tanpa sisa. Kita cari FPB atau KPK?",
+          "ingat": "FPB = faktor terbesar yang sama. KPK = kelipatan terkecil yang sama",
+          "teks": "FPB! Faktor terbesar yang membagi habis 36, 27, dan 45 adalah <b>9</b>. Jadi <b>9 wadah</b>, bukan 10. Pernyataan 1 salah.",
+          "cara": "FPB(36, 27, 45)",
+          "hasil": "9 wadah",
+          "pernyataan": 1,
+          "sorot": [
+            "wadah sebanyak-banyaknya"
+          ]
+        },
+        {
+          "teks": "Tadi 9 wadah. Bayam <b data-k=\"0\">36</b> ÷ 9 = <b data-k=\"0\">4 ikat</b> tiap wadah. Pernyataan 2 benar.",
+          "cara": "36 ÷ 9",
+          "hasil": "4 ikat",
+          "pernyataan": 2,
+          "sorot": [
+            "bayam 36 ikat"
+          ]
+        },
+        {
+          "teks": "Kacang panjang <b data-k=\"2\">45</b> ÷ 9 = <b data-k=\"2\">5 ikat</b>, bukan 3. Pernyataan 3 salah.",
+          "cara": "45 ÷ 9",
+          "hasil": "5 ikat",
+          "pernyataan": 3,
+          "sorot": [
+            "kacang panjang 45 ikat"
+          ]
+        }
+      ],
+      "kunci": "Kalau barang dibagi rata ke wadah <b>sebanyak-banyaknya</b> tanpa sisa, cari <b>FPB</b>.",
+      "rencana": [
+        "Cari FPB",
+        "Cek bayam",
+        "Cek kacang panjang"
+      ],
+      "rangkuman": "Sayur dibagi rata sebanyak-banyaknya, jadi pakai FPB: 9 wadah. Tiap wadah dapat 4 ikat bayam dan 5 ikat kacang panjang. Jadi Salah, Benar, Salah.",
+      "ilustrasi": "tka26-mtk-19-ilustrasi.png"
+    },
+    {
+      "id": "tka26-mtk-20",
+      "no": 20,
+      "title": "Madu Sama Besar",
+      "tipe": "pg",
+      "soal": "Empat peternak lebah di sebuah desa mengumpulkan hasil panen madu. Berat madu peternak A 0,8 kg, peternak B 12/15 kg, peternak C 8% kg, dan peternak D 4/25 kg. Keterangan: 8% kg artinya 8% dari 1 kg. Berdasarkan data tersebut, pasangan peternak yang mendapatkan berat madu sama besar adalah ….",
+      "opsi": [
+        "peternak A dan B",
+        "peternak B dan C",
+        "peternak A dan C",
+        "peternak B dan D"
+      ],
+      "jawaban": "A",
+      "gambar": "",
+      "ringkasan": {
+        "diketahui": [
+          {
+            "teks": "Peternak A <b>0,8 kg</b>",
+            "warna": "#1E88E5"
+          },
+          {
+            "teks": "Peternak B <b>12/15 kg</b>",
+            "warna": "#43A047"
+          },
+          {
+            "teks": "Peternak C <b>8% kg</b>",
+            "warna": "#E53935"
+          },
+          {
+            "teks": "Peternak D <b>4/25 kg</b>",
+            "warna": "#8E24AA"
+          }
+        ],
+        "ditanya": "Pasangan peternak dengan berat madu <b>sama besar</b>"
+      },
+      "visual": "tka26-mtk-20-bahas.svg",
+      "langkah": [
+        {
+          "tahap": 2,
+          "teks": "Bentuknya beda-beda, jadi samakan ke desimal. A sudah <b data-k=\"0\">0,8</b>. B: 12/15 = 4/5 = 8/10 = <b data-k=\"1\">0,8</b>.",
+          "cara": "12/15 = 4/5",
+          "hasil": "B = 0,8",
+          "sorot": [
+            "peternak A 0,8 kg",
+            "peternak B 12/15 kg"
+          ]
+        },
+        {
+          "tahap": 3,
+          "tanya": "8% kg itu 0,8 kg atau 0,08 kg?",
+          "ingat": "Persen artinya per seratus",
+          "teks": "8% = 8/100 = <b data-k=\"2\">0,08 kg</b>. Bukan 0,8, jadi C tidak sama dengan A.",
+          "cara": "8% = 8/100",
+          "hasil": "C = 0,08",
+          "sorot": [
+            "peternak C 8% kg"
+          ]
+        },
+        {
+          "tahap": 4,
+          "teks": "D: 4/25 = 16/100 = <b data-k=\"3\">0,16 kg</b>. Yang sama besar hanya A dan B, sama-sama <b>0,8 kg</b>.",
+          "cara": "4/25 = 0,16, C = 0,08",
+          "hasil": "A = B",
+          "sorot": [
+            "peternak D 4/25 kg"
+          ]
+        }
+      ],
+      "kunci": "Bandingkan bilangan dalam <b>bentuk yang sama</b>. Ubah pecahan dan persen ke desimal dulu, jangan menebak dari angkanya.",
+      "rencana": [
+        "Ubah B ke desimal",
+        "Ubah C ke desimal",
+        "Ubah D, bandingkan"
+      ],
+      "rangkuman": "Semua kita ubah ke desimal. A 0,8, B juga 0,8, C 0,08, dan D 0,16. Yang sama besar peternak A dan B.",
+      "ilustrasi": "tka26-mtk-20-ilustrasi.png"
+    },
+    {
+      "id": "tka26-mtk-25",
+      "no": 25,
+      "title": "Rumput Lapangan Desa",
+      "tipe": "pg",
+      "soal": "Kepala Desa Suka Maju berencana merenovasi lapangan desa. Lapangan itu berbentuk persegi panjang berukuran 20 m × 12 m, disambung dengan setengah lingkaran berdiameter 12 m di ujungnya. Kepala Desa ingin menanam rumput hijau di seluruh permukaan lapangan. Harga rumput per meter persegi adalah Rp25.000,00. Berapakah perkiraan biaya yang harus disiapkan? (π = 3,14)",
+      "opsi": [
+        "Rp6.000.000,00",
+        "Rp7.413.000,00",
+        "Rp8.420.000,00",
+        "Rp9.350.000,00"
+      ],
+      "jawaban": "B",
+      "gambar": "",
+      "ringkasan": {
+        "diketahui": [
+          {
+            "teks": "Persegi panjang <b>20 m × 12 m</b>",
+            "warna": "#1E88E5"
+          },
+          {
+            "teks": "Setengah lingkaran, diameter <b>12 m</b>",
+            "warna": "#8E24AA"
+          },
+          {
+            "teks": "Rumput <b>Rp25.000</b> per m²",
+            "warna": "#2E7D32"
+          }
+        ],
+        "ditanya": "Biaya rumput di <b>seluruh lapangan</b>"
+      },
+      "visual": "tka26-mtk-25-bahas.svg",
+      "langkah": [
+        {
+          "tahap": 1,
+          "teks": "Luas persegi panjang = <b data-k=\"0\">20 × 12</b> = <b data-k=\"0\">240 m²</b>.",
+          "cara": "20 × 12",
+          "hasil": "240 m²",
+          "sorot": [
+            "persegi panjang berukuran 20 m × 12 m"
+          ]
+        },
+        {
+          "tahap": 3,
+          "tanya": "Rumus luas lingkaran memakai jari-jari. Diameternya 12 m, jari-jarinya berapa?",
+          "ingat": "Jari-jari = setengah diameter",
+          "teks": "<b data-k=\"1\">6 m</b>. Luas setengah lingkaran = ½ × 3,14 × 6 × 6 = <b data-k=\"1\">56,52 m²</b>.",
+          "cara": "½ × 3,14 × 6 × 6",
+          "hasil": "56,52 m²",
+          "sorot": [
+            "setengah lingkaran berdiameter 12 m",
+            "π = 3,14"
+          ]
+        },
+        {
+          "tahap": 4,
+          "teks": "Total luas = 240 + 56,52 = 296,52 m². Biaya = 296,52 × <b data-k=\"2\">Rp25.000</b> = <b>Rp7.413.000</b>.",
+          "cara": "296,52 × Rp25.000",
+          "hasil": "Rp7.413.000",
+          "sorot": [
+            "Harga rumput per meter persegi adalah Rp25.000,00"
+          ]
+        }
+      ],
+      "kunci": "Luas gabungan = <b>jumlah</b> luas tiap bagian. Setengah lingkaran cuma <b>setengah</b>, dan rumusnya pakai <b>jari-jari</b>, bukan diameter.",
+      "rencana": [
+        "Luas persegi panjang",
+        "Luas ½ lingkaran",
+        "Total dan biaya"
+      ],
+      "rangkuman": "Luas persegi panjang 240 m², ditambah setengah lingkaran 56,52 m², jadi 296,52 m². Dikali Rp25.000, biayanya Rp7.413.000.",
+      "ilustrasi": "tka26-mtk-25-ilustrasi.png"
+    }
+  ]
+}
