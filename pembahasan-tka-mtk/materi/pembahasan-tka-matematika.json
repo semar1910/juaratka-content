@@ -79,7 +79,126 @@
         "Jumlahkan jam jalan"
       ],
       "rangkuman": "Bagian 1: kereta maju 120 km tiap jam, jadi 240 km butuh 2 jam dan tiba di Q pukul 20.30. Bagian 2: maju 80 km tiap jam, jadi 160 km butuh 2 jam. Total 4 jam, tiba di R pukul 22.30. Jadi Benar, Benar, Benar.",
-      "ilustrasi": "tka26-mtk-01-ilustrasi.png"
+      "ilustrasi": "tka26-mtk-01-ilustrasi.png",
+      "asahOtak": {
+        "hookTokoh": "Kereta ini tiba di stasiun R pukul berapa, ya?",
+        "aset": {
+          "cg1": "ao-01-cg1.png"
+        },
+        "adegan": [
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.35,
+                0.5,
+                1.0
+              ],
+              "ke": [
+                0.45,
+                0.48,
+                1.15
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Kereta berangkat pukul <b>18.30</b>. Jarak P ke R <b>400 km</b>."
+            },
+            "label": [
+              {
+                "teks": "Berangkat 18.30",
+                "warna": "biru",
+                "x": 0.55,
+                "y": 0.5
+              },
+              {
+                "teks": "P→R 400 km",
+                "warna": "oranye",
+                "x": 0.82,
+                "y": 0.45
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.45,
+                0.48,
+                1.15
+              ],
+              "ke": [
+                0.65,
+                0.5,
+                1.25
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Mula-mula melaju <b>120 km/jam</b> sejauh <b>240 km</b> sampai Q."
+            },
+            "label": [
+              {
+                "teks": "120 km/jam",
+                "warna": "hijau",
+                "x": 0.6,
+                "y": 0.5
+              },
+              {
+                "teks": "P→Q 240 km",
+                "warna": "merah",
+                "x": 0.78,
+                "y": 0.55
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.65,
+                0.5,
+                1.25
+              ],
+              "ke": [
+                0.75,
+                0.45,
+                1.32
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Sisanya lebih pelan, <b>80 km/jam</b>. Singgah tidak dihitung, ya!"
+            },
+            "label": [
+              {
+                "teks": "Q→R 80 km/jam",
+                "warna": "ungu",
+                "x": 0.8,
+                "y": 0.42
+              }
+            ],
+            "efek": "zoom"
+          }
+        ],
+        "soal": "Kereta api berangkat pukul 18.30 dari stasiun P dan menempuh jarak 400 km sampai stasiun R. Awalnya kereta melaju dengan kecepatan rata-rata 120 km/jam sejauh 240 km sampai stasiun Q. Setelah singgah (waktu singgah tidak dihitung), kereta melanjutkan sisa perjalanan dengan kecepatan rata-rata 80 km/jam.",
+        "sorotSoal": [
+          "berangkat pukul 18.30",
+          "jarak 400 km",
+          "120 km/jam sejauh 240 km",
+          "waktu singgah tidak dihitung",
+          "80 km/jam"
+        ],
+        "pertanyaan": "Pukul berapa kereta tiba di stasiun R?",
+        "opsi": [
+          "20.30",
+          "21.30",
+          "22.30",
+          "23.30"
+        ],
+        "kunci": "C",
+        "alasan": "240 ÷ 120 = <b>2 jam</b>, lalu 160 ÷ 80 = <b>2 jam</b>. Total 4 jam, jadi tiba <b>22.30</b>."
+      }
     },
     {
       "id": "tka26-mtk-02",
@@ -153,7 +272,104 @@
         "Jumlahkan tingkat"
       ],
       "rangkuman": "Dari depan, tumpukan seperti tangga: 3, 2, dan 1 kubus. Ke belakang ada 2 baris. Tingkat bawah ada 6 kubus, tengah 4, atas 2. Jumlahnya 6 + 4 + 2 = 12 kubus, jawabannya B.",
-      "ilustrasi": "tka26-mtk-02-ilustrasi.png"
+      "ilustrasi": "tka26-mtk-02-ilustrasi.png",
+      "asahOtak": {
+        "hookTokoh": "Hitung kubusnya, jangan ada yang terlewat!",
+        "aset": {
+          "cg1": "ao-02-cg1.png"
+        },
+        "adegan": [
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.5,
+                0.5,
+                1.0
+              ],
+              "ke": [
+                0.5,
+                0.48,
+                1.15
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Nara menyusun kubus mainan sampai berbentuk <b>tangga</b>."
+            },
+            "label": [
+              {
+                "teks": "Seperti tangga",
+                "warna": "biru",
+                "x": 0.55,
+                "y": 0.5
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.5,
+                0.48,
+                1.15
+              ],
+              "ke": [
+                0.6,
+                0.45,
+                1.3
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Eh, ada kubus yang <b>tersembunyi</b> di belakang!"
+            },
+            "label": [
+              {
+                "teks": "Ada yang tersembunyi",
+                "warna": "merah",
+                "x": 0.62,
+                "y": 0.45
+              }
+            ],
+            "efek": "getar"
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.6,
+                0.45,
+                1.3
+              ],
+              "ke": [
+                0.5,
+                0.5,
+                1.1
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Semua kubusnya sama besar. Ada berapa semuanya, ya?"
+            },
+            "label": []
+          }
+        ],
+        "soal": "Gambar berikut menunjukkan tumpukan beberapa kubus berukuran sama.",
+        "gambarSoal": "tka26-mtk-02.png",
+        "sorotSoal": [
+          "kubus berukuran sama"
+        ],
+        "pertanyaan": "Berapa jumlah seluruh kubus dalam tumpukan itu?",
+        "opsi": [
+          "9 buah",
+          "12 buah",
+          "14 buah",
+          "16 buah"
+        ],
+        "kunci": "B",
+        "alasan": "Dari depan 3, 2, dan 1 kubus, ada <b>2 baris</b> ke belakang. 6 + 4 + 2 = <b>12 kubus</b>."
+      }
     },
     {
       "id": "tka26-mtk-05",
@@ -224,7 +440,116 @@
         "Cari kolom"
       ],
       "rangkuman": "Tabel punya tiga baris transportasi dan tujuh kolom hari. Kita ambil baris Trans Kota dan kolom Jumat. Pertemuannya 45.000 orang, jadi jawabannya D.",
-      "ilustrasi": "tka26-mtk-05-ilustrasi.png"
+      "ilustrasi": "tka26-mtk-05-ilustrasi.png",
+      "asahOtak": {
+        "hookTokoh": "Hari apa Trans Kota paling ramai, ya?",
+        "aset": {
+          "cg1": "ao-05-cg1.png"
+        },
+        "adegan": [
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.4,
+                0.45,
+                1.0
+              ],
+              "ke": [
+                0.35,
+                0.4,
+                1.15
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Di kota A ada <b>MRT</b> dan <b>LRT</b>, juga bus Trans Kota."
+            },
+            "label": [
+              {
+                "teks": "MRT",
+                "warna": "biru",
+                "x": 0.28,
+                "y": 0.32
+              },
+              {
+                "teks": "LRT",
+                "warna": "hijau",
+                "x": 0.55,
+                "y": 0.42
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.35,
+                0.4,
+                1.15
+              ],
+              "ke": [
+                0.65,
+                0.55,
+                1.25
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Nara mau naik <b>Trans Kota</b> hari <b>Jumat</b>."
+            },
+            "label": [
+              {
+                "teks": "Trans Kota",
+                "warna": "oranye",
+                "x": 0.72,
+                "y": 0.58
+              },
+              {
+                "teks": "Hari Jumat",
+                "warna": "ungu",
+                "x": 0.5,
+                "y": 0.2
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.65,
+                0.55,
+                1.25
+              ],
+              "ke": [
+                0.5,
+                0.5,
+                1.05
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Jumlah penumpangnya ada di tabel. Baca baris dan kolomnya baik-baik!"
+            },
+            "label": []
+          }
+        ],
+        "soal": "Kota A memiliki tiga jenis transportasi umum, yaitu MRT, LRT, dan Trans Kota. Berikut data jumlah penumpangnya dalam satu pekan.",
+        "gambarSoal": "tka26-mtk-05.png",
+        "sorotSoal": [
+          "MRT, LRT, dan Trans Kota",
+          "dalam satu pekan"
+        ],
+        "pertanyaan": "Berapa penumpang Trans Kota pada hari Jumat?",
+        "opsi": [
+          "14.000 orang",
+          "35.000 orang",
+          "40.000 orang",
+          "45.000 orang"
+        ],
+        "kunci": "D",
+        "alasan": "Lihat baris <b>Trans Kota</b>, lalu kolom <b>Jumat</b>. Angkanya <b>45.000 orang</b>."
+      }
     },
     {
       "id": "tka26-mtk-06",
@@ -297,7 +622,117 @@
         "Hitung lebar"
       ],
       "rangkuman": "28.000 cm³ itu baru 4 dari 5 bagian, jadi 1 bagian 7.000 cm³. Kotak penuh 5 bagian, 35.000 cm³. Lalu 35.000 dibagi 50 × 20, lebarnya 35 cm.",
-      "ilustrasi": "tka26-mtk-06-ilustrasi.png"
+      "ilustrasi": "tka26-mtk-06-ilustrasi.png",
+      "asahOtak": {
+        "hookTokoh": "Kotak beras Ibu lebarnya berapa, ya?",
+        "aset": {
+          "cg1": "ao-06-cg1.png"
+        },
+        "adegan": [
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.45,
+                0.5,
+                1.0
+              ],
+              "ke": [
+                0.5,
+                0.52,
+                1.15
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Kotak beras Ibu panjangnya <b>50 cm</b>, tingginya <b>20 cm</b>."
+            },
+            "label": [
+              {
+                "teks": "Panjang 50 cm",
+                "warna": "biru",
+                "x": 0.5,
+                "y": 0.62
+              },
+              {
+                "teks": "Tinggi 20 cm",
+                "warna": "hijau",
+                "x": 0.7,
+                "y": 0.5
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.5,
+                0.52,
+                1.15
+              ],
+              "ke": [
+                0.48,
+                0.45,
+                1.3
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Kotaknya baru terisi <b>4/5</b> bagian, isinya <b>28.000 cm³</b> beras."
+            },
+            "label": [
+              {
+                "teks": "Terisi 4/5",
+                "warna": "oranye",
+                "x": 0.5,
+                "y": 0.45
+              },
+              {
+                "teks": "Beras 28.000 cm³",
+                "warna": "merah",
+                "x": 0.38,
+                "y": 0.5
+              }
+            ],
+            "efek": "zoom"
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.48,
+                0.45,
+                1.3
+              ],
+              "ke": [
+                0.5,
+                0.5,
+                1.1
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Lebar kotaknya belum diketahui. Yuk, kita cari!"
+            },
+            "label": []
+          }
+        ],
+        "soal": "Ibu memiliki sebuah kotak penyimpanan beras berbentuk balok dengan panjang 50 cm dan tinggi 20 cm. Kotak tersebut telah terisi beras sebanyak 4/5 dari volume keseluruhan kotak. Beras yang ada dalam kotak tersebut sebanyak 28.000 cm³.",
+        "sorotSoal": [
+          "panjang 50 cm dan tinggi 20 cm",
+          "4/5 dari volume keseluruhan kotak",
+          "28.000 cm³"
+        ],
+        "pertanyaan": "Berapa lebar kotak beras itu?",
+        "opsi": [
+          "28 cm",
+          "30 cm",
+          "35 cm",
+          "40 cm"
+        ],
+        "kunci": "C",
+        "alasan": "Kotak penuh = 28.000 ÷ 4 × 5 = <b>35.000 cm³</b>. Lebar = 35.000 ÷ (50 × 20) = <b>35 cm</b>."
+      }
     },
     {
       "id": "tka26-mtk-07",
@@ -365,7 +800,112 @@
         "Bagi ke toples"
       ],
       "rangkuman": "Tepung 3 kg kita ubah jadi 3.000 gram. Diambil 800, tinggal 2.200 gram. Dibagi 200 gram per toples, jadi 11 toples.",
-      "ilustrasi": "tka26-mtk-07-ilustrasi.png"
+      "ilustrasi": "tka26-mtk-07-ilustrasi.png",
+      "asahOtak": {
+        "hookTokoh": "Ibu mau simpan tepung. Butuh berapa toples, ya?",
+        "aset": {
+          "cg1": "ao-07-cg1.png"
+        },
+        "adegan": [
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.3,
+                0.5,
+                1.0
+              ],
+              "ke": [
+                0.32,
+                0.5,
+                1.2
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Ibu baru beli tepung <b>3 kg</b> dari pasar."
+            },
+            "label": [
+              {
+                "teks": "Tepung 3 kg",
+                "warna": "emas",
+                "x": 0.28,
+                "y": 0.52
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.32,
+                0.5,
+                1.2
+              ],
+              "ke": [
+                0.5,
+                0.52,
+                1.25
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Sebanyak <b>800 gram</b> dipakai untuk kue bolu."
+            },
+            "label": [
+              {
+                "teks": "Dipakai 800 g",
+                "warna": "merah",
+                "x": 0.5,
+                "y": 0.55
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.5,
+                0.52,
+                1.25
+              ],
+              "ke": [
+                0.72,
+                0.5,
+                1.3
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Sisanya masuk toples. Satu toples muat <b>200 gram</b>."
+            },
+            "label": [
+              {
+                "teks": "1 toples 200 g",
+                "warna": "biru",
+                "x": 0.74,
+                "y": 0.5
+              }
+            ],
+            "efek": "zoom"
+          }
+        ],
+        "soal": "Ibu baru saja membeli sekantong besar tepung terigu seberat 3 kg dari pasar. Sesampainya di rumah, Ibu mengambil 800 gram tepung tersebut untuk membuat adonan kue bolu. Sisa tepung akan dimasukkan ke dalam beberapa toples kecil. Setiap toples kecil mampu menampung tepung seberat 200 gram.",
+        "sorotSoal": [
+          "seberat 3 kg",
+          "800 gram",
+          "menampung tepung seberat 200 gram"
+        ],
+        "pertanyaan": "Berapa toples kecil yang dibutuhkan untuk semua sisa tepung?",
+        "opsi": [
+          "11 toples",
+          "15 toples",
+          "19 toples",
+          "22 toples"
+        ],
+        "kunci": "A",
+        "alasan": "Sisa tepung 3.000 − 800 = <b>2.200 gram</b>. Lalu 2.200 ÷ 200 = <b>11 toples</b>."
+      }
     },
     {
       "id": "tka26-mtk-08",
@@ -437,7 +977,113 @@
         "Jumlahkan jarak"
       ],
       "rangkuman": "Anita melewati tiga jalan: 900 m, 2 km, dan 800 m. 2 km sama dengan 2.000 m. Jumlahnya 900 + 2.000 + 800 = 3.700 m, yaitu 3,7 km. Jawabannya C.",
-      "ilustrasi": "tka26-mtk-08-ilustrasi.png"
+      "ilustrasi": "tka26-mtk-08-ilustrasi.png",
+      "asahOtak": {
+        "hookTokoh": "Anita jalan sejauh apa ke sekolah, ya?",
+        "aset": {
+          "cg1": "ao-08-cg1.png"
+        },
+        "adegan": [
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.3,
+                0.5,
+                1.0
+              ],
+              "ke": [
+                0.25,
+                0.5,
+                1.15
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Anita berangkat dari <b>rumahnya</b> pagi-pagi."
+            },
+            "label": [
+              {
+                "teks": "Rumah Anita",
+                "warna": "biru",
+                "x": 0.2,
+                "y": 0.5
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.25,
+                0.5,
+                1.15
+              ],
+              "ke": [
+                0.72,
+                0.42,
+                1.2
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Ia menuju <b>sekolah</b> lewat beberapa ruas jalan."
+            },
+            "label": [
+              {
+                "teks": "Sekolah",
+                "warna": "hijau",
+                "x": 0.8,
+                "y": 0.38
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.72,
+                0.42,
+                1.2
+              ],
+              "ke": [
+                0.5,
+                0.48,
+                1.05
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Hati-hati, ada satuan <b>meter</b> dan <b>kilometer</b>!"
+            },
+            "label": [
+              {
+                "teks": "Ada meter (m)",
+                "warna": "oranye"
+              },
+              {
+                "teks": "Ada kilometer (km)",
+                "warna": "merah"
+              }
+            ],
+            "efek": "getar"
+          }
+        ],
+        "soal": "Anita berjalan dari rumahnya ke sekolah melalui jalan-jalan pada denah berikut.",
+        "gambarSoal": "tka26-mtk-08.png",
+        "sorotSoal": [
+          "dari rumahnya ke sekolah"
+        ],
+        "pertanyaan": "Berapa jarak yang ditempuh Anita?",
+        "opsi": [
+          "2,7 km",
+          "2,8 km",
+          "3,7 km",
+          "4,6 km"
+        ],
+        "kunci": "C",
+        "alasan": "Anita lewat 900 m + 2.000 m + 800 m = <b>3.700 m</b>, yaitu <b>3,7 km</b>."
+      }
     },
     {
       "id": "tka26-mtk-12",
@@ -496,7 +1142,112 @@
         "Bagi per desa"
       ],
       "rangkuman": "Kurir B membawa 144 paket, 64 sudah terkirim. Sisanya 80 paket. Dibagi 40 per desa, jadi 2 desa.",
-      "ilustrasi": "tka26-mtk-12-ilustrasi.png"
+      "ilustrasi": "tka26-mtk-12-ilustrasi.png",
+      "asahOtak": {
+        "hookTokoh": "Kurir B masih harus ke berapa desa, ya?",
+        "aset": {
+          "cg1": "ao-12-cg1.png"
+        },
+        "adegan": [
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.45,
+                0.45,
+                1.0
+              ],
+              "ke": [
+                0.5,
+                0.45,
+                1.2
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Kurir B membawa <b>144 paket</b> hari ini."
+            },
+            "label": [
+              {
+                "teks": "Bawa 144 paket",
+                "warna": "biru",
+                "x": 0.5,
+                "y": 0.45
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.5,
+                0.45,
+                1.2
+              ],
+              "ke": [
+                0.75,
+                0.45,
+                1.25
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Sebelum istirahat, <b>64 paket</b> sudah diantar ke satu desa."
+            },
+            "label": [
+              {
+                "teks": "Terkirim 64 paket",
+                "warna": "merah",
+                "x": 0.78,
+                "y": 0.45
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.75,
+                0.45,
+                1.25
+              ],
+              "ke": [
+                0.55,
+                0.5,
+                1.1
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Sisanya diantar <b>40 paket</b> untuk tiap desa."
+            },
+            "label": [
+              {
+                "teks": "40 paket/desa",
+                "warna": "hijau",
+                "x": 0.6,
+                "y": 0.5
+              }
+            ],
+            "efek": "zoom"
+          }
+        ],
+        "soal": "Kurir B membawa 144 paket. Sebelum jam istirahat, kurir B sudah mengirimkan 64 paket ke salah satu desa. Setelah istirahat, ia melanjutkan pengiriman masing-masing 40 paket ke beberapa desa.",
+        "sorotSoal": [
+          "144 paket",
+          "64 paket",
+          "masing-masing 40 paket"
+        ],
+        "pertanyaan": "Berapa desa yang didatangi kurir B setelah istirahat?",
+        "opsi": [
+          "1 desa",
+          "2 desa",
+          "3 desa",
+          "4 desa"
+        ],
+        "kunci": "B",
+        "alasan": "Sisa paket 144 − 64 = <b>80 paket</b>. Lalu 80 ÷ 40 = <b>2 desa</b>."
+      }
     },
     {
       "id": "tka26-mtk-13",
@@ -553,7 +1304,103 @@
         "Bagi per desa"
       ],
       "rangkuman": "Yang ditanya kurir A, jadi kita pakai 126 paket. Tiap desa menerima 21 paket. 126 dibagi 21 sama dengan 6, jadi 6 desa.",
-      "ilustrasi": "tka26-mtk-13-ilustrasi.png"
+      "ilustrasi": "tka26-mtk-13-ilustrasi.png",
+      "asahOtak": {
+        "hookTokoh": "Kurir A mampir ke berapa desa, ya?",
+        "aset": {
+          "cg1": "ao-13-cg1.png"
+        },
+        "adegan": [
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.45,
+                0.5,
+                1.0
+              ],
+              "ke": [
+                0.5,
+                0.5,
+                1.2
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Kurir A membawa <b>126 paket</b> pagi ini."
+            },
+            "label": [
+              {
+                "teks": "126 paket",
+                "warna": "biru",
+                "x": 0.5,
+                "y": 0.5
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.5,
+                0.5,
+                1.2
+              ],
+              "ke": [
+                0.72,
+                0.45,
+                1.25
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Tiap desa menerima <b>21 paket</b>, sama banyak."
+            },
+            "label": [
+              {
+                "teks": "21 paket/desa",
+                "warna": "hijau",
+                "x": 0.75,
+                "y": 0.45
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.72,
+                0.45,
+                1.25
+              ],
+              "ke": [
+                0.5,
+                0.5,
+                1.05
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Semua paket harus habis diantar. Ke berapa desa, ya?"
+            },
+            "label": []
+          }
+        ],
+        "soal": "Kurir A membawa 126 paket. Hari ini kurir A akan mengantar paket ke beberapa desa. Setiap desa menerima jumlah paket yang sama, yaitu 21 paket.",
+        "sorotSoal": [
+          "126 paket",
+          "21 paket"
+        ],
+        "pertanyaan": "Berapa desa yang didatangi kurir A?",
+        "opsi": [
+          "4 desa",
+          "5 desa",
+          "6 desa",
+          "7 desa"
+        ],
+        "kunci": "C",
+        "alasan": "126 ÷ 21 = <b>6</b>, jadi kurir A mendatangi <b>6 desa</b>."
+      }
     },
     {
       "id": "tka26-mtk-14",
@@ -625,7 +1472,118 @@
         "Cek a = 2"
       ],
       "rangkuman": "Kuncinya, cek a + 1 dulu. a ganjil lewat jalur tidak, hasilnya ganjil. a = 3 hasilnya 19. a = 2 lewat jalur ya, hasilnya 6, bukan 4. Jadi Benar, Benar, Salah.",
-      "ilustrasi": "tka26-mtk-14-ilustrasi.png"
+      "ilustrasi": "tka26-mtk-14-ilustrasi.png",
+      "asahOtak": {
+        "hookTokoh": "Kalau robot diberi angka 2, keluarnya berapa?",
+        "aset": {
+          "cg1": "ao-14-cg1.png"
+        },
+        "adegan": [
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.45,
+                0.55,
+                1.0
+              ],
+              "ke": [
+                0.45,
+                0.55,
+                1.2
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Robot ini selalu cek dulu: <b>a + 1 ganjil</b>?"
+            },
+            "label": [
+              {
+                "teks": "Cek a + 1",
+                "warna": "biru",
+                "x": 0.45,
+                "y": 0.55
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.4,
+                0.45,
+                1.1
+              ],
+              "ke": [
+                0.55,
+                0.45,
+                1.15
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Kalau ya, <b>10 − (a × 2)</b>. Kalau tidak, <b>10 + (a × 3)</b>."
+            },
+            "label": [
+              {
+                "teks": "Ya: 10 − (a × 2)",
+                "warna": "hijau",
+                "x": 0.3,
+                "y": 0.3
+              },
+              {
+                "teks": "Tidak: 10 + (a × 3)",
+                "warna": "merah",
+                "x": 0.72,
+                "y": 0.5
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.55,
+                0.45,
+                1.15
+              ],
+              "ke": [
+                0.45,
+                0.55,
+                1.3
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Sekarang Nara memasukkan <b>a = 2</b>."
+            },
+            "label": [
+              {
+                "teks": "a = 2",
+                "warna": "ungu",
+                "x": 0.45,
+                "y": 0.55
+              }
+            ],
+            "efek": "zoom"
+          }
+        ],
+        "soal": "Suatu program memiliki diagram proses berpikir: masukkan bilangan a, lalu periksa apakah (a + 1) bilangan ganjil. Jika ya, hasilnya 10 − (a × 2). Jika tidak, hasilnya 10 + (a × 3). Setelah itu hasil ditampilkan.",
+        "sorotSoal": [
+          "periksa apakah (a + 1) bilangan ganjil",
+          "Jika ya, hasilnya 10 − (a × 2)",
+          "Jika tidak, hasilnya 10 + (a × 3)"
+        ],
+        "pertanyaan": "Jika a = 2, berapa hasil yang ditampilkan?",
+        "opsi": [
+          "4",
+          "6",
+          "14",
+          "16"
+        ],
+        "kunci": "B",
+        "alasan": "a + 1 = <b>3</b>, ganjil, jadi lewat jalur ya: 10 − (2 × 2) = <b>6</b>."
+      }
     },
     {
       "id": "tka26-mtk-15",
@@ -690,7 +1648,109 @@
         "Jumlahkan"
       ],
       "rangkuman": "Perkalian dikerjakan lebih dulu. 3 × ¾ sama dengan 2¼. Lalu 2½ + 2¼ = 4¾.",
-      "ilustrasi": "tka26-mtk-15-ilustrasi.png"
+      "ilustrasi": "tka26-mtk-15-ilustrasi.png",
+      "asahOtak": {
+        "hookTokoh": "Ditambah dulu atau dikali dulu, hayo?",
+        "aset": {
+          "cg1": "ao-15-cg1.png"
+        },
+        "adegan": [
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.3,
+                0.5,
+                1.0
+              ],
+              "ke": [
+                0.3,
+                0.5,
+                1.2
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Di etalase ada <b>2½</b> loyang kue."
+            },
+            "label": [
+              {
+                "teks": "2½ loyang",
+                "warna": "emas",
+                "x": 0.3,
+                "y": 0.5
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.3,
+                0.5,
+                1.2
+              ],
+              "ke": [
+                0.7,
+                0.5,
+                1.25
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Lalu ada <b>3 piring</b>, tiap piring <b>¾</b> loyang."
+            },
+            "label": [
+              {
+                "teks": "3 piring",
+                "warna": "biru",
+                "x": 0.7,
+                "y": 0.55
+              },
+              {
+                "teks": "¾ loyang/piring",
+                "warna": "hijau",
+                "x": 0.72,
+                "y": 0.42
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.7,
+                0.5,
+                1.25
+              ],
+              "ke": [
+                0.5,
+                0.5,
+                1.05
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Ingat aturannya: kali dulu, baru tambah!"
+            },
+            "label": [],
+            "efek": "getar"
+          }
+        ],
+        "soal": "Hasil perhitungan dari 2½ + 3 × ¾ adalah ….",
+        "sorotSoal": [
+          "2½ + 3 × ¾"
+        ],
+        "pertanyaan": "Berapa hasil 2½ + 3 × ¾?",
+        "opsi": [
+          "4¾",
+          "4¼",
+          "3¼",
+          "2¼"
+        ],
+        "kunci": "A",
+        "alasan": "Kali dulu: 3 × ¾ = <b>2¼</b>. Lalu 2½ + 2¼ = <b>4¾</b>."
+      }
     },
     {
       "id": "tka26-mtk-16",
@@ -759,7 +1819,117 @@
         "Uang penjualan"
       ],
       "rangkuman": "4 karung kali 25 kg jadi 100 kg. Dikemas 5 kg, jadi 20 paket. 20 paket kali Rp65.000, hasilnya Rp1.300.000.",
-      "ilustrasi": "tka26-mtk-16-ilustrasi.png"
+      "ilustrasi": "tka26-mtk-16-ilustrasi.png",
+      "asahOtak": {
+        "hookTokoh": "Untung jualan beras ini berapa, ya?",
+        "aset": {
+          "cg1": "ao-16-cg1.png"
+        },
+        "adegan": [
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.25,
+                0.55,
+                1.0
+              ],
+              "ke": [
+                0.25,
+                0.55,
+                1.2
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Pedagang membeli <b>4 karung</b>, tiap karung <b>25 kg</b>."
+            },
+            "label": [
+              {
+                "teks": "4 karung",
+                "warna": "emas",
+                "x": 0.2,
+                "y": 0.5
+              },
+              {
+                "teks": "25 kg/karung",
+                "warna": "oranye",
+                "x": 0.32,
+                "y": 0.62
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.25,
+                0.55,
+                1.2
+              ],
+              "ke": [
+                0.62,
+                0.5,
+                1.25
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Dikemas paket <b>5 kg</b>, dijual <b>Rp65.000</b> per paket."
+            },
+            "label": [
+              {
+                "teks": "Paket 5 kg",
+                "warna": "biru",
+                "x": 0.55,
+                "y": 0.55
+              },
+              {
+                "teks": "Rp65.000/paket",
+                "warna": "hijau",
+                "x": 0.74,
+                "y": 0.45
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.62,
+                0.5,
+                1.25
+              ],
+              "ke": [
+                0.5,
+                0.5,
+                1.05
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Kalau semua paket laku, uangnya berapa?"
+            },
+            "label": []
+          }
+        ],
+        "soal": "Seorang pedagang membeli 4 karung beras. Setiap karung berisi 25 kg beras. Beras itu akan dikemas menjadi paket-paket kecil berisi 5 kg untuk dijual. Setiap paket dijual seharga Rp65.000,00.",
+        "sorotSoal": [
+          "4 karung beras",
+          "25 kg beras",
+          "paket-paket kecil berisi 5 kg",
+          "Rp65.000,00"
+        ],
+        "pertanyaan": "Berapa hasil penjualan seluruh paket beras?",
+        "opsi": [
+          "Rp975.000,00",
+          "Rp1.300.000,00",
+          "Rp1.425.000,00",
+          "Rp1.500.000,00"
+        ],
+        "kunci": "B",
+        "alasan": "4 × 25 = 100 kg, jadi <b>20 paket</b>. 20 × 65.000 = <b>Rp1.300.000</b>."
+      }
     },
     {
       "id": "tka26-mtk-17",
@@ -815,7 +1985,104 @@
         "Kurangi yang baik"
       ],
       "rangkuman": "Total pisang ada 20 buah. Yang masih baik 14 buah. Jadi yang busuk 20 dikurangi 14, yaitu 6 buah.",
-      "ilustrasi": "tka26-mtk-17-ilustrasi.png"
+      "ilustrasi": "tka26-mtk-17-ilustrasi.png",
+      "asahOtak": {
+        "hookTokoh": "Ups, pisangnya ada yang busuk!",
+        "aset": {
+          "cg1": "ao-17-cg1.png"
+        },
+        "adegan": [
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.45,
+                0.5,
+                1.0
+              ],
+              "ke": [
+                0.45,
+                0.5,
+                1.2
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Bu Rini membeli pisang, isinya <b>20 buah</b>."
+            },
+            "label": [
+              {
+                "teks": "20 buah pisang",
+                "warna": "emas",
+                "x": 0.45,
+                "y": 0.5
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.45,
+                0.5,
+                1.2
+              ],
+              "ke": [
+                0.3,
+                0.55,
+                1.3
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Beberapa hari kemudian, yang masih bagus tinggal <b>14 buah</b>."
+            },
+            "label": [
+              {
+                "teks": "Masih baik 14",
+                "warna": "hijau",
+                "x": 0.3,
+                "y": 0.55
+              }
+            ],
+            "efek": "getar"
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.3,
+                0.55,
+                1.3
+              ],
+              "ke": [
+                0.65,
+                0.55,
+                1.2
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Sisanya busuk. Ada berapa, ya?"
+            },
+            "label": []
+          }
+        ],
+        "soal": "Hari ini Bu Rini membeli dua sisir pisang yang berisi 20 buah pisang. Setelah beberapa hari, beberapa pisang menjadi busuk. Bu Rini menghitung ada sisa 14 buah pisang yang masih baik kondisinya.",
+        "sorotSoal": [
+          "20 buah pisang",
+          "sisa 14 buah pisang"
+        ],
+        "pertanyaan": "Berapa banyak pisang yang busuk?",
+        "opsi": [
+          "16 buah",
+          "14 buah",
+          "6 buah",
+          "4 buah"
+        ],
+        "kunci": "C",
+        "alasan": "Pisang busuk = 20 − 14 = <b>6 buah</b>."
+      }
     },
     {
       "id": "tka26-mtk-18",
@@ -897,7 +2164,104 @@
         "Cek 56 buku"
       ],
       "rangkuman": "Jumlah buku harus habis dibagi 8. 24 ÷ 8 = 3 dan 56 ÷ 8 = 7, tanpa sisa. 44 ÷ 8 = 5 sisa 4, jadi tidak bisa. Jawabannya 24 dan 56.",
-      "ilustrasi": "tka26-mtk-18-ilustrasi.png"
+      "ilustrasi": "tka26-mtk-18-ilustrasi.png",
+      "asahOtak": {
+        "hookTokoh": "Buku Siska ada berapa, coba tebak!",
+        "aset": {
+          "cg1": "ao-18-cg1.png"
+        },
+        "adegan": [
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.5,
+                0.55,
+                1.0
+              ],
+              "ke": [
+                0.55,
+                0.58,
+                1.2
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Siska memasukkan buku ke kotak. Tiap kotak <b>8 buku</b>."
+            },
+            "label": [
+              {
+                "teks": "8 buku/kotak",
+                "warna": "biru",
+                "x": 0.55,
+                "y": 0.6
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.55,
+                0.58,
+                1.2
+              ],
+              "ke": [
+                0.3,
+                0.45,
+                1.2
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Dan <b>tidak boleh ada sisa</b>!"
+            },
+            "label": [
+              {
+                "teks": "Tanpa sisa",
+                "warna": "merah",
+                "x": 0.25,
+                "y": 0.45
+              }
+            ],
+            "efek": "getar"
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.3,
+                0.45,
+                1.2
+              ],
+              "ke": [
+                0.5,
+                0.5,
+                1.05
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Kira-kira, berapa jumlah buku Siska?"
+            },
+            "label": []
+          }
+        ],
+        "soal": "Siska membagi buku-buku ceritanya ke dalam beberapa kotak kecil. Setiap kotak harus diisi tepat 8 buku dan tidak ada buku yang tersisa.",
+        "sorotSoal": [
+          "tepat 8 buku",
+          "tidak ada buku yang tersisa"
+        ],
+        "pertanyaan": "Mana yang mungkin jumlah buku Siska?",
+        "opsi": [
+          "30 buku",
+          "44 buku",
+          "56 buku",
+          "60 buku"
+        ],
+        "kunci": "C",
+        "alasan": "Harus habis dibagi 8. 56 ÷ 8 = <b>7 kotak</b>, pas tanpa sisa."
+      }
     },
     {
       "id": "tka26-mtk-19",
@@ -972,7 +2336,119 @@
         "Cek kacang panjang"
       ],
       "rangkuman": "Sayur dibagi rata sebanyak-banyaknya, jadi pakai FPB: 9 wadah. Tiap wadah dapat 4 ikat bayam dan 5 ikat kacang panjang. Jadi Salah, Benar, Salah.",
-      "ilustrasi": "tka26-mtk-19-ilustrasi.png"
+      "ilustrasi": "tka26-mtk-19-ilustrasi.png",
+      "asahOtak": {
+        "hookTokoh": "Sayurnya muat di berapa wadah, ya?",
+        "aset": {
+          "cg1": "ao-19-cg1.png"
+        },
+        "adegan": [
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.35,
+                0.55,
+                1.0
+              ],
+              "ke": [
+                0.35,
+                0.55,
+                1.15
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Petani panen bayam <b>36 ikat</b> dan kangkung <b>27 ikat</b>."
+            },
+            "label": [
+              {
+                "teks": "Bayam 36 ikat",
+                "warna": "hijau",
+                "x": 0.2,
+                "y": 0.55
+              },
+              {
+                "teks": "Kangkung 27 ikat",
+                "warna": "biru",
+                "x": 0.5,
+                "y": 0.55
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.35,
+                0.55,
+                1.15
+              ],
+              "ke": [
+                0.72,
+                0.55,
+                1.2
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Ada juga kacang panjang <b>45 ikat</b>."
+            },
+            "label": [
+              {
+                "teks": "Kacang panjang 45",
+                "warna": "oranye",
+                "x": 0.8,
+                "y": 0.55
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.72,
+                0.55,
+                1.2
+              ],
+              "ke": [
+                0.5,
+                0.6,
+                1.1
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Dikemas ke wadah <b>sebanyak-banyaknya</b>, isinya sama."
+            },
+            "label": [
+              {
+                "teks": "Isi tiap wadah sama",
+                "warna": "ungu",
+                "x": 0.5,
+                "y": 0.62
+              }
+            ],
+            "efek": "zoom"
+          }
+        ],
+        "soal": "Seorang petani memanen bayam 36 ikat, kangkung 27 ikat, dan kacang panjang 45 ikat. Semua sayur akan dikemas ke wadah sebanyak-banyaknya. Setiap wadah berisi ketiga jenis sayur, dan jumlah tiap jenis sayur di setiap wadah sama.",
+        "sorotSoal": [
+          "bayam 36 ikat",
+          "kangkung 27 ikat",
+          "kacang panjang 45 ikat",
+          "wadah sebanyak-banyaknya"
+        ],
+        "pertanyaan": "Paling banyak berapa wadah yang bisa dibuat?",
+        "opsi": [
+          "3 wadah",
+          "9 wadah",
+          "10 wadah",
+          "12 wadah"
+        ],
+        "kunci": "B",
+        "alasan": "FPB dari 36, 27, dan 45 adalah <b>9</b>, jadi <b>9 wadah</b>."
+      }
     },
     {
       "id": "tka26-mtk-20",
@@ -1049,7 +2525,118 @@
         "Ubah D, bandingkan"
       ],
       "rangkuman": "Semua kita ubah ke desimal. A 0,8, B juga 0,8, C 0,08, dan D 0,16. Yang sama besar peternak A dan B.",
-      "ilustrasi": "tka26-mtk-20-ilustrasi.png"
+      "ilustrasi": "tka26-mtk-20-ilustrasi.png",
+      "asahOtak": {
+        "hookTokoh": "Madu siapa yang sama berat, ya?",
+        "aset": {
+          "cg1": "ao-20-cg1.png"
+        },
+        "adegan": [
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.3,
+                0.55,
+                1.0
+              ],
+              "ke": [
+                0.3,
+                0.55,
+                1.15
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Madu peternak A <b>0,8 kg</b>, peternak B <b>12/15 kg</b>."
+            },
+            "label": [
+              {
+                "teks": "A: 0,8 kg",
+                "warna": "emas",
+                "x": 0.2,
+                "y": 0.55
+              },
+              {
+                "teks": "B: 12/15 kg",
+                "warna": "oranye",
+                "x": 0.4,
+                "y": 0.55
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.3,
+                0.55,
+                1.15
+              ],
+              "ke": [
+                0.7,
+                0.55,
+                1.15
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Peternak C <b>8% kg</b>, peternak D <b>4/25 kg</b>."
+            },
+            "label": [
+              {
+                "teks": "C: 8% kg",
+                "warna": "biru",
+                "x": 0.6,
+                "y": 0.55
+              },
+              {
+                "teks": "D: 4/25 kg",
+                "warna": "hijau",
+                "x": 0.8,
+                "y": 0.55
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.7,
+                0.55,
+                1.15
+              ],
+              "ke": [
+                0.5,
+                0.5,
+                1.05
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Bentuknya beda-beda. Mana yang sama besar?"
+            },
+            "label": [],
+            "efek": "zoom"
+          }
+        ],
+        "soal": "Empat peternak lebah di sebuah desa mengumpulkan hasil panen madu. Berat madu peternak A 0,8 kg, peternak B 12/15 kg, peternak C 8% kg, dan peternak D 4/25 kg. Keterangan: 8% kg artinya 8% dari 1 kg.",
+        "sorotSoal": [
+          "peternak A 0,8 kg",
+          "peternak B 12/15 kg",
+          "peternak C 8% kg",
+          "peternak D 4/25 kg"
+        ],
+        "pertanyaan": "Pasangan peternak mana yang madunya sama berat?",
+        "opsi": [
+          "A dan B",
+          "B dan C",
+          "A dan C",
+          "B dan D"
+        ],
+        "kunci": "A",
+        "alasan": "Ubah ke desimal: A <b>0,8</b>, B 12/15 = <b>0,8</b>, C 0,08, D 0,16."
+      }
     },
     {
       "id": "tka26-mtk-25",
@@ -1122,7 +2709,112 @@
         "Total dan biaya"
       ],
       "rangkuman": "Luas persegi panjang 240 m², ditambah setengah lingkaran 56,52 m², jadi 296,52 m². Dikali Rp25.000, biayanya Rp7.413.000.",
-      "ilustrasi": "tka26-mtk-25-ilustrasi.png"
+      "ilustrasi": "tka26-mtk-25-ilustrasi.png",
+      "asahOtak": {
+        "hookTokoh": "Biaya rumput lapangan ini berapa, ya?",
+        "aset": {
+          "cg1": "ao-25-cg1.png"
+        },
+        "adegan": [
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.4,
+                0.5,
+                1.0
+              ],
+              "ke": [
+                0.38,
+                0.5,
+                1.15
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Lapangannya persegi panjang <b>20 m × 12 m</b>."
+            },
+            "label": [
+              {
+                "teks": "20 m × 12 m",
+                "warna": "hijau",
+                "x": 0.38,
+                "y": 0.5
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.38,
+                0.5,
+                1.15
+              ],
+              "ke": [
+                0.7,
+                0.5,
+                1.25
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Ujungnya setengah lingkaran, diameternya <b>12 m</b>."
+            },
+            "label": [
+              {
+                "teks": "Diameter 12 m",
+                "warna": "biru",
+                "x": 0.72,
+                "y": 0.5
+              }
+            ]
+          },
+          {
+            "cg": "cg1",
+            "kamera": {
+              "dari": [
+                0.7,
+                0.5,
+                1.25
+              ],
+              "ke": [
+                0.5,
+                0.58,
+                1.15
+              ]
+            },
+            "dialog": {
+              "oleh": "maskot",
+              "teks": "Harga rumputnya <b>Rp25.000</b> per meter persegi."
+            },
+            "label": [
+              {
+                "teks": "Rp25.000/m²",
+                "warna": "emas",
+                "x": 0.5,
+                "y": 0.62
+              }
+            ],
+            "efek": "zoom"
+          }
+        ],
+        "soal": "Kepala Desa Suka Maju berencana merenovasi lapangan desa. Lapangan itu berbentuk persegi panjang berukuran 20 m × 12 m, disambung dengan setengah lingkaran berdiameter 12 m di ujungnya. Kepala Desa ingin menanam rumput hijau di seluruh permukaan lapangan. Harga rumput per meter persegi adalah Rp25.000,00. (π = 3,14)",
+        "sorotSoal": [
+          "persegi panjang berukuran 20 m × 12 m",
+          "setengah lingkaran berdiameter 12 m",
+          "Rp25.000,00"
+        ],
+        "pertanyaan": "Berapa perkiraan biaya menanam rumput?",
+        "opsi": [
+          "Rp6.000.000,00",
+          "Rp7.413.000,00",
+          "Rp8.420.000,00",
+          "Rp9.350.000,00"
+        ],
+        "kunci": "B",
+        "alasan": "Luas 240 + 56,52 = <b>296,52 m²</b>. Biaya × 25.000 = <b>Rp7.413.000</b>."
+      }
     }
   ]
 }
